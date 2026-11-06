@@ -40,17 +40,52 @@ h2{font:700 24px Newsreader,serif;margin:0 0 2px;border-top:3px solid var(--tx);
 .vacio{color:var(--mut);font-style:italic;font-size:14px}
 #destacado .grid{grid-template-columns:repeat(auto-fill,minmax(340px,1fr))}
 #destacado .item{border-left:4px solid var(--ac)}
+.buscar{max-width:1100px;margin:auto;padding:4px 18px 10px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.buscar input{flex:1 1 260px;font:15px Inter;padding:8px 12px;border-radius:10px;border:1px solid var(--lin);background:var(--card);color:var(--tx)}
+.buscar select{margin-left:0;flex:0 1 auto}
+.buscar button{font:600 14px Inter;padding:8px 14px;border-radius:10px;border:0;background:var(--ac);color:#fff;cursor:pointer}
+.buscar button.sec{background:transparent;color:var(--mut);border:1px solid var(--lin)}
+.res-h{font:700 22px Newsreader,serif;margin:18px 0 4px}.res-ed{font:600 13px Inter;letter-spacing:.08em;text-transform:uppercase;color:var(--mut);margin:22px 0 8px}
+.etq{display:inline-block;font:600 11.5px Inter;color:var(--ac);border:1px solid var(--lin);border-radius:999px;padding:1px 8px;margin-bottom:6px}
+mark{background:#f3d77a66;color:inherit;border-radius:3px}
+@media(max-width:600px){.buscar select{flex:1 1 45%}.buscar button{flex:1}}
 footer{max-width:1100px;margin:auto;padding:20px 18px 40px;color:var(--mut);font-size:13px}
 </style></head><body>
 <header><div class="top"><div class="marca"><div class="kick">Edición diaria</div><h1><img src="logo.svg" alt="" style="width:34px;height:34px;vertical-align:-5px;margin-right:10px">Novedades <span>y</span> noticias</h1><div class="desc">Lo más importante del día, por secciones, con enlace a cada fuente.</div></div><div id="fecha"></div>
-<select id="ed" aria-label="Edición"></select></div></header><nav id="nav"></nav>
+<select id="ed" aria-label="Edición" hidden></select></div></header><form class="buscar" id="fb" role="search"><input id="q" type="search" placeholder="Buscar en todas las ediciones…" aria-label="Buscar"><select id="fed" aria-label="Fecha"><option value="">Todas las fechas</option></select><select id="fsec" aria-label="Temática"><option value="">Todas las temáticas</option></select><button type="submit">Buscar</button><button type="button" class="sec" id="limpiar" hidden>Volver a la edición</button></form><nav id="nav"></nav>
 <main id="main"></main>
-<footer>Se actualiza todos los días a las 6 (hora de Argentina). Titulares y resúmenes breves con enlace a cada fuente.</footer>
+<footer>Se actualiza todos los días a las 6 (hora de Argentina). Titulares y resúmenes breves con enlace a cada fuente. Todas las ediciones quedan guardadas y se pueden buscar.</footer>
 <script>
 const esc=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const fmt=d=>new Date(d+'T12:00:00').toLocaleDateString('es-AR',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
 let SEC=[];
+const norm=s=>(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+let TODAS=null,ACTUAL=null;
+const card=(n,etq)=>`<article class="item">${etq?`<div class="etq">${esc(etq)}</div>`:''}<h3><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.titulo)}</a></h3><p>${esc(n.resumen)}</p><div class="meta"><span><b>${esc(n.fuente)}</b>${n.fecha?' · '+esc(n.fecha):''}${n.tema?' · '+esc(n.tema):''}</span><a class="btn" href="${esc(n.url)}" target="_blank" rel="noopener">Enlace ↗</a></div></article>`;
+async function buscar(e){
+  if(e)e.preventDefault();
+  const q=norm(document.getElementById('q').value.trim()),fe=document.getElementById('fed').value,fs=document.getElementById('fsec').value;
+  if(!q&&!fe&&!fs){volver();return;}
+  if(!TODAS) TODAS=await (await fetch('datos/busqueda.json',{cache:'no-store'})).json();
+  const pal=q.split(/\s+/).filter(Boolean);
+  const r=TODAS.filter(n=>(!fe||n.ed===fe)&&(!fs||n.sec===fs)&&pal.every(p=>norm(n.titulo+' '+n.resumen+' '+n.fuente+' '+n.tema).includes(p)));
+  const tit=Object.fromEntries(SEC.map(s=>[s.id,s.titulo]));
+  const grupos={};r.forEach(n=>(grupos[n.ed]=grupos[n.ed]||[]).push(n));
+  let h=`<div class="res-h">${r.length} resultado${r.length==1?'':'s'}</div>`;
+  if(!r.length) h+='<div class="vacio">No se encontraron notas con esos criterios.</div>';
+  for(const ed of Object.keys(grupos).sort().reverse()) h+=`<div class="res-ed">${fmt(ed)}</div><div class="grid">${grupos[ed].map(n=>card(n,tit[n.sec]||n.sec)).join('')}</div>`;
+  document.getElementById('nav').style.display='none';
+  document.getElementById('main').innerHTML=h;
+  document.getElementById('limpiar').hidden=false;
+}
+function volver(){
+  document.getElementById('q').value='';document.getElementById('fed').value='';document.getElementById('fsec').value='';
+  document.getElementById('limpiar').hidden=true;document.getElementById('nav').style.display='';
+  if(ACTUAL) cargar(ACTUAL);
+}
+
 async function cargar(f){
+  ACTUAL=f;
   const ed=await (await fetch('datos/ediciones/'+f+'.json',{cache:'no-store'})).json();
   document.getElementById('fecha').textContent=fmt(ed.fecha);
   const nav=[],html=[];
@@ -68,7 +103,11 @@ async function cargar(f){
   const idx=await (await fetch('datos/indice.json',{cache:'no-store'})).json();
   const sel=document.getElementById('ed');
   sel.innerHTML=idx.ediciones.map(f=>`<option value="${f}">${new Date(f+'T12:00:00').toLocaleDateString('es-AR',{day:'numeric',month:'short',year:'numeric'})}</option>`).join('');
-  sel.onchange=()=>cargar(sel.value);
+  sel.onchange=()=>{volver();cargar(sel.value);};
+  document.getElementById('fed').innerHTML+=idx.ediciones.map(f=>`<option value="${f}">${new Date(f+'T12:00:00').toLocaleDateString('es-AR',{day:'numeric',month:'short',year:'numeric'})}</option>`).join('');
+  document.getElementById('fsec').innerHTML+=SEC.map(s=>`<option value="${s.id}">${esc(s.titulo)}</option>`).join('');
+  document.getElementById('fb').onsubmit=buscar;
+  document.getElementById('limpiar').onclick=volver;
   if(idx.ediciones.length) cargar(idx.ediciones[0]);
 })();
 </script></body></html>
