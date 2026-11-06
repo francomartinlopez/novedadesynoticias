@@ -146,6 +146,14 @@
   ],
   "datos": [
    {
+    "titulo": "EE.UU. creó 165.000 empleos en octubre, muy por encima de lo esperado",
+    "resumen": "El desempleo bajó a 4,1% y se revisaron al alza agosto y septiembre; la medida amplia (U-6) subió a 7,9% y los salarios crecieron 3,1% anual.",
+    "fuente": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+    "fecha": "6 nov",
+    "tema": "Empleo EE.UU."
+   },
+   {
     "titulo": "REM del BCRA: inflación de 1,8% en octubre y crecimiento recortado a 0,7%",
     "resumen": "Las consultoras prevén 1,7% para noviembre, un dólar mayorista de $1.590 en diciembre y una contracción de 2,3% en el tercer trimestre. El INDEC publica el dato oficial el jueves 12.",
     "fuente": "Infobae",
@@ -160,14 +168,6 @@
     "url": "https://www.indec.gob.ar/ftp/cuadros/publicaciones/calendario_2sem2026.pdf",
     "fecha": "Calendario",
     "tema": "Argentina"
-   },
-   {
-    "titulo": "Cómo los demócratas ganaron el Congreso, en 12 gráficos",
-    "resumen": "Votantes de 18 a 29 años apoyaron a candidatos demócratas 72% a 25%, aunque fueron el 11% del electorado.",
-    "fuente": "Fortune",
-    "url": "https://fortune.com/2026/11/05/democratic-party-flip-senate-house-midterm-race-12-charts/",
-    "fecha": "5 nov",
-    "tema": "EE.UU."
    }
   ],
   "ideas": [
@@ -185,7 +185,7 @@
     "fuente": "FEE",
     "url": "https://fee.org/articles/the-ecbs-next-big-mistake/",
     "fecha": "4 nov",
-    "tema": "Política monetaria"
+    "tema": "Opinión"
    },
    {
     "titulo": "Brussels Eyes Europe's Savings",
@@ -193,7 +193,15 @@
     "fuente": "FEE",
     "url": "https://fee.org/articles/brussels-eyes-europes-savings/",
     "fecha": "3 nov",
-    "tema": "Unión Europea"
+    "tema": "Opinión"
+   },
+   {
+    "titulo": "Las preguntas que dominaron las reuniones del FMI y el Banco Mundial",
+    "resumen": "Repaso con miradas diversas: Dambisa Moyo advierte por la convergencia de inflación, deuda y riesgo geopolítico, e Isabella Weber, economista heterodoxa, sostiene que las democracias ignoran a su riesgo la crisis del costo de vida.",
+    "fuente": "Foro Económico Mundial",
+    "url": "https://www.weforum.org/stories/economic-growth/imf-world-bank-annual-meetings-economic-questions",
+    "fecha": "4 nov",
+    "tema": "Otras miradas"
    }
   ],
   "ciudad": [
