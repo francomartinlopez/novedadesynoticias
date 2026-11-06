@@ -178,6 +178,22 @@
     "url": "https://humanprogress.org/the-simon-abundance-index-2026/",
     "fecha": "jul",
     "tema": "Progreso"
+   },
+   {
+    "titulo": "The ECB's Next Big Mistake?",
+    "resumen": "Jake Scott analiza en FEE el próximo paso del Banco Central Europeo y advierte sobre sus riesgos.",
+    "fuente": "FEE",
+    "url": "https://fee.org/articles/the-ecbs-next-big-mistake/",
+    "fecha": "4 nov",
+    "tema": "Política monetaria"
+   },
+   {
+    "titulo": "Brussels Eyes Europe's Savings",
+    "resumen": "Cláudia Ascensão Nunes, en FEE, sobre los planes de Bruselas para movilizar el ahorro de los europeos.",
+    "fuente": "FEE",
+    "url": "https://fee.org/articles/brussels-eyes-europes-savings/",
+    "fecha": "3 nov",
+    "tema": "Unión Europea"
    }
   ],
   "ciudad": [
@@ -188,6 +204,22 @@
     "url": "https://www.archistar.ai/?p=39015",
     "fecha": "2026",
     "tema": "Vivienda"
+   },
+   {
+    "titulo": "From Golden State to Blackout State",
+    "resumen": "Wayne Winegarden y Kerry Jackson, en FEE, sobre la política energética de California y la confiabilidad de su red eléctrica.",
+    "fuente": "FEE",
+    "url": "https://fee.org/articles/from-golden-state-to-blackout-state/",
+    "fecha": "5 nov",
+    "tema": "Energía"
+   },
+   {
+    "titulo": "Guía de arquitectura de Brasilia: 17 obras para entender la capital",
+    "resumen": "Un recorrido por los proyectos que explican las escalas urbanas de la ciudad planificada por Lúcio Costa y Oscar Niemeyer.",
+    "fuente": "ArchDaily",
+    "url": "https://www.archdaily.com/995055/brasilia-architecture-guide-16-projects-to-understand-the-scale-of-the-brazilian-capital",
+    "fecha": "6 nov",
+    "tema": "Urbanismo"
    }
   ],
   "clima": [
@@ -206,6 +238,14 @@
     "url": "https://wmo.int/sites/default/files/2026-08/Factsheet-ENSO-Update-August-2026-en.pdf",
     "fecha": "ago",
     "tema": "El Niño"
+   },
+   {
+    "titulo": "Las emisiones trimestrales de CO₂ de China caen 3%, la mayor baja desde el Covid",
+    "resumen": "Análisis de Carbon Brief sobre el descenso de las emisiones chinas.",
+    "fuente": "Carbon Brief",
+    "url": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
+    "fecha": "6 nov",
+    "tema": "Emisiones"
    }
   ],
   "tecnologia": [
@@ -224,6 +264,14 @@
     "url": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/global-weekly-commentary",
     "fecha": "nov",
     "tema": "IA y mercados"
+   },
+   {
+    "titulo": "Meta advierte que el rechazo electoral a los centros de datos puede frenar la IA",
+    "resumen": "Tras las elecciones, la empresa señala que la oposición local a los data centers podría complicar su expansión.",
+    "fuente": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "fecha": "5 nov",
+    "tema": "IA"
    }
   ],
   "pensamiento": [
@@ -234,6 +282,22 @@
     "url": "https://sciencedaily.com/news/fossils_ruins/lost_treasures/",
     "fecha": "13 oct",
     "tema": "Paleontología"
+   },
+   {
+    "titulo": "Dientes de 400.000 años dan un giro a la evolución humana",
+    "resumen": "Proteínas de dientes antiguos sugieren que una especie considerada un callejón sin salida dejó rastros genéticos en los humanos actuales.",
+    "fuente": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261102202836.htm",
+    "fecha": "5 nov",
+    "tema": "Evolución"
+   },
+   {
+    "titulo": "Ondas cerebrales \"solitarias\" vinculadas a la pérdida de memoria",
+    "resumen": "Investigadores conectan la acumulación de proteínas del Alzheimer, ondas alteradas durante el sueño profundo y el deterioro de la memoria.",
+    "fuente": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
+    "fecha": "5 nov",
+    "tema": "Neurociencia"
    }
   ],
   "x": [
@@ -244,6 +308,22 @@
     "url": "https://www.parlamentario.com/2026/11/06/juan-ignacio-fernandez-llamo-a-votar-por-milei-en-2027-para-seguir-creciendo/",
     "fecha": "6 nov",
     "tema": "Argentina"
+   },
+   {
+    "titulo": "Bullrich celebró en X las medidas para pymes y se atribuyó la idea",
+    "resumen": "La senadora calificó de positivo el anuncio de Caputo y recordó que venía reclamando alivio para las empresas frente a los embargos.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/politica/2026/11/03/patricia-bullrich-celebro-el-anuncio-de-caputo-para-las-pequenas-empresas-y-se-atribuyo-la-idea/",
+    "fecha": "3 nov",
+    "tema": "Bullrich"
+   },
+   {
+    "titulo": "El posteo de Bullrich que tensó la relación con Economía",
+    "resumen": "Su mensaje en X (\"lo planteé durante mucho tiempo\") no cayó bien en el ministerio; Caputo respondió en la conferencia de FIEL defendiendo el liderazgo de Milei.",
+    "fuente": "DataClave",
+    "url": "https://www.dataclave.com.ar/poder/bullrich-desoyo-un-pedido-de-la-casa-rosada-y-profundizo-la-interna-con-el-sector-de-caputo_a6aec86bf0e9ec3bea8395aab",
+    "fecha": "5 nov",
+    "tema": "Interna oficialista"
    }
   ],
   "libros": [
@@ -262,6 +342,14 @@
     "url": "https://groveatlantic.com/books/category/history/",
     "fecha": "nov",
     "tema": "Historia"
+   },
+   {
+    "titulo": "China Miéville gana el Goldsmiths Prize 2026",
+    "resumen": "El premio británico a la ficción innovadora fue para el autor de ciencia ficción y fantasía.",
+    "fuente": "Literary Hub",
+    "url": "https://lithub.com/china-mieville-has-won-the-2026-goldsmiths-prize/",
+    "fecha": "nov",
+    "tema": "Premios"
    }
   ],
   "cine": [
@@ -279,6 +367,14 @@
     "fuente": "The Numbers",
     "url": "https://www.the-numbers.com/movies/release-schedule-changes/2026/08/17",
     "fecha": "nov",
+    "tema": "Estrenos"
+   },
+   {
+    "titulo": "Diego Luna estrena \"Ceniza en la boca\"",
+    "resumen": "Basada en la novela de Brenda Navarro, retrata el desarraigo, el abandono materno y la migración; es uno de los estrenos fuertes de noviembre.",
+    "fuente": "Expansión",
+    "url": "https://lifeandstyle.expansion.mx/noticias-cine-y-tv/2026/11/03/en-la-recta-final-estos-son-los-estrenos-de-cine-y-streaming-para-el-penultimo-mes-del-ano",
+    "fecha": "3 nov",
     "tema": "Estrenos"
    }
   ],
@@ -298,6 +394,22 @@
     "url": "https://www.ifema.es/construtec/noticias-sector/premios-arquitectura-2026",
     "fecha": "10-13 nov",
     "tema": "Eventos"
+   },
+   {
+    "titulo": "La Trienal de Arquitectura de Sharjah anuncia su programa de apertura",
+    "resumen": "La edición 2026 arranca con performances, películas y una conferencia.",
+    "fuente": "ArchDaily",
+    "url": "https://www.archdaily.com/1188119/sharjah-architecture-triennial-2026-announces-opening-programme-featuring-performances-films-and-conference",
+    "fecha": "5 nov",
+    "tema": "Arquitectura"
+   },
+   {
+    "titulo": "El nuevo San Siro de Milán y los 12 proyectos premiados de la BIAU",
+    "resumen": "Resumen semanal de ArchDaily con el estadio milanés y los ganadores de la Bienal Iberoamericana.",
+    "fuente": "ArchDaily",
+    "url": "https://www.archdaily.com/1188109/milans-new-san-siro-stadium-and-the-biaus-12-awarded-projects-this-weeks-review",
+    "fecha": "5 nov",
+    "tema": "Arquitectura"
    }
   ],
   "videos": [
