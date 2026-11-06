@@ -7,3 +7,6 @@ Formato de cada edición:
 {"fecha":"2026-11-07","secciones":{"argentina":[{"titulo":"…","resumen":"…","fuente":"…","url":"https://…","fecha":"2026-11-06","tema":"…"}]}}
 ```
 Las secciones están en `secciones.json`. La lista de cuentas de X prioritarias está en `cuentas-x.json` y la de canales de YouTube para la sección Videos, en `canales-youtube.json`.
+Los medios y sitios a revisar están en `fuentes.json`.
+
+Reglas de contenido: nada de farándula ni chismes sobre famosos; solo se incluyen personas famosas cuando hay una cuestión judicial importante, una muerte u otro hecho de relevancia pública real.
