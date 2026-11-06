@@ -9,7 +9,7 @@ Formato de cada edición:
 Las secciones están en `secciones.json`. La lista de cuentas de X prioritarias está en `cuentas-x.json` y la de canales de YouTube para la sección Videos, en `canales-youtube.json`.
 Los medios y sitios a revisar están en `fuentes.json`.
 
-Cantidad: cada sección lleva exactamente 3 o 6 notas (la grilla es de 3 columnas, así no quedan huecos). La sección Locales lleva siempre 6: 2 de Rosario, 2 de Córdoba, 1 de la Ciudad de Buenos Aires y 1 del Gran Buenos Aires (conurbano), en ese orden.
+Cantidad: cada sección lleva exactamente 3 o 6 notas (la grilla es de 3 columnas, así no quedan huecos). La sección Locales lleva siempre 6: 2 de Rosario, 2 de Córdoba, 1 de la Ciudad de Buenos Aires y 1 del Gran Buenos Aires (conurbano), en ese orden. La sección Clima local lleva siempre 6: 1 de Rosario, 1 de Córdoba, 1 del AMBA (CABA y Gran Buenos Aires) y 3 de Argentina en general.
 
 Reglas de contenido: nada de farándula ni chismes sobre famosos; solo se incluyen personas famosas cuando hay una cuestión judicial importante, una muerte u otro hecho de relevancia pública real.
 

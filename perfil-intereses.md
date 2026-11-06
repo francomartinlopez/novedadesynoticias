@@ -24,8 +24,10 @@ Lector: arquitecto y gerente operativo industrial, consultor en sistemas de gest
 **Datos**
 - Publicaciones estadísticas nuevas, bases de datos abiertas, visualizaciones, encuestas, metodología; ciencia de datos, aprendizaje automático y SIG aplicados a políticas públicas (Argentina, EE.UU. y global).
 
-**Clima y ambiente**
+**Clima y ambiente** (tres secciones: Clima local, Clima, tiempo y clima espacial —internacional— y Desastres naturales)
 - **Clima y tiempo:** clima de Argentina (alertas del SMN, olas de calor, sequías, inundaciones, ríos, pronósticos estacionales) y del mundo (eventos extremos, récords), El Niño/La Niña y climatología, política climática, mercados y ambiente.
+- **Clima local** (siempre 6): 1 de Rosario, 1 de Córdoba, 1 del AMBA (CABA y Gran Buenos Aires) y 3 de Argentina (alertas del SMN, calor, sequías, inundaciones, pronósticos).
+- **Desastres naturales:** terremotos, volcanes, tsunamis, huracanes, ciclones, tifones, tornados, inundaciones e incendios forestales grandes en el mundo.
 - **Clima espacial:** llamaradas solares, eyecciones de masa coronal, tormentas geomagnéticas, auroras y ciclo solar (NOAA SWPC, SpaceWeather.com). Va en la sección Clima y, si es muy relevante, en Lo más importante.
 
 **Ciencia** (sección propia)

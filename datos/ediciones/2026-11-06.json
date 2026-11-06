@@ -124,6 +124,56 @@
     "tema": "Gran Buenos Aires"
    }
   ],
+  "climalocal": [
+   {
+    "titulo": "Rosario: tormentas hoy, viento sur y fresco el sábado, sol el domingo",
+    "resumen": "Para hoy se esperan chubascos tormentosos (hasta 17 mm, 24°/16°); el sábado llega el viento del sur con ráfagas de hasta 49 km/h y el domingo será soleado con 20°/11°.",
+    "fuente": "Meteored",
+    "url": "https://www.meteored.com.ar/tiempo-en_Rosario-America+Sur-Argentina-Santa+Fe--1-13586.html",
+    "fecha": "6 nov",
+    "tema": "Rosario"
+   },
+   {
+    "titulo": "Córdoba: cómo estará el tiempo para la misa del Papa del martes",
+    "resumen": "El meteorólogo Marcelo Madelón anticipa un día sin lluvia, parcialmente nublado, de 15° a 28°, y recomienda protector solar y gorra; otros modelos no descartan chaparrones aislados.",
+    "fuente": "Perfil Córdoba",
+    "url": "https://www.perfil.com/cordoba/lleven-protector-solar-y-gorra-va-a-ser-un-dia-de-sol-que-dice-el-pronostico-para-la-visita-del-papa-aJqJ56u2oXGC",
+    "fecha": "nov",
+    "tema": "Córdoba"
+   },
+   {
+    "titulo": "AMBA: frente frío con lluvias y ráfagas, y mejora el domingo",
+    "resumen": "Entre hoy y el sábado puede haber lloviznas y ráfagas de hasta 60 km/h en la Ciudad y el conurbano; el domingo vuelve el sol con 9° de mínima y 21° de máxima.",
+    "fuente": "A24",
+    "url": "https://www.a24.com/actualidad/alerta-un-cambio-brusco-el-clima-del-amba-que-dice-el-pronostico-este-viernes-y-el-fin-semana-largo-n1613891",
+    "fecha": "6 nov",
+    "tema": "CABA y Gran Buenos Aires"
+   },
+   {
+    "titulo": "Calor, tormentas y viento Zonda: alertas del SMN en varias provincias",
+    "resumen": "Tras una semana de calor en gran parte del país, rigen alertas amarillas por tormentas fuertes en Salta, Formosa y Misiones y por Zonda en Cuyo.",
+    "fuente": "La Nación",
+    "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-lluvias-y-viento-zonda-para-este-jueves-5-de-noviembre-las-nid05112026/",
+    "fecha": "5 nov",
+    "tema": "Argentina"
+   },
+   {
+    "titulo": "Alerta naranja en Corrientes y Misiones: hasta 190 mm de lluvia",
+    "resumen": "El SMN advirtió por tormentas fuertes y algunas severas, con granizo, intensa actividad eléctrica y ráfagas de más de 90 km/h.",
+    "fuente": "El Cronista",
+    "url": "https://www.cronista.com/informacion-gral/alerta-naranja-por-tormentas-y-rafagas-de-90-kmh-en-dos-provincias-lluvias-acumuladas-de-190-mm-actividad-electrica-y-granizo/",
+    "fecha": "4 nov",
+    "tema": "Argentina"
+   },
+   {
+    "titulo": "Calor de más de 35° en el norte y un nuevo frente frío en el centro",
+    "resumen": "Las tormentas se desplazan hacia el NEA, con acumulados que podrían superar los 100 mm, mientras el centro del país tiene una mejora temporaria.",
+    "fuente": "MDZ",
+    "url": "https://www.mdzol.com/sociedad/2026/11/3/se-esperan-tormentas-en-gran-parte-del-pais-y-el-ingreso-de-un-nuevo-frente-frio-1992897.html",
+    "fecha": "3 nov",
+    "tema": "Argentina"
+   }
+  ],
   "eeuu": [
    {
     "titulo": "Cómo los demócratas dieron vuelta el Congreso, en 12 gráficos",
@@ -370,12 +420,38 @@
     "tema": "Clima espacial"
    },
    {
-    "titulo": "Calor, tormentas y viento Zonda: alertas del SMN en varias provincias",
-    "resumen": "Tras una semana de calor en gran parte del país, rigen alertas amarillas por tormentas fuertes en Salta, Formosa y Misiones y por Zonda en Cuyo.",
-    "fuente": "La Nación",
-    "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-lluvias-y-viento-zonda-para-este-jueves-5-de-noviembre-las-nid05112026/",
+    "titulo": "Ministra británica: la COP31 debe responder a una ciencia \"realmente aterradora\"",
+    "resumen": "Katie White, ministra de clima del Reino Unido, pide que la cumbre de Antalya esté a la altura de los últimos datos científicos.",
+    "fuente": "Carbon Brief",
+    "url": "https://www.carbonbrief.org/uk-climate-minister-katie-white-cop31-must-respond-to-really-scary-science",
+    "fecha": "3 nov",
+    "tema": "COP31"
+   }
+  ],
+  "desastres": [
+   {
+    "titulo": "Inundaciones históricas en Florida: muertos y evacuaciones",
+    "resumen": "Una baja presión descargó hasta 627 mm en la Costa Espacial entre el 1 y el 3 de noviembre; DeSantis declaró la emergencia en siete condados.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/estados-unidos/2026/11/04/inundaciones-historicas-en-florida-las-crecidas-repentinas-causaron-muertes-y-decenas-de-evacuaciones/",
+    "fecha": "4 nov",
+    "tema": "Inundaciones"
+   },
+   {
+    "titulo": "Volcanes activos: explosión en Sakurajima y avisos de ceniza en Indonesia y Kamchatka",
+    "resumen": "Resumen del 5 de noviembre: explosión en Sakurajima (Japón), actividad en Ibu y Bromo (Indonesia), aviso por Sheveluch y seguimiento de Fuego, Santiaguito y Popocatépetl.",
+    "fuente": "VolcanoDiscovery",
+    "url": "https://www.volcanodiscovery.com/volcano-activity/news/402222/Volcanic-activity-worldwide-5-Nov-2026-Santiaguito-volcano-Fuego-Popocatepetl-Bromo-Semeru-Sh.html",
     "fecha": "5 nov",
-    "tema": "Argentina"
+    "tema": "Volcanes"
+   },
+   {
+    "titulo": "Sismo de magnitud 5,2 frente a Puerto Rico",
+    "resumen": "El terremoto se registró a poca profundidad, 93 km al noreste de San Juan; el reporte mundial del día suma sismos en Tanzania, Xinjiang y Centroamérica.",
+    "fuente": "VolcanoDiscovery",
+    "url": "https://www.volcanodiscovery.com/earthquakes/news/402622/World-earthquake-report-for-6-Nov-2026.html",
+    "fecha": "5 nov",
+    "tema": "Terremotos"
    }
   ],
   "tecnologia": [

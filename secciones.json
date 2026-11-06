@@ -14,6 +14,11 @@
   "sub": "Rosario (2), Córdoba (2), Ciudad de Buenos Aires (1) y Gran Buenos Aires (1)"
  },
  {
+  "id": "climalocal",
+  "titulo": "Clima local",
+  "sub": "Rosario, Córdoba, Buenos Aires (CABA y Gran Buenos Aires) y Argentina"
+ },
+ {
   "id": "eeuu",
   "titulo": "Estados Unidos",
   "sub": "Política, elecciones y economía"
@@ -46,7 +51,12 @@
  {
   "id": "clima",
   "titulo": "Clima, tiempo y clima espacial",
-  "sub": "Argentina y el mundo, El Niño, ambiente y actividad solar"
+  "sub": "El mundo: clima, El Niño/La Niña, política climática y actividad solar"
+ },
+ {
+  "id": "desastres",
+  "titulo": "Desastres naturales",
+  "sub": "Terremotos, volcanes, tsunamis, huracanes, ciclones, tornados e inundaciones"
  },
  {
   "id": "tecnologia",
