@@ -56,6 +56,22 @@
     "url": "https://urgente24.com/actualidad/estudio-javier-milei-se-le-agota-el-aura-y-queda-atras-redes-sociales-n636284",
     "fecha": "6 nov",
     "tema": "Opinión pública"
+   },
+   {
+    "titulo": "Santa Fe: la reforma de seguridad de Pullaro obtuvo media sanción",
+    "resumen": "Diputados aprobó con amplio respaldo la ley impulsada por el gobernador; en paralelo ya es ley la obligación de mostrar a la policía el IMEI del celular.",
+    "fuente": "Rosario3",
+    "url": "https://www.rosario3.com/politica/despues-de-las-tensiones-hubo-acuerdo-en-unidos-y-sale-la-nueva-ley-de-seguridad-impulsada-por-pullaro-20261105-0038.html",
+    "fecha": "5 nov",
+    "tema": "Santa Fe"
+   },
+   {
+    "titulo": "Vuelo directo Rosario–Madrid: 5.400 pasajeros en el primer mes",
+    "resumen": "La nueva ruta internacional del aeropuerto de Rosario cerró su primer mes de operación.",
+    "fuente": "Rosario3",
+    "url": "https://www.rosario3.com/informaciongeneral/vuelo-directo-rosario-madrid-en-el-primer-mes-de-operaciones-viajaron-5.400-personas-20261105-0014.html",
+    "fecha": "5 nov",
+    "tema": "Rosario"
    }
   ],
   "eeuu": [
@@ -142,6 +158,22 @@
     "url": "https://www.chinadailyhk.com/article/641076",
     "fecha": "14 oct",
     "tema": "China"
+   },
+   {
+    "titulo": "Dólar: la brecha se mantiene baja pese al derrumbe de los bonos",
+    "resumen": "El mayorista cerró en $1.545,50, el MEP en $1.575,68 (brecha de 2%) y el contado con liquidación en $1.678,70; las acciones argentinas en Nueva York cayeron hasta 12,4%.",
+    "fuente": "Ámbito",
+    "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-viernes-6-noviembre-n6342234",
+    "fecha": "6 nov",
+    "tema": "Argentina"
+   },
+   {
+    "titulo": "Europa abre en rojo tras el peor día de Wall Street en 19 meses",
+    "resumen": "Con el VIX en 28 y el mercado asignando cerca de 80% de chance a una suba de tasas de la Fed, el Ibex y el euro quedaron pendientes del dato de empleo de EE.UU.",
+    "fuente": "Euribor.com.es",
+    "url": "https://www.euribor.com.es/2026/11/06/analisis-de-mercados-6-de-noviembre-de-2026-6-noviembre-2026/",
+    "fecha": "6 nov",
+    "tema": "Europa"
    }
   ],
   "datos": [
@@ -202,6 +234,22 @@
     "url": "https://www.weforum.org/stories/economic-growth/imf-world-bank-annual-meetings-economic-questions",
     "fecha": "4 nov",
     "tema": "Otras miradas"
+   },
+   {
+    "titulo": "Can Bond Vigilantes Prevent the Next Debt Crisis?",
+    "resumen": "Nouriel Roubini analiza qué factores podrían convertir el aumento de la deuda pública y de las tasas en un problema serio, con Francia y EE.UU. como casos.",
+    "fuente": "Project Syndicate",
+    "url": "https://www.project-syndicate.org/commentary/bond-vigilantes-sovereign-debt-crises-france-us-by-nouriel-roubini-2026-10",
+    "fecha": "29 oct",
+    "tema": "Opinión"
+   },
+   {
+    "titulo": "The New Geopolitics of Mining",
+    "resumen": "Ngaire Woods advierte que la carrera entre EE.UU. y China por los minerales críticos puede desestabilizar la política de los países productores, y pide ganar la confianza pública.",
+    "fuente": "Project Syndicate",
+    "url": "https://www.project-syndicate.org/commentary/governments-and-mining-companies-must-win-public-trust-to-extract-critical-minerals-by-ngaire-woods-2206-10",
+    "fecha": "29 oct",
+    "tema": "Opinión"
    }
   ],
   "ciudad": [
@@ -442,6 +490,22 @@
     "url": "https://www.archdaily.com/1188109/milans-new-san-siro-stadium-and-the-biaus-12-awarded-projects-this-weeks-review",
     "fecha": "5 nov",
     "tema": "Arquitectura"
+   },
+   {
+    "titulo": "Enmarcar la luz natural: cinco estrategias de iluminación en cabañas",
+    "resumen": "Un repaso de recursos de proyecto para llevar luz diurna a la arquitectura de pequeña escala.",
+    "fuente": "ArchDaily",
+    "url": "https://www.archdaily.com/1187986/framing-natural-light-five-daylighting-strategies-in-cabin-architecture",
+    "fecha": "5 nov",
+    "tema": "Iluminación"
+   },
+   {
+    "titulo": "Lo que la IA revela sobre la arquitectura que nunca se construyó",
+    "resumen": "Cómo las herramientas de inteligencia artificial permiten visualizar proyectos históricos que quedaron en papel.",
+    "fuente": "ArchDaily",
+    "url": "https://www.archdaily.com/1187519/what-ai-reveals-about-architecture-that-was-never-built",
+    "fecha": "5 nov",
+    "tema": "Arquitectura e IA"
    }
   ],
   "videos": [
