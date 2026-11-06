@@ -19,16 +19,16 @@
 :root{--bg:#f6f4ef;--card:#fff;--tx:#1d1d1b;--mut:#6b6a66;--lin:#e4e0d6;--ac:#b4372a}
 @media(prefers-color-scheme:dark){:root{--bg:#16171a;--card:#1f2024;--tx:#ecebe7;--mut:#9b9a95;--lin:#2e2f34;--ac:#e2705f}}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.5 Inter,system-ui,sans-serif}
-header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--lin)}
+header{background:var(--bg)}
 .top{max-width:1100px;margin:auto;padding:14px 18px 8px;display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
 h1{font:700 28px Newsreader,serif;margin:0}h1 span{color:var(--ac)}
 #fecha{color:var(--mut);font-size:14px}.marca{display:flex;flex-direction:column}.kick{font:600 12px Inter;letter-spacing:.16em;text-transform:uppercase;color:var(--ac);margin-bottom:4px}.desc{color:var(--mut);font-size:14.5px;margin-top:4px}
 select{margin-left:auto;font:14px Inter;padding:6px 8px;border-radius:8px;border:1px solid var(--lin);background:var(--card);color:var(--tx)}
-nav{max-width:1100px;margin:auto;padding:0 18px 10px;display:flex;gap:6px;overflow-x:auto;scrollbar-width:none}
+nav{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--lin);padding:8px max(18px,calc((100% - 1064px)/2));display:flex;gap:6px;overflow-x:auto;scrollbar-width:none}
 nav a{white-space:nowrap;font-size:13.5px;color:var(--tx);text-decoration:none;border:1px solid var(--lin);border-radius:999px;padding:4px 12px;background:var(--card)}
 nav a:hover{border-color:var(--ac)}
 main{max-width:1100px;margin:auto;padding:10px 18px 60px}
-section{margin-top:28px;scroll-margin-top:120px}
+section{margin-top:28px;scroll-margin-top:64px}@media(max-width:600px){.top h1{font-size:27px}.desc{font-size:14px}#ed{margin-left:0}nav a{font-size:14px;padding:6px 13px}}
 h2{font:700 24px Newsreader,serif;margin:0 0 2px;border-top:3px solid var(--tx);padding-top:8px}
 .sub{color:var(--mut);font-size:14px;margin-bottom:12px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
@@ -43,7 +43,7 @@ h2{font:700 24px Newsreader,serif;margin:0 0 2px;border-top:3px solid var(--tx);
 footer{max-width:1100px;margin:auto;padding:20px 18px 40px;color:var(--mut);font-size:13px}
 </style></head><body>
 <header><div class="top"><div class="marca"><div class="kick">Edición diaria</div><h1><img src="logo.svg" alt="" style="width:34px;height:34px;vertical-align:-5px;margin-right:10px">Novedades <span>y</span> noticias</h1><div class="desc">Lo más importante del día, por secciones, con enlace a cada fuente.</div></div><div id="fecha"></div>
-<select id="ed" aria-label="Edición"></select></div><nav id="nav"></nav></header>
+<select id="ed" aria-label="Edición"></select></div></header><nav id="nav"></nav>
 <main id="main"></main>
 <footer>Se actualiza todos los días a las 6 (hora de Argentina). Titulares y resúmenes breves con enlace a cada fuente.</footer>
 <script>
