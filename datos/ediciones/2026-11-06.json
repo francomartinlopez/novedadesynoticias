@@ -26,6 +26,14 @@
   ],
   "argentina": [
    {
+    "titulo": "León XIV parte rumbo al Río de la Plata y llega a la Argentina el domingo",
+    "resumen": "El Papa salió de Roma hacia Uruguay; el domingo 8 aterriza en Aeroparque, se reúne con Milei y habla por cadena nacional. Hasta el miércoles 11 visitará Buenos Aires, Córdoba y Luján.",
+    "fuente": "El Cronista",
+    "url": "https://www.cronista.com/informacion-gral/la-agenda-del-papa-leon-xiv-en-argentina-el-domingo-8-de-noviembre-llegada-encuentro-con-milei-y-palacio-libertad/",
+    "fecha": "6 nov",
+    "tema": "Sociedad"
+   },
+   {
     "titulo": "Demócratas ponen el foco en el rescate financiero a la Argentina",
     "resumen": "Con más poder en el Congreso de EE.UU., críticos del swap buscarían revisar el acuerdo y limitar nuevas asistencias.",
     "fuente": "El Tribuno",
@@ -58,6 +66,22 @@
     "url": "https://fortune.com/2026/11/05/democratic-party-flip-senate-house-midterm-race-12-charts/",
     "fecha": "5 nov",
     "tema": "Elecciones"
+   },
+   {
+    "titulo": "Con el Congreso en manos demócratas, Trump encara sus dos últimos años",
+    "resumen": "Analistas anticipan más órdenes ejecutivas y negociación forzada con el Congreso; entre las sorpresas, la derrota de la senadora republicana Susan Collins en Maine.",
+    "fuente": "KRCR / Sinclair",
+    "url": "https://krcrtv.com/news/nation-world/democrats-take-control-of-congress-as-trump-faces-new-challenges-to-america-first-agenda-blue-wave-midterm-elections-trump-administration-house-of-representatives-senate-capitol-hill-coton-snedecor-election-voting",
+    "fecha": "4 nov",
+    "tema": "Política"
+   },
+   {
+    "titulo": "Midterms: todavía quedan carreras por definir",
+    "resumen": "Faltan dos bancas del Senado (Mississippi y Alaska, muy parejas), dos gobernaciones y 48 escaños de la Cámara; más de 100 mujeres demócratas fueron electas.",
+    "fuente": "ABC News (Australia)",
+    "url": "https://www.abc.net.au/news/2026-11-05/us-midterm-elections-2026-live-updates/107257050",
+    "fecha": "5 nov",
+    "tema": "Elecciones"
    }
   ],
   "mundo": [
@@ -75,6 +99,14 @@
     "fuente": "NPR",
     "url": "https://www.npr.org/sections/world/",
     "fecha": "3 nov",
+    "tema": "Ucrania"
+   },
+   {
+    "titulo": "Ucrania acusa a Rusia de usar la tregua de Oleshky para reforzarse",
+    "resumen": "Según el Estado Mayor ucraniano, las tropas rusas rotaron unidades, fortificaron posiciones y repusieron municiones durante el alto el fuego humanitario que permitió evacuar a cerca de 800 civiles.",
+    "fuente": "Ukrainska Pravda",
+    "url": "https://www.pravda.com.ua/eng/news/2026/11/02/8060791/",
+    "fecha": "2 nov",
     "tema": "Ucrania"
    }
   ],
@@ -114,6 +146,14 @@
   ],
   "datos": [
    {
+    "titulo": "REM del BCRA: inflación de 1,8% en octubre y crecimiento recortado a 0,7%",
+    "resumen": "Las consultoras prevén 1,7% para noviembre, un dólar mayorista de $1.590 en diciembre y una contracción de 2,3% en el tercer trimestre. El INDEC publica el dato oficial el jueves 12.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/economia/2026/11/05/las-consultoras-que-releva-el-bcra-proyectaron-una-inflacion-de-18-para-octubre-que-preven-para-este-mes/",
+    "fecha": "5 nov",
+    "tema": "Argentina"
+   },
+   {
     "titulo": "Calendario del INDEC: el IPC de octubre se publica el 12 de noviembre",
     "resumen": "También salen en noviembre el comercio exterior, la capacidad instalada y el índice de salarios.",
     "fuente": "INDEC",
@@ -151,6 +191,14 @@
    }
   ],
   "clima": [
+   {
+    "titulo": "Arranca la COP31 en Antalya",
+    "resumen": "La cumbre climática de la ONU se hace del 9 al 20 de noviembre en Turquía, con presidencia turca y negociaciones a cargo de Australia.",
+    "fuente": "UNCCD",
+    "url": "https://www.unccd.int/index%2Ephp/es/node/30380",
+    "fecha": "9–20 nov",
+    "tema": "Cumbre"
+   },
    {
     "titulo": "El Niño firme y en aumento hasta el verano",
     "resumen": "La OMM da casi 100% de probabilidad de El Niño entre diciembre de 2026 y febrero de 2027, con pico hacia fin de año.",
@@ -252,6 +300,55 @@
     "tema": "Eventos"
    }
   ],
-  "videos": []
+  "videos": [
+   {
+    "titulo": "Iran War Expert: If This Escalation Continues, 2027 Will Be Devastating!",
+    "resumen": "Steven Bartlett entrevista a Robert Pape sobre la escalada con Irán y sus riesgos.",
+    "fuente": "The Diary Of A CEO",
+    "url": "https://podcasts.apple.com/us/podcast/iran-war-expert-if-this-escalation-continues-2027-will/id1291423644?i=1000799971186",
+    "fecha": "5 nov",
+    "tema": "Geopolítica"
+   },
+   {
+    "titulo": "Einar Tangen: China's New Economic Strategy vs the West's Ideological Trap",
+    "resumen": "La estrategia económica china frente a la lectura occidental, con Einar Tangen.",
+    "fuente": "Glenn Diesen",
+    "url": "https://podcasts.apple.com/us/podcast/einar-tangen-chinas-new-economic-strategy-vs-the/id1822142909?i=1000799095974",
+    "fecha": "5 nov",
+    "tema": "China"
+   },
+   {
+    "titulo": "Karl Friston: \"AI Is Stunting the Human Brain\"",
+    "resumen": "El neurocientífico sostiene que la IA actual no tiene agencia ni curiosidad y advierte sobre delegarle el pensamiento.",
+    "fuente": "The Peter McCormack Show",
+    "url": "https://podcasts.apple.com/us/podcast/226-karl-friston-top-neuroscientist-ai-is-stunting/id1317356120?i=1000799457623",
+    "fecha": "3 nov",
+    "tema": "IA y ciencia"
+   },
+   {
+    "titulo": "Dems Will Win the House but Senate Is Another Story – David Pakman",
+    "resumen": "Lectura de las midterms con el comentarista David Pakman.",
+    "fuente": "Triggernometry",
+    "url": "https://podcasts.apple.com/us/podcast/dems-will-win-the-house-but-senate-is-another-story/id1375568988?i=1000799112448",
+    "fecha": "3 nov",
+    "tema": "EE.UU."
+   },
+   {
+    "titulo": "Access the Sublime & Live Your Best Life | Robert Greene",
+    "resumen": "Robert Greene sobre cómo experimentar lo sublime en el trabajo, los vínculos y la observación.",
+    "fuente": "Huberman Lab",
+    "url": "https://podcasts.apple.com/us/podcast/access-the-sublime-live-your-best-life-robert-greene/id1545953110?i=1000799372105",
+    "fecha": "3 nov",
+    "tema": "Ideas"
+   },
+   {
+    "titulo": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
+    "resumen": "Tres matemáticos discuten cómo la IA empezó a resolver problemas abiertos de la matemática.",
+    "fuente": "Lex Fridman",
+    "url": "https://podcasts.apple.com/us/podcast/503-ai-crisis-in-math-navier-stokes-riemann-hypothesis/id1434243584?i=1000798266396",
+    "fecha": "26 oct",
+    "tema": "Matemática"
+   }
+  ]
  }
 }

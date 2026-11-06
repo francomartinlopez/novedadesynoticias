@@ -1,0 +1,70 @@
+{
+ "nota": "Canales de YouTube que sigue Franco, elegidos por variedad de temas. Para los que también son podcast, la página de Apple Podcasts muestra los últimos episodios con fecha y sirve de enlace. Rotar: cada día elegir 5 a 8 canales distintos, de temas variados.",
+ "con_podcast": [
+  {
+   "canal": "The Diary Of A CEO",
+   "tema": "Entrevistas, economía, geopolítica",
+   "apple": "https://podcasts.apple.com/podcast/id1291423644"
+  },
+  {
+   "canal": "Lex Fridman",
+   "tema": "Ciencia, IA, historia",
+   "apple": "https://podcasts.apple.com/us/podcast/artificial-intelligence-ai-podcast-with-lex/id1434243584"
+  },
+  {
+   "canal": "Triggernometry",
+   "tema": "Política, libertad de expresión",
+   "apple": "https://podcasts.apple.com/podcast/id1375568988"
+  },
+  {
+   "canal": "Glenn Diesen",
+   "tema": "Geopolítica, Eurasia",
+   "apple": "https://podcasts.apple.com/podcast/id1822142909"
+  },
+  {
+   "canal": "Huberman Lab",
+   "tema": "Neurociencia, salud",
+   "apple": "https://podcasts.apple.com/ro/podcast/huberman-lab/id1545953110"
+  },
+  {
+   "canal": "The Peter McCormack Show",
+   "tema": "Política, economía, Bitcoin",
+   "apple": "https://podcasts.apple.com/podcast/id1317356120"
+  },
+  {
+   "canal": "The Victor Davis Hanson Show",
+   "tema": "Historia, política de EE.UU.",
+   "apple": "https://podcasts.apple.com/podcast/id1570380458"
+  }
+ ],
+ "buscar_en_web": [
+  "Kurzgesagt – In a Nutshell",
+  "Johnny Harris",
+  "Big Think",
+  "The School of Life",
+  "Jordan B Peterson",
+  "Eric Weinstein",
+  "The Glenn Show",
+  "Tucker Carlson",
+  "Judge Napolitano - Judging Freedom",
+  "Dave Smith",
+  "Darryl Cooper",
+  "Chris Williamson",
+  "Robinson Erhardt",
+  "Freethink",
+  "The Infographics Show",
+  "The Why Files",
+  "SpaceWeatherNews (Tamitha Skov)",
+  "Nomad Capitalist",
+  "The Heritage Foundation",
+  "Cenital",
+  "Iván Carrino",
+  "Marcelo Longobardi",
+  "Plan M - Maxi Montenegro",
+  "Filo News",
+  "El Cronista",
+  "Bolsas y Mercados Argentinos (BYMA)",
+  "Anthropic",
+  "Claude"
+ ]
+}

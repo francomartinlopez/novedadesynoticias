@@ -6,4 +6,4 @@ Formato de cada edición:
 ```json
 {"fecha":"2026-11-07","secciones":{"argentina":[{"titulo":"…","resumen":"…","fuente":"…","url":"https://…","fecha":"2026-11-06","tema":"…"}]}}
 ```
-Las secciones están en `secciones.json`. La lista de cuentas de X prioritarias está en `cuentas-x.json`.
+Las secciones están en `secciones.json`. La lista de cuentas de X prioritarias está en `cuentas-x.json` y la de canales de YouTube para la sección Videos, en `canales-youtube.json`.
