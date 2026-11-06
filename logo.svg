@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+ <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e2705f"/><stop offset="1" stop-color="#b4372a"/></linearGradient></defs>
+ <rect x="0" y="0" xmlns="http://www.w3.org/2000/svg" rx="66" fill="url(#g)"/>
+ <!-- periódico -->
+ <rect x="62" y="70" width="176" height="160" rx="16" fill="#fff"/>
+ <rect x="82" y="92" width="136" height="22" rx="5" fill="#b4372a"/>
+ <rect x="82" y="128" width="62" height="56" rx="6" fill="#e2705f" opacity=".85"/>
+ <rect x="156" y="130" width="62" height="10" rx="5" fill="#2a2b30" opacity=".75"/>
+ <rect x="156" y="152" width="62" height="10" rx="5" fill="#2a2b30" opacity=".75"/>
+ <rect x="156" y="174" width="44" height="10" rx="5" fill="#2a2b30" opacity=".75"/>
+ <rect x="82" y="198" width="136" height="10" rx="5" fill="#2a2b30" opacity=".75"/>
+ <!-- sol / amanecer: edición de las 6 -->
+ <circle cx="238" cy="70" r="30" fill="#16171a"/><circle cx="238" cy="70" r="20" fill="#ffd27a"/>
+</svg>
