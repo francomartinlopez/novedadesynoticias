@@ -1,0 +1,257 @@
+{
+ "fecha": "2026-11-06",
+ "secciones": {
+  "destacado": [
+   {
+    "titulo": "Los demócratas ganan las dos cámaras del Congreso de EE.UU.",
+    "resumen": "Victoria amplia en las elecciones de medio término: control de la Cámara de Representantes y del Senado para los últimos dos años de Trump.",
+    "fuente": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+    "fecha": "5 nov"
+   },
+   {
+    "titulo": "Riesgo país a 925 puntos y peor caída del Merval desde junio",
+    "resumen": "Los bonos en dólares cayeron hasta 3,1% y el índice de JP Morgan marcó un nuevo máximo de 2026.",
+    "fuente": "Elonce",
+    "url": "https://www.elonce.com/economia/el-riesgo-pais-salto-a-925-puntos-y-las-acciones-argentinas-sufrieron-fuertes-perdidas.htm",
+    "fecha": "6 nov"
+   },
+   {
+    "titulo": "Trump evalúa retomar la acción militar contra Irán",
+    "resumen": "Reunión con su equipo de seguridad nacional; Irán envió una propuesta nuclear por medio de Qatar.",
+    "fuente": "Just Security",
+    "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/",
+    "fecha": "6 nov"
+   }
+  ],
+  "argentina": [
+   {
+    "titulo": "Demócratas ponen el foco en el rescate financiero a la Argentina",
+    "resumen": "Con más poder en el Congreso de EE.UU., críticos del swap buscarían revisar el acuerdo y limitar nuevas asistencias.",
+    "fuente": "El Tribuno",
+    "url": "https://www.eltribuno.com/nacionales/2026-11-6-0-0-0-apuntan-contra-la-ayuda-a-javier-milei",
+    "fecha": "6 nov",
+    "tema": "Política"
+   },
+   {
+    "titulo": "La crisis en Paraguay tras la renuncia de Peña repercute en la política local",
+    "resumen": "Dirigentes de la oposición asociaron la caída del aliado regional con el Gobierno.",
+    "fuente": "Noticias de la Calle",
+    "url": "https://www.noticiasdelacalle.com.ar/noticias/2026/11/06/205770-dirigentes-de-la-oposicion-se-hicieron-eco-de-la-renuncia-de-pena-en-paraguay-y-lo-asociaron-con-milei",
+    "fecha": "6 nov",
+    "tema": "Política"
+   },
+   {
+    "titulo": "Milei pierde centralidad en la conversación en redes",
+    "resumen": "Un estudio de Reputación Digital indica que aparece en una de cada diez publicaciones políticas, contra una de cada cuatro en septiembre.",
+    "fuente": "Urgente24",
+    "url": "https://urgente24.com/actualidad/estudio-javier-milei-se-le-agota-el-aura-y-queda-atras-redes-sociales-n636284",
+    "fecha": "6 nov",
+    "tema": "Opinión pública"
+   }
+  ],
+  "eeuu": [
+   {
+    "titulo": "Cómo los demócratas dieron vuelta el Congreso, en 12 gráficos",
+    "resumen": "Cambiaron siete bancas del Senado, entre ellas Texas, Kansas y Carolina del Sur, y ganaron en todas las franjas de edad menores de 65.",
+    "fuente": "Fortune",
+    "url": "https://fortune.com/2026/11/05/democratic-party-flip-senate-house-midterm-race-12-charts/",
+    "fecha": "5 nov",
+    "tema": "Elecciones"
+   }
+  ],
+  "mundo": [
+   {
+    "titulo": "Irán propone un acuerdo nuclear vía Qatar con siete condiciones",
+    "resumen": "La propuesta solo se discutiría si EE.UU. acepta las demandas para reabrir el estrecho de Ormuz.",
+    "fuente": "Just Security",
+    "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/",
+    "fecha": "6 nov",
+    "tema": "Medio Oriente"
+   },
+   {
+    "titulo": "Kherson: una tregua corta y un respiro de vida normal",
+    "resumen": "Crónica desde la ciudad del sur de Ucrania durante el alto el fuego.",
+    "fuente": "NPR",
+    "url": "https://www.npr.org/sections/world/",
+    "fecha": "3 nov",
+    "tema": "Ucrania"
+   }
+  ],
+  "finanzas": [
+   {
+    "titulo": "Wall Street: el Nasdaq entra en corrección por la caída de las tecnológicas",
+    "resumen": "El S&P 500 cayó 4,4% el jueves por dudas sobre la inversión en inteligencia artificial.",
+    "fuente": "TheStreet",
+    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026",
+    "fecha": "6 nov",
+    "tema": "Mundo"
+   },
+   {
+    "titulo": "El oro va a su mejor semana en más de dos meses",
+    "resumen": "Sube 5% en la semana, a la espera del dato de empleo de EE.UU. de octubre.",
+    "fuente": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/gold-eases-on-inflation-worries-from-higher-oil-us-payrolls-data-in-focus.html",
+    "fecha": "6 nov",
+    "tema": "Materias primas"
+   },
+   {
+    "titulo": "Merval: cae 4,1% y acumula 17% de baja desde el 23 de octubre",
+    "resumen": "El lunes 9 es feriado: lo que pase en Wall Street se verá en la rueda del martes.",
+    "fuente": "Rankia",
+    "url": "https://www.rankia.com.ar/noticias/bolsa/7541600-merval-hoy-cae-4-1-riesgo-pais-salta-925-puntos-maximo-2026",
+    "fecha": "6 nov",
+    "tema": "Argentina"
+   },
+   {
+    "titulo": "China: el comercio exterior crece 18,8% en los primeros nueve meses",
+    "resumen": "Exportaciones +16,4% e importaciones +22,3% interanual en yuanes, según la Aduana china.",
+    "fuente": "China Daily",
+    "url": "https://www.chinadailyhk.com/article/641076",
+    "fecha": "14 oct",
+    "tema": "China"
+   }
+  ],
+  "datos": [
+   {
+    "titulo": "Calendario del INDEC: el IPC de octubre se publica el 12 de noviembre",
+    "resumen": "También salen en noviembre el comercio exterior, la capacidad instalada y el índice de salarios.",
+    "fuente": "INDEC",
+    "url": "https://www.indec.gob.ar/ftp/cuadros/publicaciones/calendario_2sem2026.pdf",
+    "fecha": "Calendario",
+    "tema": "Argentina"
+   },
+   {
+    "titulo": "Cómo los demócratas ganaron el Congreso, en 12 gráficos",
+    "resumen": "Votantes de 18 a 29 años apoyaron a candidatos demócratas 72% a 25%, aunque fueron el 11% del electorado.",
+    "fuente": "Fortune",
+    "url": "https://fortune.com/2026/11/05/democratic-party-flip-senate-house-midterm-race-12-charts/",
+    "fecha": "5 nov",
+    "tema": "EE.UU."
+   }
+  ],
+  "ideas": [
+   {
+    "titulo": "Índice de Abundancia Simon 2026",
+    "resumen": "El informe anual de Human Progress mide cuánto más accesibles se vuelven los recursos con el tiempo.",
+    "fuente": "Human Progress (Cato)",
+    "url": "https://humanprogress.org/the-simon-abundance-index-2026/",
+    "fecha": "jul",
+    "tema": "Progreso"
+   }
+  ],
+  "ciudad": [
+   {
+    "titulo": "Las tendencias de reforma de zonificación de 2026",
+    "resumen": "Menos exigencias de estacionamiento, vivienda de densidad intermedia y cambios graduales en ciudades de EE.UU. y Canadá.",
+    "fuente": "Archistar",
+    "url": "https://www.archistar.ai/?p=39015",
+    "fecha": "2026",
+    "tema": "Vivienda"
+   }
+  ],
+  "clima": [
+   {
+    "titulo": "El Niño firme y en aumento hasta el verano",
+    "resumen": "La OMM da casi 100% de probabilidad de El Niño entre diciembre de 2026 y febrero de 2027, con pico hacia fin de año.",
+    "fuente": "OMM",
+    "url": "https://wmo.int/sites/default/files/2026-08/Factsheet-ENSO-Update-August-2026-en.pdf",
+    "fecha": "ago",
+    "tema": "El Niño"
+   }
+  ],
+  "tecnologia": [
+   {
+    "titulo": "Los centros de datos para IA, tema de campaña en las legislativas de EE.UU.",
+    "resumen": "El rechazo a su impacto ambiental y en las comunidades convirtió el gasto en IA en un tema electoral.",
+    "fuente": "CNN",
+    "url": "https://edition.cnn.com/2026/11/05/politics/live-news/midterm-election-congress",
+    "fecha": "5 nov",
+    "tema": "IA"
+   },
+   {
+    "titulo": "La factura creciente de las expectativas sobre la IA",
+    "resumen": "BlackRock analiza el retorno de la inversión masiva en IA tras la peor caída mensual de las tecnológicas desde 2025.",
+    "fuente": "BlackRock",
+    "url": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/global-weekly-commentary",
+    "fecha": "nov",
+    "tema": "IA y mercados"
+   }
+  ],
+  "pensamiento": [
+   {
+    "titulo": "Un dinosaurio de 210 millones de años en Zimbabue",
+    "resumen": "La nueva especie revela un ecosistema prehistórico distinto, posiblemente por diferencias climáticas antiguas.",
+    "fuente": "ScienceDaily",
+    "url": "https://sciencedaily.com/news/fossils_ruins/lost_treasures/",
+    "fecha": "13 oct",
+    "tema": "Paleontología"
+   }
+  ],
+  "x": [
+   {
+    "titulo": "Juan Ignacio Fernández (LLA) pidió votar por Milei en 2027",
+    "resumen": "En X, el diputado sostuvo que para seguir con las reformas hay que ganar gobernaciones, municipios y terreno en el Congreso.",
+    "fuente": "Parlamentario",
+    "url": "https://www.parlamentario.com/2026/11/06/juan-ignacio-fernandez-llamo-a-votar-por-milei-en-2027-para-seguir-creciendo/",
+    "fecha": "6 nov",
+    "tema": "Argentina"
+   }
+  ],
+  "libros": [
+   {
+    "titulo": "Los libros de no ficción más esperados de noviembre",
+    "resumen": "Selección mensual de Next Big Idea Club en arte, política, economía y ciencia.",
+    "fuente": "Next Big Idea Club",
+    "url": "https://nextbigideaclub.com/magazine/next-big-idea-clubs-november-2026-must-read-books/61737/",
+    "fecha": "nov",
+    "tema": "Novedades"
+   },
+   {
+    "titulo": "Revolutionary Snipers, de Patrick K. O'Donnell",
+    "resumen": "Nuevo libro de historia militar de la Revolución estadounidense.",
+    "fuente": "Grove Atlantic",
+    "url": "https://groveatlantic.com/books/category/history/",
+    "fecha": "nov",
+    "tema": "Historia"
+   }
+  ],
+  "cine": [
+   {
+    "titulo": "Las 10 películas más esperadas antes de fin de año",
+    "resumen": "Incluye Digger, de Alejandro González Iñárritu, con estreno el 20 de noviembre.",
+    "fuente": "Indie Hoy",
+    "url": "https://indiehoy.com/?p=863196",
+    "fecha": "nov",
+    "tema": "Estrenos"
+   },
+   {
+    "titulo": "Estrenos de noviembre en EE.UU.: Godzilla Minus Zero, Elsinore y Minotaur",
+    "resumen": "Godzilla Minus Zero llega el 6/11 en IMAX; Elsinore (Focus Features) y Minotaur (MUBI) el 20/11.",
+    "fuente": "The Numbers",
+    "url": "https://www.the-numbers.com/movies/release-schedule-changes/2026/08/17",
+    "fecha": "nov",
+    "tema": "Estrenos"
+   }
+  ],
+  "arte": [
+   {
+    "titulo": "Premios COAM 2026: la Facultad de Ciencias de la Salud de la UC3M",
+    "resumen": "Primer premio para ZZa Zigzag Arquitectura y Luis Díaz-Mauriño; el MUNCYT recibió el premio a la permanencia.",
+    "fuente": "Corresponsables",
+    "url": "https://www.corresponsables.com/actualidad/cosentino-renueva-su-apoyo-a-la-arquitectura-en-la-entrega-de-los-premios-coam-2026/",
+    "fecha": "2026",
+    "tema": "Arquitectura"
+   },
+   {
+    "titulo": "CONSTRUTEC, del 10 al 13 de noviembre en Madrid",
+    "resumen": "Feria de construcción y arquitectura dentro de la Semana Internacional de la Construcción en IFEMA.",
+    "fuente": "IFEMA",
+    "url": "https://www.ifema.es/construtec/noticias-sector/premios-arquitectura-2026",
+    "fecha": "10-13 nov",
+    "tema": "Eventos"
+   }
+  ],
+  "videos": []
+ }
+}
