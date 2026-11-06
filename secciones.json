@@ -9,6 +9,11 @@
   "sub": "Política, elecciones, economía y sociedad"
  },
  {
+  "id": "locales",
+  "titulo": "Locales",
+  "sub": "Rosario (2), Córdoba (2), Ciudad de Buenos Aires (1) y Gran Buenos Aires (1)"
+ },
+ {
   "id": "eeuu",
   "titulo": "Estados Unidos",
   "sub": "Política, elecciones y economía"
@@ -49,8 +54,14 @@
   "sub": "Inteligencia artificial, vigilancia y privacidad"
  },
  {
+  "id": "ciencia",
+  "titulo": "Ciencia",
+  "sub": "Física, biología, evolución, neurociencia, medicina y espacio"
+ },
+ {
   "id": "pensamiento",
-  "titulo": "Ciencia, historia, filosofía y religiones"
+  "titulo": "Historia, filosofía y religiones",
+  "sub": "Historia de todas las épocas, ideas, espiritualidad y religiones"
  },
  {
   "id": "x",

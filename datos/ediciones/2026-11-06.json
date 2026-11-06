@@ -59,7 +59,7 @@
    },
    {
     "titulo": "Santa Fe: la reforma de seguridad de Pullaro obtuvo media sanción",
-    "resumen": "Diputados aprobó con amplio respaldo la ley impulsada por el gobernador; en paralelo ya es ley la obligación de mostrar a la policía el IMEI del celular.",
+    "resumen": "Diputados aprobó con amplio respaldo la ley de seguridad impulsada por el gobernador, tras destrabar las tensiones dentro de Unidos.",
     "fuente": "Rosario3",
     "url": "https://www.rosario3.com/politica/despues-de-las-tensiones-hubo-acuerdo-en-unidos-y-sale-la-nueva-ley-de-seguridad-impulsada-por-pullaro-20261105-0038.html",
     "fecha": "5 nov",
@@ -72,6 +72,56 @@
     "url": "https://www.rosario3.com/informaciongeneral/vuelo-directo-rosario-madrid-en-el-primer-mes-de-operaciones-viajaron-5.400-personas-20261105-0014.html",
     "fecha": "5 nov",
     "tema": "Rosario"
+   }
+  ],
+  "locales": [
+   {
+    "titulo": "Ya es ley en Santa Fe: la policía puede pedir el IMEI del celular",
+    "resumen": "La norma permite exigir en la vía pública el código del teléfono para verificar si es robado, aun sin sospecha previa.",
+    "fuente": "Rosario3",
+    "url": "https://www.rosario3.com/informaciongeneral/la-obligacion-de-mostrar-a-la-policia-el-imei-del-celular-ya-es-ley-en-santa-fe-20261105-0060.html",
+    "fecha": "5 nov",
+    "tema": "Rosario"
+   },
+   {
+    "titulo": "Clausuran cinco chatarrerías con luminarias y carteles públicos robados",
+    "resumen": "Un operativo secuestró elementos del alumbrado y de señalización vial que se vendían como chatarra.",
+    "fuente": "Rosario3",
+    "url": "https://www.rosario3.com/informaciongeneral/clausuraron-cinco-chatarrerias-y-secuestraron-luminarias-publicas-y-carteles-de-transito-20261105-0050.html",
+    "fecha": "5 nov",
+    "tema": "Rosario"
+   },
+   {
+    "titulo": "Córdoba se prepara para recibir al Papa: hasta un millón de personas",
+    "resumen": "El martes 10 habrá misa en FAdeA y recorrida en papamóvil, con 14.000 policías, más de 350 cortes de tránsito y colectivos gratis.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/politica/2026/11/04/el-papa-leon-xiv-en-cordoba-una-misa-recorrida-en-papamovil-y-los-detalles-de-un-operativo-para-un-millon-de-personas/",
+    "fecha": "4 nov",
+    "tema": "Córdoba"
+   },
+   {
+    "titulo": "La Feria del Libro de Córdoba, abierta hasta el 15 de noviembre",
+    "resumen": "La 40.ª edición se instaló en la Supermanzana de la Intendencia y se combinó con La Noche de las Galerías y Peatonales para impulsar el comercio del centro.",
+    "fuente": "Municipalidad de Córdoba",
+    "url": "https://cordoba.gob.ar/passerini-participo-del-primer-dia-de-la-feria-del-libro-y-recorrio-la-segunda-edicion-de-la-noche-de-las-galerias-y-peatonales/",
+    "fecha": "31 oct",
+    "tema": "Córdoba"
+   },
+   {
+    "titulo": "Jorge Macri: el 20% del presupuesto porteño 2027 irá a obra pública",
+    "resumen": "Ante la UIA, el jefe de Gobierno destacó la baja de impuestos y el régimen RIMICABA, que permite computar hasta 25% de inversiones productivas a cuenta de Ingresos Brutos y Sellos.",
+    "fuente": "Pura Ciudad",
+    "url": "https://www.puraciudad.com.ar/jorge-macri-destaco-la-baja-de-impuestos-y-anuncio-una-inversion-record-en-obra-publica-para-2027/",
+    "fecha": "5 nov",
+    "tema": "CABA"
+   },
+   {
+    "titulo": "Nardini y Sujarchuk encabezan el ranking de intendentes del conurbano",
+    "resumen": "La encuesta de CB Global Data en 24 municipios del Gran Buenos Aires ubica primero al intendente de Malvinas Argentinas (61,2% de imagen positiva), seguido por el de Escobar; San Isidro fue el que más mejoró.",
+    "fuente": "Zona Norte Diario",
+    "url": "https://www.zonanortediario.com.ar/06/11/2026/nardini-y-sujarchuk-lideran-el-ranking-de-imagen-de-intendentes-del-conurbano-en-noviembre/",
+    "fecha": "6 nov",
+    "tema": "Gran Buenos Aires"
    }
   ],
   "eeuu": [
@@ -354,7 +404,7 @@
     "tema": "IA"
    }
   ],
-  "pensamiento": [
+  "ciencia": [
    {
     "titulo": "Un dinosaurio de 210 millones de años en Zimbabue",
     "resumen": "La nueva especie revela un ecosistema prehistórico distinto, posiblemente por diferencias climáticas antiguas.",
@@ -378,6 +428,32 @@
     "url": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
     "fecha": "5 nov",
     "tema": "Neurociencia"
+   }
+  ],
+  "pensamiento": [
+   {
+    "titulo": "Creer y pensar: la psicología detrás de la separación entre Iglesia y Estado",
+    "resumen": "Neil Van Leeuwen y Jacob Eisler sostienen que esa separación descansa en una distinción psicológica entre elegir creencias y elegir pensamientos.",
+    "fuente": "Aeon",
+    "url": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
+    "fecha": "nov",
+    "tema": "Religión y filosofía"
+   },
+   {
+    "titulo": "De invento del diablo a milicia popular: el arma de fuego en el Renacimiento",
+    "resumen": "Catherine Fletcher reconstruye cómo los italianos del Renacimiento pasaron de condenar el arma de fuego a aceptarla.",
+    "fuente": "Aeon",
+    "url": "https://aeon.co/essays/the-renaissance-gun-from-diabolical-device-to-popular-militias",
+    "fecha": "nov",
+    "tema": "Historia"
+   },
+   {
+    "titulo": "Cómo ser un hombre (romano)",
+    "resumen": "Catharine Edwards analiza el ideal de virtud viril de Cicerón, que valoraba el autocontrol y la valentía por sobre la dominación, al final de la República.",
+    "fuente": "Aeon",
+    "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
+    "fecha": "nov",
+    "tema": "Historia antigua"
    }
   ],
   "x": [

@@ -28,8 +28,14 @@ Lector: arquitecto y gerente operativo industrial, consultor en sistemas de gest
 - **Clima y tiempo:** clima de Argentina (alertas del SMN, olas de calor, sequías, inundaciones, ríos, pronósticos estacionales) y del mundo (eventos extremos, récords), El Niño/La Niña y climatología, política climática, mercados y ambiente.
 - **Clima espacial:** llamaradas solares, eyecciones de masa coronal, tormentas geomagnéticas, auroras y ciclo solar (NOAA SWPC, SpaceWeather.com). Va en la sección Clima y, si es muy relevante, en Lo más importante.
 
-**Ciencia, historia, filosofía y religiones**
-- Física, biología, evolución, neurociencia y psicobiología (temperamento, personalidad, toma de decisiones), historia de todas las épocas (incluida la de la arquitectura y el urbanismo), filosofía, espiritualidad y religiones comparadas, liderazgo y figuras históricas.
+**Ciencia** (sección propia)
+- Física, biología, evolución, neurociencia y psicobiología (temperamento, personalidad, toma de decisiones), medicina, espacio y astronomía.
+
+**Historia, filosofía y religiones** (sección propia)
+- Historia de todas las épocas (incluida la de la arquitectura y el urbanismo), filosofía, espiritualidad y religiones comparadas, liderazgo y figuras históricas.
+
+**Locales** (sección propia, siempre 6)
+- 2 de Rosario, 2 de Córdoba, 1 de la Ciudad de Buenos Aires y 1 del Gran Buenos Aires (conurbano): gestión municipal y provincial, obras, servicios, transporte, seguridad, economía local, cultura. Sin policiales menores ni chismes.
 
 **Tecnología**
 - IA (modelos, empresas, regulación, usos en industria y Estado), libertad e innovación, privacidad.

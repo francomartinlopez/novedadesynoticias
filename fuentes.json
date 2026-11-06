@@ -215,5 +215,41 @@
   "itdp.org",
   "newgeography.com",
   "marketurbanismreport.com"
- ]
+ ],
+ "locales": {
+  "rosario": [
+   "rosario3.com",
+   "lacapital.com.ar",
+   "elciudadanoweb.com",
+   "rosarioplus.com",
+   "rosario.gob.ar",
+   "concejorosario.gov.ar"
+  ],
+  "cordoba": [
+   "lavoz.com.ar",
+   "cadena3.com",
+   "perfil.com/cordoba",
+   "eldoce.tv",
+   "cba.gov.ar",
+   "cordoba.gob.ar",
+   "letrap.com.ar"
+  ],
+  "caba": [
+   "buenosaires.gob.ar",
+   "clarin.com/ciudades",
+   "lanacion.com.ar",
+   "infobae.com",
+   "puraciudad.com.ar",
+   "legislatura.gob.ar"
+  ],
+  "gran_buenos_aires": [
+   "infocielo.com",
+   "lanoticia1.com",
+   "zonanortediario.com.ar",
+   "politicadelsur.com",
+   "diarioconurbano.com.ar",
+   "infoban.com.ar",
+   "gba.gob.ar"
+  ]
+ }
 }
