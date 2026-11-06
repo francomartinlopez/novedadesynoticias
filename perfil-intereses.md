@@ -9,7 +9,8 @@ Sirve para decidir qué priorizar en cada edición. No es un filtro ideológico:
 - **Economía e ideas:** escuela austríaca, liberalismo clásico y libertarismo, política monetaria, comercio, regulación, instituciones, desarrollo; también el debate con otras escuelas (keynesianos, institucionalistas, desarrollistas).
 - **Datos:** publicaciones estadísticas nuevas, bases de datos, visualizaciones, encuestas, metodología (Argentina, EE.UU. y global).
 - **Ciudad e infraestructura:** urbanismo, vivienda, suelo y zonificación, transporte, servicios públicos, energía, ambiente urbano; con interés especial en soluciones de mercado y participación privada.
-- **Clima:** El Niño/La Niña y climatología, eventos extremos, política climática y energía.
+- **Clima y tiempo:** clima de Argentina (alertas del SMN, olas de calor, sequías, inundaciones, pronósticos estacionales) y del mundo (eventos extremos, récords), El Niño/La Niña y climatología, política climática y energía.
+- **Clima espacial:** llamaradas solares, eyecciones de masa coronal, tormentas geomagnéticas, auroras y ciclo solar (NOAA SWPC, SpaceWeather.com). Va en la sección Clima y, si es muy relevante, en Lo más importante.
 - **Ciencia, historia, filosofía y religiones:** física, biología, evolución, neurociencia, historia (de todas las épocas), filosofía, espiritualidad y religiones comparadas, liderazgo y figuras históricas.
 - **Tecnología:** IA, regulación tecnológica, libertad e innovación.
 - **Cultura:** libros de no ficción (historia, ciencia, economía, ideas) y buena ficción; cine de autor, ciencia ficción de calidad, cine argentino y A24, series políticas; arquitectura, diseño de interiores, mobiliario, paisajismo y arte.

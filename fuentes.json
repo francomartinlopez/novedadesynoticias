@@ -158,5 +158,20 @@
   "artnews.com",
   "theartnewspaper.com",
   "plataformaarquitectura.cl"
+ ],
+ "clima_y_clima_espacial": [
+  "smn.gob.ar",
+  "meteored.com.ar",
+  "noaa.gov",
+  "cpc.ncep.noaa.gov",
+  "wmo.int",
+  "copernicus.eu",
+  "carbonbrief.org",
+  "swpc.noaa.gov",
+  "spaceweather.com",
+  "solarham.com",
+  "space.com",
+  "earthsky.org",
+  "nasa.gov"
  ]
 }

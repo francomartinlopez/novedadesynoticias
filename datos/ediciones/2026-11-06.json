@@ -254,6 +254,30 @@
     "url": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
     "fecha": "6 nov",
     "tema": "Emisiones"
+   },
+   {
+    "titulo": "Viento solar rápido: posible tormenta geomagnética G1 del 6 al 8 de noviembre",
+    "resumen": "Un gran agujero coronal envía viento solar hacia la Tierra; podría haber auroras más al sur de lo habitual en el hemisferio norte.",
+    "fuente": "Space.com",
+    "url": "https://space.com/stargazing/auroras/northern-lights-could-reach-new-york-and-idaho-this-weekend-as-speedy-solar-wind-races-toward-earth",
+    "fecha": "6 nov",
+    "tema": "Clima espacial"
+   },
+   {
+    "titulo": "La mancha solar 4566 crece y podría dar llamaradas clase X",
+    "resumen": "La región tiene un campo magnético 'beta-gamma-delta'; NOAA da 30–35% de chance de llamaradas M y 10% de X, y el viento solar puede provocar tormentas G1–G2 desde el 7.",
+    "fuente": "SpaceWeather.com",
+    "url": "https://www.spaceweather.com/",
+    "fecha": "5 nov",
+    "tema": "Clima espacial"
+   },
+   {
+    "titulo": "Calor, tormentas y viento Zonda: alertas del SMN en varias provincias",
+    "resumen": "Tras una semana de calor en gran parte del país, rigen alertas amarillas por tormentas fuertes en Salta, Formosa y Misiones y por Zonda en Cuyo.",
+    "fuente": "La Nación",
+    "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-lluvias-y-viento-zonda-para-este-jueves-5-de-noviembre-las-nid05112026/",
+    "fecha": "5 nov",
+    "tema": "Argentina"
    }
   ],
   "tecnologia": [
