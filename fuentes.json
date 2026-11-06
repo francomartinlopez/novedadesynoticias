@@ -20,7 +20,15 @@
   "argentina.gob.ar",
   "boletinoficial.gob.ar",
   "hcdn.gob.ar",
-  "senado.gob.ar"
+  "senado.gob.ar",
+  "rosario3.com",
+  "elciudadanoweb.com",
+  "ellitoral.com",
+  "rionegro.com.ar",
+  "lmneuquen.com",
+  "santafe.gov.ar",
+  "rosario.gob.ar",
+  "concejorosario.gov.ar"
  ],
  "estados_unidos": [
   "apnews.com",
@@ -68,7 +76,11 @@
   "euronews.com",
   "ecb.europa.eu",
   "ec.europa.eu",
-  "eurostat.ec.europa.eu"
+  "eurostat.ec.europa.eu",
+  "cyprus-mail.com",
+  "in-cyprus.philenews.com",
+  "ekathimerini.com",
+  "ansa.it"
  ],
  "latinoamerica": [
   "folha.uol.com.br",
@@ -173,5 +185,35 @@
   "space.com",
   "earthsky.org",
   "nasa.gov"
+ ],
+ "industria_y_gestion": [
+  "acero.org.ar",
+  "alacero.org",
+  "worldsteel.org",
+  "uia.org.ar",
+  "camarco.org.ar",
+  "mining.com",
+  "bnamericas.com",
+  "energiaestrategica.com",
+  "econojournal.com.ar",
+  "iso.org",
+  "iram.org.ar",
+  "supplychaindive.com",
+  "industryweek.com"
+ ],
+ "urbanismo_y_movilidad": [
+  "bloomberg.com/citylab",
+  "strongtowns.org",
+  "planetizen.com",
+  "urban.org",
+  "mercatus.org",
+  "marroninstitute.nyu.edu",
+  "citylab",
+  "worldbank.org/en/topic/urbandevelopment",
+  "caf.com",
+  "plataformaurbana.cl",
+  "itdp.org",
+  "newgeography.com",
+  "marketurbanismreport.com"
  ]
 }
