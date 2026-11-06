@@ -1,0 +1,78 @@
+[
+{
+"id": "destacado",
+"titulo": "Lo más importante"
+},
+{
+"id": "argentina",
+"titulo": "Argentina",
+"sub": "Política, elecciones, economía y sociedad"
+},
+{
+"id": "eeuu",
+"titulo": "Estados Unidos",
+"sub": "Política, elecciones y economía"
+},
+{
+"id": "mundo",
+"titulo": "Mundo y geopolítica",
+"sub": "Conflictos y relaciones internacionales"
+},
+{
+"id": "finanzas",
+"titulo": "Finanzas y mercados",
+"sub": "Argentina, el mundo y países clave"
+},
+{
+"id": "datos",
+"titulo": "Datos",
+"sub": "Informes y datos nuevos de Argentina, EE.UU. y el mundo"
+},
+{
+"id": "ideas",
+"titulo": "Economía e ideas",
+"sub": "Escuela austríaca, think tanks y política pública"
+},
+{
+"id": "ciudad",
+"titulo": "Ciudad e infraestructura",
+"sub": "Urbanismo, vivienda, transporte y servicios públicos"
+},
+{
+"id": "clima",
+"titulo": "Clima y ambiente",
+"sub": "El Niño, agua y ambiente"
+},
+{
+"id": "tecnologia",
+"titulo": "Tecnología y libertad",
+"sub": "Inteligencia artificial, vigilancia y privacidad"
+},
+{
+"id": "pensamiento",
+"titulo": "Ciencia, historia, filosofía y religiones"
+},
+{
+"id": "x",
+"titulo": "Lo que se dijo en X",
+"sub": "Publicaciones con repercusión, según la prensa"
+},
+{
+"id": "libros",
+"titulo": "Libros"
+},
+{
+"id": "cine",
+"titulo": "Cine y series"
+},
+{
+"id": "arte",
+"titulo": "Arte, arquitectura y diseño",
+"sub": "Arte, arquitectura, diseño de interiores, mobiliario y paisajismo"
+},
+{
+"id": "videos",
+"titulo": "Videos",
+"sub": "Lo nuevo de tus canales de YouTube"
+}
+]

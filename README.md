@@ -1,0 +1,9 @@
+# Novedades y noticias
+
+Web de novedades diarias por secciones. Una tarea programada de Claude escribe cada mañana (6:00, hora de Argentina) un archivo `datos/ediciones/AAAA-MM-DD.json`, corre `python3 armar_indice.py` y hace push. Netlify publica solo.
+
+Formato de cada edición:
+```json
+{"fecha":"2026-11-07","secciones":{"argentina":[{"titulo":"…","resumen":"…","fuente":"…","url":"https://…","fecha":"2026-11-06","tema":"…"}]}}
+```
+Las secciones están en `secciones.json`. La lista de cuentas de X prioritarias está en `cuentas-x.json`.
