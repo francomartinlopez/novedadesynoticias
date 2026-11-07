@@ -32,6 +32,9 @@ Lector: arquitecto y gerente operativo industrial, consultor en sistemas de gest
 
 **Ciencia** (sección propia)
 - Física, biología, evolución, neurociencia y psicobiología (temperamento, personalidad, toma de decisiones), medicina, espacio y astronomía.
+- **Arqueología y prehistoria (prioridad dentro de Ciencia):** asentamientos humanos antiguos y hallazgos que adelantan el origen de las civilizaciones y de las organizaciones humanas complejas (p. ej. Göbekli Tepe, Karahan Tepe, sitios sumergidos, arte rupestre, agricultura y urbanismo tempranos, ADN antiguo).
+- **Catástrofes de larga data y su efecto en la humanidad:** eventos de hace 10.000–20.000 años o más, como el Dryas Reciente, impactos de meteoritos y cometas, megainundaciones y deshielos, subida del nivel del mar, supervolcanes; qué efectos tuvieron sobre el planeta y sobre las poblaciones humanas de entonces.
+- Incluir tanto la arqueología académica (revistas y universidades) como las posturas alternativas serias que aportan datos y análisis (p. ej. Graham Hancock, el Comet Research Group y la hipótesis del impacto del Dryas Reciente), aclarando en el resumen cuándo una idea es minoritaria o discutida y cuál es la respuesta de la arqueología académica.
 
 **Historia, filosofía y religiones** (sección propia)
 - Historia de todas las épocas (incluida la de la arquitectura y el urbanismo), filosofía, espiritualidad y religiones comparadas, liderazgo y figuras históricas.
