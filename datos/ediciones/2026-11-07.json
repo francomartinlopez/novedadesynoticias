@@ -679,7 +679,32 @@
     "tema": "Historia de la ciencia"
    }
   ],
-  "x": [],
+  "x": [
+   {
+    "titulo": "El embajador de EE.UU.: \"Cambian las mayorías en el Congreso, pero no nuestro compromiso con la Argentina\"",
+    "resumen": "Tras las midterms, Peter Lamelas aseguró en X que el apoyo de Washington al país es firme, estratégico y de largo plazo.",
+    "fuente": "Tucumán24",
+    "url": "https://tucuman24.com/nota/226636/luis-caputo-volvio-a-vincular-la-suba-del-riesgo-pais-a-las-elecciones-de-2027-tienen-miedo-de-que-no-este-milei.html",
+    "fecha": "6 nov",
+    "tema": "Lamelas"
+   },
+   {
+    "titulo": "Bianco, sobre la caída de Peña en Paraguay: \"Te liquida\"",
+    "resumen": "El ministro bonaerense compartió un video de Milei elogiando el plan económico paraguayo tras la renuncia de Santiago Peña, y reactivó las bromas opositoras sobre la \"mufa\" presidencial.",
+    "fuente": "Noticias (Perfil)",
+    "url": "https://noticias.perfil.com/noticias/politica/carlos-bianco-mano-derecha-de-kicillof-sobre-la-fama-de-mufa-de-milei-te-liquida.phtml",
+    "fecha": "6 nov",
+    "tema": "Bianco"
+   },
+   {
+    "titulo": "Vance usa X para tomar distancia de Trump tras la derrota republicana",
+    "resumen": "El vicepresidente publicó un extenso análisis poselectoral que se leyó como un intento de preservar sus chances para 2028.",
+    "fuente": "CNN en Español",
+    "url": "https://cnnespanol.cnn.com/2026/11/04/eeuu/live-news/resultados-elecciones-intermedias-en-vivo-trax",
+    "fecha": "4 nov",
+    "tema": "Vance"
+   }
+  ],
   "libros": [
    {
     "titulo": "El ganador del Goncourt 2026 admite haber usado IA en su novela",
@@ -782,6 +807,31 @@
     "tema": "Arte"
    }
   ],
-  "videos": []
+  "videos": [
+   {
+    "titulo": "#227 – Gideon Rachman: \"How World War 3 Could Start by Accident\"",
+    "resumen": "El columnista del Financial Times presenta su libro y sostiene que el riesgo de una guerra mayor creció, aunque una tercera guerra mundial no es inevitable.",
+    "fuente": "The Peter McCormack Show",
+    "url": "https://podcasts.apple.com/us/podcast/227-gideon-rachman-how-world-war-3-could-start-by-accident/id1317356120?i=1000799852645",
+    "fecha": "6 nov",
+    "tema": "Geopolítica"
+   },
+   {
+    "titulo": "The One Habit Behind Every Breakthrough Idea – Spotify Founder",
+    "resumen": "Fragmento destacado con Daniel Ek, cofundador de Spotify, sobre cómo encarar problemas que otros dan por imposibles y por qué cada proyecto necesita un escéptico.",
+    "fuente": "The Diary Of A CEO",
+    "url": "https://podcasts.apple.com/us/podcast/most-replayed-moment-the-one-habit-behind-every/id1291423644?i=1000800195618",
+    "fecha": "6 nov",
+    "tema": "Innovación"
+   },
+   {
+    "titulo": "John Kiriakou: CIA Regime Change from Ukraine to Iran",
+    "resumen": "El ex oficial antiterrorista de la CIA habla con Glenn Diesen sobre acción encubierta, cambios de régimen y el rumbo de la agencia.",
+    "fuente": "Glenn Diesen",
+    "url": "https://podcasts.apple.com/us/podcast/john-kiriakou-cia-regime-change-from-ukraine-to-iran/id1822142909?i=1000798928920",
+    "fecha": "5 nov",
+    "tema": "Inteligencia"
+   }
+  ]
  }
 }
