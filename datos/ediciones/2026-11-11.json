@@ -1,0 +1,861 @@
+{
+ "fecha": "2026-11-11",
+ "secciones": {
+  "destacado": [
+   {
+    "titulo": "León XIV cierra su visita a la Argentina con una misa multitudinaria en Luján",
+    "resumen": "En el último día de su viaje, el Papa pasa por la cárcel de Devoto, celebra misa frente a la Basílica de Luján ante más de un millón de fieles esperados y se despide en Ezeiza, con Milei presente, antes de volar a Lima. La misa la organiza el gobierno de Kicillof, que invitó a dirigentes de todo el arco político.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/sociedad/2026/11/11/ultimo-dia-del-papa-leon-xiv-en-la-argentina-noche-de-vigilia-en-lujan-y-una-misa-que-espera-reunir-a-mas-de-un-millon-de-fieles/",
+    "fecha": "11 nov",
+    "tema": "Visita papal"
+   },
+   {
+    "titulo": "Rubio: \"no hace falta\" retomar el combate contra Irán mientras avanza la diplomacia",
+    "resumen": "Tras el G7 en París, el secretario de Estado atribuyó el giro a la presión económica sobre Teherán, que ofrece reabrir el estrecho de Ormuz en dos días si EE.UU. levanta el bloqueo y las sanciones; Qatar y Pakistán median, pero siguen los ataques a buques en la zona y el petróleo se mantiene alto.",
+    "fuente": "AFP (vía Arab News)",
+    "url": "https://www.arabnews.com/middle-east/rubio-says-no-need-to-attack-iran-as-diplomacy-gathers-pace-3011001",
+    "fecha": "10 nov",
+    "tema": "Guerra en Irán"
+   },
+   {
+    "titulo": "3,21 °C de más: el Pacífico supera a los grandes El Niño de 1983, 1997 y 2015",
+    "resumen": "Según Copernicus, en octubre la superficie del Pacífico ecuatorial estuvo 3,21 °C por encima de lo normal, por encima de los picos de los tres mayores Niños registrados, en el octubre más cálido de la historia; un dato que llega a la COP31 y anticipa lluvias por encima de lo normal en parte de Argentina.",
+    "fuente": "Meteored Argentina",
+    "url": "https://www.meteored.com.ar/noticias/actualidad/3-21-c-de-mas-el-pacifico-supera-a-los-grandes-el-nino-de-1983-1997-y-2015-y-enciende-las-alertas-ante-la-cop.html",
+    "fecha": "9 nov",
+    "tema": "El Niño"
+   }
+  ],
+  "argentina": [
+   {
+    "titulo": "Presupuesto 2027: las negociaciones no avanzan y los aliados ya desconfían del Gobierno",
+    "resumen": "Con menos de 20 días de sesiones ordinarias, Martín Menem reúne a los bloques dialoguistas para responder a sus pedidos: más fondos para universidades y discapacidad, baja del impuesto a los combustibles para rutas y sostener la movilidad de la AUH. Algunos sospechan que el oficialismo prefiere prorrogar el presupuesto vigente en año electoral.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/politica/2026/11/11/las-negociaciones-por-el-presupuesto-2027-siguen-sin-definiciones-y-los-aliados-ya-desconfian-del-gobierno/",
+    "fecha": "11 nov",
+    "tema": "Congreso"
+   },
+   {
+    "titulo": "Condenan en EE.UU. a seis años de prisión a Fred Machado, el financista de la campaña de Espert",
+    "resumen": "Un juez de Texas aceptó el acuerdo de culpabilidad de Machado por lavado de dinero y fraude electrónico. La condena vuelve a poner el foco sobre los US$200.000 que le transfirió a Espert, procesado en la Argentina por lavado, que lo niega y apeló.",
+    "fuente": "elDiarioAR",
+    "url": "https://www.eldiarioar.com/politica/fred-machado-financista-campana-espert-condenado-seis-anos-prision-estados-unidos_1_13653936.html",
+    "fecha": "10 nov",
+    "tema": "Justicia"
+   },
+   {
+    "titulo": "Encuesta de Mide: Kicillof le ganaría a Milei un balotaje por 42% a 39%",
+    "resumen": "El sondeo nacional de 1.911 casos da a Milei 39% de imagen positiva y un 55% que califica mal su gestión; 62% cree que el país va en dirección equivocada y los salarios frente a la inflación encabezan las preocupaciones.",
+    "fuente": "La Arena (con datos de LPO)",
+    "url": "https://laarena.com.ar/el-pais/segun-sondeo-milei-cae-en-balotaje-con-kicillof-202611110140",
+    "fecha": "11 nov",
+    "tema": "Encuestas"
+   },
+   {
+    "titulo": "Santa Fe reglamenta la videovigilancia con inteligencia artificial en espacios públicos",
+    "resumen": "Un decreto de Pullaro aprueba el protocolo para activar antes de fin de año el sistema Lince en la ciudad de Santa Fe y alrededores, con un comité de ética consultivo abierto a Fiscalía, Defensoría y universidades, y resguardos de privacidad alineados con normas europeas.",
+    "fuente": "El Litoral (Santa Fe)",
+    "url": "https://www.ellitoral.com/politica/santafe-sistemalince-videovigilancia-inteligenciaartificial-maximilianopullaro_0_V7IjIu3qH1.html",
+    "fecha": "10 nov",
+    "tema": "Santa Fe"
+   },
+   {
+    "titulo": "Una estimación privada ubica la pobreza en 16,2 millones de personas",
+    "resumen": "La consultora ExQuanti calcula 3,4 millones de pobres más que un año atrás en el tercer trimestre y advierte que la tendencia podría seguir en 2027, en especial si el Presupuesto elimina la actualización automática de la AUH. El último dato oficial del INDEC era de 15,4 millones.",
+    "fuente": "Rosario3",
+    "url": "https://www.rosario3.com/informaciongeneral/la-pobreza-habria-llegado-a-162-millones-de-personas-en-argentina-y-advierten-que-podria-seguir-creciendo-en-2027-20261110-0069.html",
+    "fecha": "10 nov",
+    "tema": "Sociedad"
+   },
+   {
+    "titulo": "Morales Solá: lo que dejará la exitosa gira papal",
+    "resumen": "El columnista sostiene que León XIV, heredero de Francisco, le habló a toda la dirigencia porque en la Argentina la política dialoga y se respeta poco, y que su preocupación social y sus advertencias sobre la inteligencia artificial marcan distancia con el gobierno de Milei.",
+    "fuente": "La Nación",
+    "url": "https://www.lanacion.com.ar/politica/lo-que-dejara-la-exitosa-gira-papal-nid10112026/",
+    "fecha": "10 nov",
+    "tema": "Opinión"
+   }
+  ],
+  "locales": [
+   {
+    "titulo": "Rosario recibió más de 100.000 visitantes en la semana del feriado papal",
+    "resumen": "Según el Ente Turístico, los hoteles trabajaron al 75% en el fin de semana largo, con un pico de 85% el sábado. Congresos, recitales y la Fiesta de Colectividades dejaron ingresos por más de $8.600 millones.",
+    "fuente": "La Capital",
+    "url": "https://www.lacapital.com.ar/la-ciudad/rosario-cerro-una-semana-positiva-turismo-mas-100000-visitantes-n10291407.html/amp",
+    "fecha": "10 nov",
+    "tema": "Rosario"
+   },
+   {
+    "titulo": "Santa Fe prepara en Rosario la primera Expo Sabores con productores de toda la provincia",
+    "resumen": "El Ministerio de Desarrollo Productivo organizará el 12 y 13 de diciembre en La Fluvial una muestra gratuita con unos 120 stands de alimentos, bebidas y artesanías. Ya se anotaron 300 emprendimientos de 15 departamentos y la inscripción cierra el 15 de noviembre.",
+    "fuente": "El Ciudadano",
+    "url": "https://elciudadanoweb.com/de-que-se-trata-la-mega-expo-sabores-que-prepara-santa-fe-en-rosario/",
+    "fecha": "10 nov",
+    "tema": "Rosario"
+   },
+   {
+    "titulo": "Misa de León XIV en Córdoba: más de 550 mil fieles en FAdeA y balance del operativo municipal",
+    "resumen": "La Municipalidad estimó un movimiento de más de un millón de personas entre FAdeA, la avenida Colón y el centro. El regreso en colectivos tuvo demoras, pero no hubo incidentes graves; la limpieza de la ciudad arranca el miércoles.",
+    "fuente": "Cadena 3",
+    "url": "https://www.cadena3.com/noticia/el-camino-de-leon-en-argentina-uruguay-y-peru/leon-xiv-en-cordoba-estiman-mas-de-550-mil-fieles-en-fadea-y-la-municipalidad-destaco-el-operativo_611831",
+    "fecha": "10 nov",
+    "tema": "Córdoba"
+   },
+   {
+    "titulo": "La autopartista Magna cierra su planta en Córdoba y Renault absorbe la producción de asientos",
+    "resumen": "La caída de volúmenes tras el fin del programa de pick-ups con Nissan precipitó la salida. Renault fabricará los asientos en Santa Isabel de forma provisoria y parte del personal sería absorbido o trasladado; se suma a la salida de Adient en Rosario.",
+    "fuente": "Cba24n",
+    "url": "https://www.cba24n.com.ar/cordoba-motor/autopartista-magna-deja-cordoba-y-renault-asume-el-control_a6aee915a566f8a6f7fce55d0",
+    "fecha": "7 nov",
+    "tema": "Córdoba"
+   },
+   {
+    "titulo": "Paro total de subte el jueves desde las 21 por la muerte de un trabajador atribuida al asbesto",
+    "resumen": "Los Metrodelegados cuentan siete muertes vinculadas al asbesto y más de 150 trabajadores afectados; reclaman retirar el material y reemplazar trenes. Emova dice que sus mediciones del aire son adecuadas y la Ciudad sostiene que su plan de desamiantado rige desde 2018.",
+    "fuente": "El Cronista",
+    "url": "https://www.cronista.com/economia-politica/paro-de-subte-este-jueves-a-que-hora-sera-y-por-que-los-metrodelegados-lanzaron-la-medida/",
+    "fecha": "10 nov",
+    "tema": "CABA"
+   },
+   {
+    "titulo": "Escobar propone un Presupuesto 2027 de $410.000 millones y eliminar otras 52 tasas",
+    "resumen": "Sujarchuk destina casi 31% a obra pública y suma salud y seguridad hasta cerca del 69% del gasto; propone descuentos por pago adelantado y más exenciones de patentes. LLA, primera minoría en el Concejo, se mostró dispuesta a negociar.",
+    "fuente": "La Noticia Web",
+    "url": "https://www.lanoticiaweb.com.ar/sujarchuk-envio-al-concejo-deliberante-el-presupuesto-2027-y-busca-consenso-con-la-oposicion/",
+    "fecha": "4 nov",
+    "tema": "Gran Buenos Aires"
+   }
+  ],
+  "climalocal": [
+   {
+    "titulo": "Clima en Rosario: miércoles soleado de 20 a 29 °C y calor creciente hacia el fin de semana",
+    "resumen": "Jornada sin lluvias ni alertas en Rosario; el jueves y el viernes la máxima trepa a 33-34 °C y desde el viernes vuelven las chances de lluvias moderadas.",
+    "fuente": "Cadena 3",
+    "url": "https://www.cadena3.com/noticia/clima/clima-en-rosario-como-estara-el-tiempo-este-miercoles-11-de-noviembre_611919",
+    "fecha": "11 nov",
+    "tema": "Rosario"
+   },
+   {
+    "titulo": "Clima en Córdoba: 33 °C hoy y hasta 38 °C el viernes, con lluvias intensas",
+    "resumen": "Miércoles mayormente despejado y sin alertas en Córdoba; el calor sube hasta 38 °C el viernes, cuando se esperan lluvias fuertes que continúan el fin de semana.",
+    "fuente": "Cadena 3",
+    "url": "https://www.cadena3.com/noticia/clima/clima-en-cordoba-como-estara-el-tiempo-este-miercoles-11-de-noviembre_611917",
+    "fecha": "11 nov",
+    "tema": "Córdoba"
+   },
+   {
+    "titulo": "Clima en CABA: miércoles despejado y templado, con lluvias leves el sábado",
+    "resumen": "La Ciudad tendrá entre 20 y 26 °C sin lluvia ni alertas; el jueves llega a 28 °C y el fin de semana se nubla, con chances de lluvias débiles el sábado.",
+    "fuente": "Cadena 3",
+    "url": "https://www.cadena3.com/noticia/clima/clima-en-caba-como-estara-el-tiempo-este-miercoles-11-de-noviembre_611918",
+    "fecha": "11 nov",
+    "tema": "CABA y Gran Buenos Aires"
+   },
+   {
+    "titulo": "Chaparrones y tormentas avanzan desde Cuyo y Córdoba, y un frente frío traerá más lluvias el fin de semana",
+    "resumen": "Tras temperaturas inusuales (Trelew rozó 36 °C), una perturbación andina trae tormentas al centro del país a mitad de semana y un frente frío renovará lluvias entre viernes y domingo.",
+    "fuente": "Meteored Argentina",
+    "url": "https://www.meteored.com.ar/noticias/prediccion/avanzan-chaparrones-y-tormentas-desde-cordoba-y-cuyo-hacia-buenos-aires-y-el-sur-del-litoral-como-sigue-la-semana.html",
+    "fecha": "10 nov",
+    "tema": "Argentina"
+   },
+   {
+    "titulo": "Segunda quincena de noviembre: el Litoral cerraría el mes con lluvias muy por encima de lo normal",
+    "resumen": "Según anomalías del modelo europeo ECMWF, Misiones, Corrientes, Santa Fe y Entre Ríos tendrían excesos de más de 50 mm semanales, con impacto en bajos inundables, caudales del Paraná y Uruguay y drenaje urbano; el NOA quedaría más seco.",
+    "fuente": "Meteored Argentina",
+    "url": "https://www.meteored.com.ar/noticias/prediccion/segunda-quincena-de-noviembre-en-argentina-el-noreste-podria-cerrar-el-mes-con-lluvias-superiores-a-los-promedios.html",
+    "fecha": "10 nov",
+    "tema": "Argentina"
+   },
+   {
+    "titulo": "El trigo viene \"zafando\" de El Niño y apuesta a la demanda de Brasil",
+    "resumen": "La cosecha arrancó en el norte con buenos rindes y sin daño del Niño por ahora; se proyectan 23,5 Mt y las lluvias en el sur de Brasil podrían elevar sus importaciones a casi 9 Mt, aunque el precio cayó por la oferta del Mar Negro.",
+    "fuente": "Forbes Argentina",
+    "url": "https://www.forbesargentina.com/negocios/productores-trigo-vienen-zafando-nino-le-ponen-una-ficha-demanda-brasil-n101513",
+    "fecha": "1 nov",
+    "tema": "Argentina"
+   }
+  ],
+  "eeuu": [
+   {
+    "titulo": "Jim Jordan derrota a Scalise y será el líder de la minoría republicana en la Cámara",
+    "resumen": "Tras perder más de 40 bancas en las elecciones de medio término, los republicanos eligieron por 106 a 73 a Jordan, fundador del Freedom Caucus y aliado cercano de Trump, para conducir el bloque desde enero; Mike Johnson deja la conducción.",
+    "fuente": "CBS News",
+    "url": "https://www.cbsnews.com/news/jim-jordan-house-minority-leader-republicans/",
+    "fecha": "10 nov",
+    "tema": "Congreso"
+   },
+   {
+    "titulo": "Eric Boehm: los republicanos desperdiciaron la oportunidad de frenar a Hegseth",
+    "resumen": "La Cámara giró a comisión por 211 a 204 el juicio político de Massie contra el secretario de Guerra, con Massie como único republicano en contra; desde la mirada libertaria de Reason, el autor sostiene que el oficialismo dejó pasar un control necesario sobre la guerra con Irán y los ataques a lanchas en el Caribe.",
+    "fuente": "Reason",
+    "url": "https://reason.com/2026/11/10/thomas-massies-attempt-to-impeach-pete-hegseth-is-derailed/",
+    "fecha": "10 nov",
+    "tema": "Opinión"
+   },
+   {
+    "titulo": "La inflación de octubre sube 0,4% y supera lo esperado",
+    "resumen": "Los precios al consumidor aumentaron 0,4% mensual y la inflación núcleo 0,3%, una décima por encima de los pronósticos, empujados por alimentos y alquileres; el dato complica a la Reserva Federal, que sigue lejos de su meta del 2%.",
+    "fuente": "AP (vía Transport Topics)",
+    "url": "https://www.ttnews.com/articles/cpi-hotter-october-2026",
+    "fecha": "10 nov",
+    "tema": "Economía"
+   },
+   {
+    "titulo": "Trump pone en duda los resultados de las elecciones que perdió",
+    "resumen": "Después de haber dicho que aceptaba el triunfo demócrata, el presidente sugirió en Truth Social que la votación no fue honesta, sin aportar pruebas; expertos electorales señalan que los resultados son consistentes en todos los métodos de votación.",
+    "fuente": "Forbes",
+    "url": "https://www.forbes.com/sites/alisondurkee/2026/11/09/trump-suggests-he-wont-accept-democrats-midterms-wins-baselessly-questions-honesty-of-the-results/",
+    "fecha": "9 nov",
+    "tema": "Casa Blanca"
+   },
+   {
+    "titulo": "JD Vance suspende su viaje a la Argentina tras la derrota republicana",
+    "resumen": "El vicepresidente iba a hacer en noviembre una gira por Argentina, Colombia y Chile, que habría sido la visita de más alto nivel de la gestión Trump durante el mandato de Milei; fuentes la atribuyen a la situación interna de EE.UU. y hablan de retomarla en unos meses.",
+    "fuente": "La Nación (Argentina)",
+    "url": "https://www.lanacion.com.ar/politica/el-vicepresidente-de-estados-unidos-cancela-su-viaje-a-la-argentina-tras-la-debacle-electoral-nid10112026/",
+    "fecha": "10 nov",
+    "tema": "EE.UU.-Argentina"
+   },
+   {
+    "titulo": "Paul Glastris: ideas para la nueva mayoría demócrata",
+    "resumen": "El director de Washington Monthly, de centroizquierda, propone que el nuevo Congreso discuta en audiencias el control de abusos de precios, matrícula universitaria gratuita para ingresos medios, precios regulados en salud y una reforma migratoria con sanciones a empleadores y vías legales, aunque admite que nada avanzará con Trump en la Casa Blanca.",
+    "fuente": "Washington Monthly",
+    "url": "https://washingtonmonthly.com/2026/11/10/democrats-have-a-majority-we-have-some-ideas/",
+    "fecha": "10 nov",
+    "tema": "Opinión"
+   }
+  ],
+  "mundo": [
+   {
+    "titulo": "Zelenski: en Abu Dabi se habló de un canje de 1.000 por 1.000 prisioneros y Rusia planteó el tema territorial",
+    "resumen": "Tras unas cuatro horas de reunión el primer día, EE.UU. llevará a Moscú la propuesta de intercambio, que podría llegar a 1.500 por lado; Kiev dice que el territorio es asunto de los presidentes y que este miércoles se tratan desescalada, energía, mar Negro y una posible cumbre trilateral.",
+    "fuente": "Interfax-Ukraine (Ucrania)",
+    "url": "https://en.interfax.com.ua/news/general/1234514.html",
+    "fecha": "11 nov",
+    "tema": "Ucrania-Rusia"
+   },
+   {
+    "titulo": "Eisenkot suspende la negociación con el Likud tras un discurso \"divisivo\" de Netanyahu",
+    "resumen": "En la jura de la nueva Knéset, Netanyahu pidió un gobierno de unidad pero rechazó cualquier coalición apoyada por partidos árabes; el partido de Eisenkot, encargado de formar gobierno con 67 apoyos, exige al Likud cortar con la ultraderecha y aceptar su liderazgo.",
+    "fuente": "Israel Hayom (Israel)",
+    "url": "https://www.israelhayom.com/2026/11/10/eisenkot-cancels-likud-coalition-talks-over-netanyahus-knesset-speech/",
+    "fecha": "10 nov",
+    "tema": "Medio Oriente"
+   },
+   {
+    "titulo": "Taiwán denuncia ejercicios chinos de \"negación de área\" antes de la cumbre APEC",
+    "resumen": "El ministro de Defensa Wellington Koo afirmó que el grupo del portaaviones Liaoning y otras formaciones ensayan en el Pacífico occidental cómo impedir una intervención de EE.UU. o aliados, en vísperas del encuentro Trump-Xi en Shenzhen y de las elecciones locales taiwanesas del 28 de noviembre.",
+    "fuente": "Taipei Times (Taiwán)",
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/11/10/2003867493",
+    "fecha": "10 nov",
+    "tema": "China-Taiwán"
+   },
+   {
+    "titulo": "Chipre responde con un anti-Navtex a Turquía por el cable eléctrico con Grecia",
+    "resumen": "Un buque francés zarpó de Creta para relevar el lecho marino del Great Sea Interconnector con permisos de Atenas y Nicosia; Turquía emitió un aviso naval propio como si su consentimiento fuera necesario y Chipre lo contrarrestó al considerarlo no coordinado y sin efecto.",
+    "fuente": "Cyprus Mail (Chipre)",
+    "url": "https://cyprus-mail.com/2026/11/11/cyprus-issues-anti-navtex-over-seabed-survey",
+    "fecha": "11 nov",
+    "tema": "Europa"
+   },
+   {
+    "titulo": "Detienen al hermano de Viktor Orbán en una causa por tráfico de personas",
+    "resumen": "La policía húngara arrestó a Áron Orbán en una investigación vinculada a un presunto esquema de visas para trabajadores extranjeros; el ex primer ministro habla de persecución política, mientras el gobierno de Péter Magyar avanza con las causas por corrupción prometidas en campaña.",
+    "fuente": "Al Jazeera (Qatar)",
+    "url": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban",
+    "fecha": "9 nov",
+    "tema": "Europa"
+   },
+   {
+    "titulo": "Paraguay: docentes exigen a Alliana que \"paguen los responsables\" del colapso de Ueno",
+    "resumen": "Los gremios protestaron frente al Congreso y se reunieron con el nuevo presidente para reclamar los fondos jubilatorios atrapados en el banco intervenido (US$ 40 millones de la Caja Fiscal y US$ 516 millones del IPS); el Ejecutivo prometió una ley para priorizar su recuperación.",
+    "fuente": "ABC Color (Paraguay)",
+    "url": "https://www.abc.com.py/nacionales/2026/11/09/que-paguen-los-responsables-el-pedido-de-los-docentes-a-alliana-tras-la-estafa-de-ueno/",
+    "fecha": "9 nov",
+    "tema": "América Latina"
+   }
+  ],
+  "finanzas": [
+   {
+    "titulo": "El riesgo país perfora los 860 puntos en la segunda rueda sin mercado local",
+    "resumen": "Con la plaza porteña cerrada por el feriado, los bonos globales siguieron subiendo en el exterior y el riesgo país encadenó su segunda baja, aunque los ADR argentinos terminaron mayormente en rojo en Wall Street.",
+    "fuente": "Perfil",
+    "url": "https://www.perfil.com/economia/el-riesgo-pais-sigue-en-baja-y-perforo-los-860-puntos-awW7R4T7pcy1",
+    "fecha": "10 nov",
+    "tema": "Argentina"
+   },
+   {
+    "titulo": "Wall Street retrocede tras un dato de inflación más alto de lo esperado",
+    "resumen": "El IPC de octubre por encima de las previsiones cortó el buen arranque de semana: el Nasdaq cayó 0,7% y el S&P 500 0,4%, ante la mayor probabilidad de una suba de tasas de la Fed en diciembre.",
+    "fuente": "TheStreet (EE.UU.)",
+    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026",
+    "fecha": "10 nov",
+    "tema": "EE.UU."
+   },
+   {
+    "titulo": "Ibovespa cae 0,52% y el dólar trepa a R$ 5,58, máximo en más de un año",
+    "resumen": "La bolsa paulista cedió por la inflación estadounidense y la cautela del Banco Central de Brasil tras mantener la Selic en 13,75%, mientras el real se depreció cerca de 1,5% en el día.",
+    "fuente": "Metrópoles (Brasil)",
+    "url": "https://www.metropoles.com/brasil/ibovespa-cai-052-com-inflacao-dos-eua-e-ata-do-copom-no-radar",
+    "fecha": "10 nov",
+    "tema": "Brasil"
+   },
+   {
+    "titulo": "China y Hong Kong ceden por el temor a tasas globales más altas",
+    "resumen": "El índice de Shanghái bajó 0,2% y el Hang Seng 0,8% a media jornada, aunque las tecnológicas ligadas a comunicaciones ópticas y 5G subieron con fuerza.",
+    "fuente": "Business Recorder / Reuters (Pakistán)",
+    "url": "https://www.brecorder.com/news/40448403/china-hong-kong-shares-ease-as-global-rate-concerns-weigh",
+    "fecha": "11 nov",
+    "tema": "China"
+   },
+   {
+    "titulo": "Las acciones europeas rondan récords impulsadas por la inteligencia artificial",
+    "resumen": "El STOXX 600 sube 0,7% y se acerca a su máximo de agosto, con Siemens Energy en alza por un fuerte aumento de dividendos, mientras el Brent rebota por ataques a buques en Ormuz.",
+    "fuente": "Finimize (Reino Unido)",
+    "url": "https://finimize.com/content/european-stocks-hover-near-records-on-ai-optimism",
+    "fecha": "11 nov",
+    "tema": "Europa"
+   },
+   {
+    "titulo": "Oro y plata se desploman tras el IPC de EE.UU.; el petróleo también baja",
+    "resumen": "El oro perdió 2,6% hasta unos US$4.032 y la plata 3,5%, golpeados por la expectativa de una suba de tasas más grande de la Fed; el Brent cerró en US$91,49.",
+    "fuente": "Kitco (Canadá)",
+    "url": "https://www.kitco.com/news/article/2026-11-10/gold-silver-plunge-hotter-us-inflation-raises-prospect-larger-fed-rate-hike",
+    "fecha": "10 nov",
+    "tema": "Commodities"
+   }
+  ],
+  "datos": [
+   {
+    "titulo": "IPC de EE.UU.: los precios suben 0,4% en octubre, por encima de lo esperado",
+    "resumen": "La inflación general mensual superó el 0,3% previsto y la núcleo marcó 0,3%; no hay variación interanual porque el cierre del gobierno de 2025 dejó sin datos a octubre del año pasado.",
+    "fuente": "Reuters vía AOL (EE.UU.)",
+    "url": "https://www.aol.com/articles/hot-october-inflation-report-rattles-135837000.html",
+    "fecha": "10 nov",
+    "tema": "BLS (EE.UU.)"
+   },
+   {
+    "titulo": "Pymes de EE.UU.: el optimismo se mantiene apenas debajo del promedio histórico",
+    "resumen": "El índice de la NFIB quedó en 97,8 en octubre; la incertidumbre bajó a su menor nivel desde diciembre de 2025 y los impuestos escalaron como preocupación principal, al nivel más alto desde 2021.",
+    "fuente": "WWMT / Sinclair (EE.UU.)",
+    "url": "https://wwmt.com/news/nation-world/small-business-optimism-steady-in-face-of-persistent-price-labor-and-tax-pressures",
+    "fecha": "10 nov",
+    "tema": "NFIB (EE.UU.)"
+   },
+   {
+    "titulo": "China: las ventas de autos se hunden 27% en el mercado interno y las exportaciones eléctricas se disparan",
+    "resumen": "Según la CPCA, las ventas minoristas de autos de pasajeros cayeron 27,1% interanual en octubre, mientras las exportaciones de vehículos de nueva energía crecieron 144,7% y su participación local llegó al récord de 67,5%.",
+    "fuente": "ChinaEVHome (China)",
+    "url": "https://chinaevhome.com/2026/11/09/chinas-october-nev-exports-jump-144-7-as-passenger-car-retail-sales-fall-27-1/",
+    "fecha": "9 nov",
+    "tema": "CPCA (China)"
+   },
+   {
+    "titulo": "Las ventas minoristas pyme caen 1,6% interanual en octubre",
+    "resumen": "El relevamiento de CAME muestra el séptimo mes de baja interanual del año, con una mejora mínima frente a septiembre; alimentos, farmacias y materiales de construcción fueron los rubros más golpeados.",
+    "fuente": "La Capital de Mar del Plata",
+    "url": "https://www.lacapitalmdp.com/a-nivel-nacional-las-ventas-minoristas-cayeron-16-interanual-en-octubre/",
+    "fecha": "8 nov",
+    "tema": "CAME (Argentina)"
+   },
+   {
+    "titulo": "La afluencia a los comercios británicos cae 4,7% en octubre",
+    "resumen": "El monitor BRC-Sensormatic registró la peor caída en meses, con las calles comerciales a la cabeza (-5,2%) y Gales como la región más afectada, en parte por el mal tiempo.",
+    "fuente": "FashionUnited (Reino Unido)",
+    "url": "https://fashionunited.uk/news/retail/uk-footfall-falls-4-7-percent-in-october-as-stormy-weather-hits-high-streets/2026110691234",
+    "fecha": "6 nov",
+    "tema": "BRC (Reino Unido)"
+   },
+   {
+    "titulo": "Inflación en São Paulo: el IPC-Fipe sube 0,44% en octubre",
+    "resumen": "El índice paulista se desaceleró frente a septiembre, pero los alimentos se aceleraron con fuerza (1,35%) y la variación en 12 meses subió a 3,59%.",
+    "fuente": "Boca (Brasil)",
+    "url": "https://boca.com.br/economia/ipc-sao-paulo-alta-outubro-desaceleracao",
+    "fecha": "4 nov",
+    "tema": "Fipe (Brasil)"
+   }
+  ],
+  "ideas": [
+   {
+    "titulo": "New Congress, Same Debt: Our Next Fiscal Crisis Is Already on the Calendar",
+    "resumen": "David Hebert sostiene que el nuevo Congreso hereda más de US$40 billones de deuda y que, como la recaudación vuelve siempre a su peso histórico en el PBI, la corrección probablemente la terminen imponiendo los mercados de bonos.",
+    "fuente": "AIER (EE.UU.)",
+    "url": "https://thedailyeconomy.org/article/new-congress-same-debt-our-next-fiscal-crisis-is-already-on-the-calendar/",
+    "fecha": "10 nov",
+    "tema": "Política fiscal"
+   },
+   {
+    "titulo": "When Immigration Meets an Economy That Can't Adapt",
+    "resumen": "Vincent Geloso argumenta que los efectos negativos atribuidos a la inmigración, como salarios bajos o alquileres caros, nacen de regulaciones que impiden que la vivienda y la inversión se expandan junto con la población.",
+    "fuente": "AIER (EE.UU.)",
+    "url": "https://thedailyeconomy.org/article/when-immigration-meets-an-economy-that-cant-adapt/",
+    "fecha": "9 nov",
+    "tema": "Inmigración"
+   },
+   {
+    "titulo": "Voters Hated Tariffs. Here Are the Receipts.",
+    "resumen": "Jon Miltimore y Laura Williams sostienen que los aranceles encarecieron la vida sin reactivar la industria y que el voto de castigo en las legislativas muestra el límite político del proteccionismo.",
+    "fuente": "AIER (EE.UU.)",
+    "url": "https://thedailyeconomy.org/article/voters-hated-tariffs-here-are-the-receipts/",
+    "fecha": "9 nov",
+    "tema": "Comercio"
+   },
+   {
+    "titulo": "The French Revolt Against Fiscal Reality",
+    "resumen": "Paul Mueller lee el malestar francés frente al ajuste de 54.000 millones de euros como advertencia para Europa y propone recortar gasto y desregular, como hicieron Canadá, Australia y los nórdicos.",
+    "fuente": "AIER (EE.UU.)",
+    "url": "https://thedailyeconomy.org/article/the-french-revolt-against-fiscal-reality/",
+    "fecha": "6 nov",
+    "tema": "Europa"
+   },
+   {
+    "titulo": "Robert J. Shapiro: cómo los demócratas pueden desarmar la reforma fiscal de Trump",
+    "resumen": "El economista, exsubsecretario de Comercio de Clinton, propone usar la vía de reconciliación presupuestaria (mayoría simple, sin filibusterismo) para derogar los recortes a altos ingresos y empresas, recaudar unos US$2,4 billones en diez años y revertir los recortes a Medicaid, subsidios de salud y ayuda alimentaria, además de bajar aranceles. Lo presenta como una vuelta a la receta de los años de Clinton.",
+    "fuente": "Washington Monthly (EE.UU.)",
+    "url": "https://washingtonmonthly.com/2026/11/10/reconciliation-how-congressional-democrats-can-undo-trump/",
+    "fecha": "10 nov",
+    "tema": "Opinión"
+   },
+   {
+    "titulo": "Marcela Pagano: \"Que el crecimiento alcance a quienes más le cuesta\", lo pidió el Papa, no la oposición",
+    "resumen": "La diputada nacional lee los mensajes de León XIV sobre salarios bajos, jubilados, discapacidad, jóvenes que emigran y corrupción como una crítica implícita al ajuste de Milei. Sostiene que el veto a las subas jubilatorias y los recortes en educación y discapacidad chocan con la idea de una economía al servicio de las personas.",
+    "fuente": "Perfil",
+    "url": "https://www.perfil.com/sociedad/que-el-crecimiento-alcance-a-quienes-mas-le-cuesta-pidio-el-papa-no-la-oposicion-ahXqm8A14M9v",
+    "fecha": "10 nov",
+    "tema": "Opinión"
+   }
+  ],
+  "ciudad": [
+   {
+    "titulo": "Death of the Abundance Agenda?",
+    "resumen": "Christian Britschgi sostiene que las midterms debilitaron la apuesta demócrata por la 'abundancia' (desregular vivienda, energía e infraestructura): fracasaron el tope al tamaño de lotes en Massachusetts y la reforma ambiental de California, y las regulaciones sobreviven porque tienen grupos organizados que las defienden.",
+    "fuente": "Reason (EE.UU.)",
+    "url": "https://reason.com/2026/11/10/death-of-the-abundance-agenda/",
+    "fecha": "10 nov",
+    "tema": "Opinión"
+   },
+   {
+    "titulo": "Senate Advances Bipartisan Permitting Bill That Could Unleash Energy Development With Major Caveats",
+    "resumen": "El Senado de EE.UU. avanzó 73-25 una ley de permisos que acota las revisiones ambientales (NEPA), fija plazos y limita juicios contra obras de infraestructura, aunque amplía el poder federal sobre la red eléctrica y obliga a data centers a pagar su transmisión. Ambientalistas y tribus se oponen.",
+    "fuente": "Reason (EE.UU.)",
+    "url": "https://reason.com/2026/11/10/senate-advances-bipartisan-permitting-bill-that-could-unleash-energy-development-with-major-caveats/",
+    "fecha": "10 nov",
+    "tema": "Infraestructura"
+   },
+   {
+    "titulo": "El Índice Construya cayó 3,53% en octubre y suma cinco meses en baja",
+    "resumen": "La venta de insumos para la construcción bajó 3,53% mensual desestacionalizado y 9% interanual; el grupo Construya atribuye la debilidad a un crédito y una normalización macro más lentos de lo esperado, aunque ve positivas las perspectivas de inversión residencial a mediano plazo.",
+    "fuente": "Revista Mercado",
+    "url": "https://mercado.com.ar/ladrillos-y-proyectos/el-indice-construya-registro-en-octubre-una-baja-mensual-de-353-desestacionalizada",
+    "fecha": "10 nov",
+    "tema": "Construcción"
+   },
+   {
+    "titulo": "Spain braces for nationwide walkout as anger over housing, costs boils over",
+    "resumen": "CCOO y UGT llaman hoy a la primera huelga general en España desde 2012 bajo el lema 'salarios, vivienda, precios'. El Banco de España estima un faltante de 750.000 viviendas y el alquiler promedio (1.176 euros) ya iguala el salario medio de un joven.",
+    "fuente": "Al Jazeera (Qatar)",
+    "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over",
+    "fecha": "10 nov",
+    "tema": "Vivienda"
+   },
+   {
+    "titulo": "Kennedy family joins US lawsuits to block Trump's 'unlawful' arch plan",
+    "resumen": "Nueve descendientes de Robert y Edward Kennedy se suman a las demandas contra el 'arco triunfal' de 76 metros proyectado en Washington, que según los demandantes se aprobó sin el Congreso y taparía la histórica visual entre el Lincoln Memorial y Arlington; una jueza ya frenó la obra por 14 días.",
+    "fuente": "Al Jazeera (Qatar)",
+    "url": "https://www.aljazeera.com/news/2026/11/11/kennedy-family-joins-us-lawsuits-to-block-trumps-unlawful-arch-plan",
+    "fecha": "11 nov",
+    "tema": "Espacio público"
+   },
+   {
+    "titulo": "La zona de Buenos Aires a la que más gente se muda: su población creció casi 350% en 30 años",
+    "resumen": "Una nota sobre el área del conurbano con mayor crecimiento demográfico de las últimas tres décadas, que ahora además concentra nuevos emprendimientos inmobiliarios de alta gama.",
+    "fuente": "La Nación",
+    "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/la-zona-de-buenos-aires-a-la-que-mas-gente-se-muda-suma-proyectos-de-lujo-nid31102026/",
+    "fecha": "6 nov",
+    "tema": "Crecimiento urbano"
+   }
+  ],
+  "clima": [
+   {
+    "titulo": "Greta Thunberg llega a la COP31 y acusa a la cumbre de hipocresía",
+    "resumen": "En Antalya, la activista sueca cuestionó que los países anfitriones usen las conferencias para lavar su imagen y que los lobbies de industrias contaminantes influyan en las negociaciones, que siguen hasta el 20 de noviembre en medio del shock energético por la guerra con Irán.",
+    "fuente": "Al Jazeera (Qatar)",
+    "url": "https://www.aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks",
+    "fecha": "11 nov",
+    "tema": "COP31"
+   },
+   {
+    "titulo": "El Niño se fortalece: la NOAA da más de 83% de chances de una fase intensa hasta 2027",
+    "resumen": "La agencia estadounidense mantiene la alerta y prevé que el evento siga fuerte o muy fuerte hasta el trimestre enero-marzo, con anomalías superiores a +4 °C en zonas del Pacífico; la nota explica además el nuevo índice RONI, que separa la señal de El Niño del calentamiento de fondo del océano.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/america/medio-ambiente/2026/11/10/el-nino-se-fortalece-y-cientificos-de-eeuu-estiman-mas-de-83-de-probabilidad-de-una-fase-intensa-hasta-2027/",
+    "fecha": "10 nov",
+    "tema": "El Niño"
+   },
+   {
+    "titulo": "Local experts discuss implications of shrinking global carbon budget",
+    "resumen": "Académicos taiwaneses analizan el Global Carbon Budget: con el ritmo actual, el margen para no superar 1,5 °C se agotaría en menos de cuatro años, y aunque las emisiones fósiles bajarían 0,4%, el CO2 total seguiría subiendo hasta 43,3 mil millones de toneladas.",
+    "fuente": "Taipei Times (Taiwán)",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/10/2003867502",
+    "fecha": "10 nov",
+    "tema": "Emisiones"
+   },
+   {
+    "titulo": "El Niño irrumpe en la COP31: en Antalya se discute quién paga el costo del cambio climático",
+    "resumen": "Con nuevas advertencias de la ONU y la OMM sobre récords de calor oceánico y un El Niño muy fuerte como telón de fondo, la cumbre debate cómo financiar los daños y triplicar los fondos de adaptación para 2035.",
+    "fuente": "Meteored Argentina",
+    "url": "https://www.meteored.com.ar/noticias/actualidad/el-nino-irrumpe-en-la-cop31-el-oceano-acumula-calor-en-antalya-se-debate-quien-paga-el-precio-del-cambio-climatico.html",
+    "fecha": "10 nov",
+    "tema": "COP31"
+   },
+   {
+    "titulo": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
+    "resumen": "El país anfitrión promueve un compromiso voluntario para que la electricidad cubra al menos 35% de la demanda energética mundial en 2035; los críticos advierten que no exige que esa energía sea baja en carbono, en un contexto en que la guerra con Irán empujó a varios países de vuelta al carbón.",
+    "fuente": "Al Jazeera (Qatar)",
+    "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open",
+    "fecha": "9 nov",
+    "tema": "Política climática"
+   },
+   {
+    "titulo": "Las olas de calor serán más largas, extensas e intensas, según un estudio europeo",
+    "resumen": "Investigadores de la Universidad Libre de Berlín compararon 22 olas de calor excepcionales de 2010–2023 con proyecciones a 2100 y concluyen que muchas futuras superarán esos récords; para 2060–2099 la mayoría de los modelos prevé al menos una ola excepcional por año en varias regiones.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/america/medio-ambiente/2026/11/09/cientificos-alertan-que-el-cambio-climatico-provocara-olas-de-calor-mas-intensas-y-prolongadas/",
+    "fecha": "9 nov",
+    "tema": "Calor extremo"
+   }
+  ],
+  "desastres": [
+   {
+    "titulo": "Un sismo de magnitud 5,8 sacudió a Guatemala y El Salvador",
+    "resumen": "El temblor, con epicentro frente a la costa guatemalteca y a unos 35 km de profundidad, se sintió con fuerza en ambos países centroamericanos.",
+    "fuente": "La Nación",
+    "url": "https://www.lanacion.com.ar/el-mundo/un-sismo-de-magnitud-58-sacudio-a-guatemala-y-el-salvador-nid10112026/",
+    "fecha": "10 nov",
+    "tema": "Sismo"
+   },
+   {
+    "titulo": "Gaza: un deslizamiento por las lluvias mata a cinco desplazados, cuatro de ellos niños",
+    "resumen": "Las lluvias del temporal derrumbaron un banco de arena sobre una carpa en Deir el-Balah; las autoridades locales culparon a la inacción internacional y a las restricciones israelíes al ingreso de refugios y equipos de rescate.",
+    "fuente": "Al Jazeera (Qatar)",
+    "url": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people",
+    "fecha": "9 nov",
+    "tema": "Temporal"
+   },
+   {
+    "titulo": "El cambio climático podría alterar la actividad de los rayos y aumentar el riesgo de incendios forestales",
+    "resumen": "Proyecciones citadas por The Guardian indican que el calentamiento cambiará el patrón de tormentas eléctricas y elevará el peligro de fuego en ecosistemas secos; los rayos secos ya desataron grandes incendios en Canadá, EE.UU. y Australia.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/america/medio-ambiente/2026/11/09/el-cambio-climatico-podria-alterar-la-actividad-de-los-rayos-y-aumentar-el-peligro-de-incendios-forestales/",
+    "fecha": "9 nov",
+    "tema": "Incendios"
+   },
+   {
+    "titulo": "México: la UNAM pide preparar mochilas de emergencia ante un El Niño que podría ser histórico",
+    "resumen": "Investigadores de la universidad advierten que el fenómeno traerá calor récord, incendios y lluvias y sequías desparejas en el país, y recomiendan un kit con agua, comida, medicamentos y documentos para al menos dos días.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/mexico/2026/11/09/fenomeno-de-el-nino-se-fortalece-unam-recomienda-mochila-de-emergencia-ante-probabilidad-de-incremento-en-los-desastres-naturales/",
+    "fecha": "9 nov",
+    "tema": "Prevención"
+   },
+   {
+    "titulo": "Costa Rica en alerta por lluvias y tormentas de una baja presión en el Pacífico",
+    "resumen": "El Instituto Meteorológico Nacional pidió precaución por inundaciones en el Pacífico Norte y Central, con suelos saturados hasta 95% y ráfagas de hasta 80 km/h, mientras el Centro Nacional de Huracanes daba 20% de chances de que el sistema se convierta en depresión tropical.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/costa-rica/2026/11/08/lluvias-y-tormentas-podrian-mantenerse-en-costa-rica-por-una-baja-presion-frente-al-pacifico/",
+    "fecha": "8 nov",
+    "tema": "Tormentas"
+   },
+   {
+    "titulo": "Nepal's fight to rebuild after flood disaster",
+    "resumen": "Documental de 101 East sobre la búsqueda de desaparecidos y la reconstrucción tras el aluvión de roca y hielo del 26 de agosto, que dejó al menos 1.400 muertos y más de 5.000 desaparecidos.",
+    "fuente": "Al Jazeera (Qatar)",
+    "url": "https://www.aljazeera.com/video/101-east/2026/11/7/nepals-fight-to-rebuild-after-flood-disaster",
+    "fecha": "7 nov",
+    "tema": "Inundaciones"
+   }
+  ],
+  "tecnologia": [
+   {
+    "titulo": "Bancos e inversores frenan los préstamos para centros de datos de IA",
+    "resumen": "Tras la caída de las tecnológicas, bancos como ING buscan desprenderse de deuda de data centers y fondos como Ares se niegan a prestar porque no pueden estimar cuánto se deprecian los chips; los rendimientos de esos bonos pasaron de menos de 5% a cerca de 7%.",
+    "fuente": "Infobae (con Bloomberg y Semafor)",
+    "url": "https://www.infobae.com/tecno/2026/11/10/bancos-e-inversores-frenan-los-prestamos-para-centros-de-datos-de-ia-tras-la-caida-de-las-acciones-tecnologicas/",
+    "fecha": "10 nov",
+    "tema": "IA y finanzas"
+   },
+   {
+    "titulo": "Bloomington, Indiana, Bans Superintelligent AI, Hoping 350 Other Cities Will Follow",
+    "resumen": "El concejo de Bloomington prohibió por unanimidad activar 'superinteligencia artificial' dentro de la ciudad hasta que exista un marco de seguridad; sus impulsores quieren replicarlo en 350 ciudades, y críticos como Adam Thierer advierten sobre un 'infierno regulatorio' municipal y choques con la Primera Enmienda.",
+    "fuente": "Reason (EE.UU.)",
+    "url": "https://reason.com/2026/11/10/bloomington-indiana-bans-superintelligent-ai-hoping-350-other-cities-will-follow/",
+    "fecha": "10 nov",
+    "tema": "Regulación de IA"
+   },
+   {
+    "titulo": "La UE quiere que los usuarios puedan apagar la reproducción automática y las rachas de las apps",
+    "resumen": "La Comisión Europea presenta hoy la Digital Fairness Act: prohibiría diez 'patrones oscuros', las loot boxes pagas para chicos y la publicidad con perfiles de menores, exigiría aprobación humana a los agentes de compra con IA y fijaría multas de hasta 6% de la facturación global. Alemania se opone.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/tecno/2026/11/09/union-europea-quiere-que-los-usuarios-puedan-apagar-la-reproduccion-automatica-y-las-rachas-de-las-apps/",
+    "fecha": "9 nov",
+    "tema": "Regulación digital"
+   },
+   {
+    "titulo": "Google presentó un chip de IA que protege los datos confidenciales mientras se procesan",
+    "resumen": "El nuevo TPU 8tx aplica 'computación confidencial' por hardware para aislar datos y parámetros del modelo durante el cómputo, pensado para gobiernos y empresas reguladas que quieran entrenar o ajustar modelos con información privada.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/tecno/2026/11/09/google-presento-un-chip-de-ia-que-protege-los-datos-confidenciales-mientras-se-procesan/",
+    "fecha": "9 nov",
+    "tema": "Chips y privacidad"
+   },
+   {
+    "titulo": "Alex Stamos: AI is pushing cybersecurity into a 'dark age'",
+    "resumen": "El nuevo jefe de seguridad de Cognition sostiene que los modelos de pesos abiertos ya automatizan casi todo un ataque informático y anticipa una ola de hackeos contra organizaciones medianas (aseguradoras, distritos escolares, proveedores médicos) más que desde los grandes laboratorios.",
+    "fuente": "The Verge (EE.UU.)",
+    "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "fecha": "9 nov",
+    "tema": "Ciberseguridad"
+   },
+   {
+    "titulo": "AI will soon master biology, unleashing new safety risks, Tencent AI chief warns",
+    "resumen": "Yao Shunyu, científico jefe de IA de Tencent, advirtió que los modelos de frontera se acercan a poder causar daño real, primero en ciberseguridad y pronto en biología, y pidió a los laboratorios chinos de pesos abiertos tomarse en serio la seguridad, aunque defiende un enfoque mixto.",
+    "fuente": "South China Morning Post (Hong Kong)",
+    "url": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns",
+    "fecha": "9 nov",
+    "tema": "Seguridad de IA"
+   }
+  ],
+  "ciencia": [
+   {
+    "titulo": "10,500-year-old wooden remains in German lake point to submerged prehistoric settlement",
+    "resumen": "Con un vehículo submarino, arqueólogos hallaron a 20 metros de profundidad en el lago Arendsee (Sajonia-Anhalt) maderas trabajadas, herramientas de piedra y huesos de caza del Mesolítico; muestran actividad humana en una antigua orilla hoy sumergida, aunque todavía no confirman un asentamiento estable.",
+    "fuente": "HeritageDaily",
+    "url": "https://www.heritagedaily.com/2026/11/10500-year-old-wooden-remains-in-german-lake-points-to-submerged-prehistoric-settlement/159943",
+    "fecha": "6 nov",
+    "tema": "Prehistoria"
+   },
+   {
+    "titulo": "280 Palaeolithic cave engravings transform understanding of prehistoric art",
+    "resumen": "Un estudio en Antiquity documenta 280 grabados, 55 de ellos animales (caballos, ciervos, un oso), en la Cova de la Font Major (Cataluña), ocupada hace entre 40.000 y 26.000 años: es el primer gran conjunto de arte rupestre paleolítico del este de la península ibérica.",
+    "fuente": "HeritageDaily",
+    "url": "https://www.heritagedaily.com/2026/11/280-palaeolithic-cave-engravings-transform-understanding-of-prehistoric-art/159914",
+    "fecha": "5 nov",
+    "tema": "Prehistoria"
+   },
+   {
+    "titulo": "Ancient name of newly discovered Maya city deciphered",
+    "resumen": "Epigrafistas de la UNAM leyeron en estelas que la ciudad hallada en mayo al norte de Calakmul (Campeche) se llamaba Sakil, vinculada a la 'blancura', y que estuvo en guerra con la vecina Ocomtún en el Clásico Tardío (600-900 d.C.).",
+    "fuente": "HeritageDaily",
+    "url": "https://www.heritagedaily.com/2026/11/ancient-name-of-newly-discovered-maya-city-deciphered/159966",
+    "fecha": "9 nov",
+    "tema": "Arqueología"
+   },
+   {
+    "titulo": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+    "resumen": "El experimento LHCb reportó evidencia (3,2 sigmas) de la desintegración de un mesón B en un par de muones, un proceso rarísimo que sirve para poner a prueba el Modelo Estándar; todavía no alcanza los 5 sigmas de una observación confirmada.",
+    "fuente": "ScienceDaily (CERN)",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+    "fecha": "9 nov",
+    "tema": "Física"
+   },
+   {
+    "titulo": "Alzheimer's may have early warning signs outside the brain",
+    "resumen": "Con un modelo de células humanas de la unión neuromuscular, investigadores de la Universidad de Florida Central mostraron que mutaciones del Alzheimer familiar alteran la comunicación entre nervio y músculo sin intervención del cerebro, lo que podría explicar problemas motores tempranos.",
+    "fuente": "ScienceDaily (Univ. of Central Florida)",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+    "fecha": "9 nov",
+    "tema": "Neurociencia"
+   },
+   {
+    "titulo": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+    "resumen": "El orbitador ExoMars detectó cloruro de hidrógeno sobre fracturas del volcán Alba Mons en una estación en que ese gas suele escasear; los autores creen que podría escapar de una cámara magmática dormida, aunque no hay erupciones observadas.",
+    "fuente": "ScienceDaily (ESA)",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
+    "fecha": "7 nov",
+    "tema": "Espacio"
+   }
+  ],
+  "pensamiento": [
+   {
+    "titulo": "De la Resistencia peronista al crimen de la Triple A: la vida del militante César Robles, contada por su hija",
+    "resumen": "Andrea Robles reconstruye la trayectoria de su padre, dirigente del PST asesinado por la Triple A en noviembre de 1974, con cartas, documentos partidarios y expedientes judiciales. La segunda parte del libro investiga el origen y la estructura de la Triple A bajo los gobiernos peronistas de los setenta.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/cultura/2026/11/10/de-la-resistencia-peronista-al-asesinato-por-la-triple-a-la-historia-de-un-militante-politico-contada-en-un-libro-escrito-por-su-hija/",
+    "fecha": "10 nov",
+    "tema": "Historia"
+   },
+   {
+    "titulo": "Pope Leo's trip is a homecoming to Peru, where debate over liberation theology roiled the Church during his early years as a priest",
+    "resumen": "La visita de León XIV a Perú lo devuelve al país donde se formó como sacerdote en plena disputa eclesial por la teología de la liberación. La nota repasa ese contexto histórico y lo que dice sobre la mirada del papa.",
+    "fuente": "Religion News Service (EE.UU.)",
+    "url": "https://religionnews.com/2026/11/09/pope-leos-trip-is-a-homecoming-to-peru-where-debate-over-liberation-theology-roiled-the-church-during-his-early-years-as-a-priest/",
+    "fecha": "9 nov",
+    "tema": "Religión"
+   },
+   {
+    "titulo": "Giorgio Agamben: la arquitectura de un pensamiento",
+    "resumen": "Una lectura de conjunto sobre la obra del filósofo italiano y la forma en que se articula su sistema de ideas, en la sección Ideas del diario.",
+    "fuente": "La Nación",
+    "url": "https://www.lanacion.com.ar/ideas/lecturas-giorgio-agamben-la-arquitectura-de-un-pensamiento-nid08112026/",
+    "fecha": "8 nov",
+    "tema": "Filosofía"
+   }
+  ],
+  "x": [
+   {
+    "titulo": "Milei le escribió en X al papa León XIV antes de su viaje: \"La Argentina lo espera con enorme alegría\"",
+    "resumen": "Desde su cuenta oficial, el Presidente le dedicó un mensaje de bienvenida al Pontífice, etiquetando a su cuenta, días antes de la visita a Buenos Aires y Córdoba del 8 al 11 de noviembre.",
+    "fuente": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/pais/javier-milei-y-su-mensaje-al-papa-leon-xiv-la-argentina-lo-espera-enorme-alegria-n298419",
+    "fecha": "4 nov",
+    "tema": "Javier Milei"
+   },
+   {
+    "titulo": "Laura Alonso cruzó en X a Cristina Kirchner por una posible candidatura en 2027: \"Señora, robó y está inhabilitada\"",
+    "resumen": "La exfuncionaria macrista respondió en la red social a la expresidenta, que dijo al Washington Post que evaluaría competir cuando recupere sus derechos políticos, mientras cumple la condena de la causa Vialidad.",
+    "fuente": "El Economista",
+    "url": "https://eleconomista.com.ar/politica/laura-alonso-cruzo-cristina-kirchner-su-posible-candidatura-2027-senora-robo-esta-inhabilitada-n99412",
+    "fecha": "3 nov",
+    "tema": "Laura Alonso"
+   },
+   {
+    "titulo": "Milei difundió en X el paper con el que aspira al Nobel de Economía",
+    "resumen": "El Presidente compartió una versión actualizada de un trabajo teórico escrito con Demian Reidel sobre escala mínima viable y barreras de supervivencia. La nota aclara que los resultados todavía no pasaron revisión de pares.",
+    "fuente": "Noticias (Perfil)",
+    "url": "https://noticias.perfil.com/noticias/politica/milei-difundio-el-papar-con-el-que-piensa-ganar-el-nobel-de-economia.phtml",
+    "fecha": "28 oct",
+    "tema": "Javier Milei"
+   }
+  ],
+  "libros": [
+   {
+    "titulo": "Fredrik deBoer y la enfermedad mental: de los asilos a TikTok",
+    "resumen": "Reseña de 'All in Your Head', donde deBoer, a partir de su propio trastorno bipolar, sostiene que la sociedad oscila entre estigmatizar y romantizar la enfermedad mental. Critica la desinstitucionalización y la cultura de autodiagnóstico en redes, aunque algunas de sus propuestas, como la internación involuntaria, generan resistencia.",
+    "fuente": "Infobae (reseña de The New York Times)",
+    "url": "https://www.infobae.com/cultura/2026/11/11/de-los-asilos-a-tiktok-la-comprension-publica-de-la-enfermedad-mental-sigue-atrapada-en-sus-propias-contradicciones/",
+    "fecha": "11 nov",
+    "tema": "Ensayo"
+   },
+   {
+    "titulo": "Más de 200 escritoras francesas denuncian que los cinco grandes premios del país solo eligieron hombres",
+    "resumen": "Un colectivo de autoras cuestiona a los jurados de los principales galardones literarios de Francia tras una temporada en la que todos los premiados fueron varones, y reabre el debate sobre cómo se eligen los ganadores.",
+    "fuente": "La Nación",
+    "url": "https://www.lanacion.com.ar/cultura/mas-de-200-escritoras-francesas-denuncian-sexismo-en-los-cinco-principales-premios-de-su-pais-nid10112026/",
+    "fecha": "10 nov",
+    "tema": "Premios"
+   },
+   {
+    "titulo": "Eugenia Almeida publica 'Un dios sacude la casa', sus primeros cuentos",
+    "resumen": "La novelista cordobesa reúne quince relatos (Edhasa) sobre el momento en que la vida cotidiana se quiebra: secretos, violencia y abusos institucionales que vuelven inestable el hogar. Un estilo contenido y sugerente une historias sin trama común.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/cultura/2026/11/10/eugenia-almeida-quince-relatos-y-el-instante-exacto-en-que-la-vida-se-desmorona/",
+    "fecha": "10 nov",
+    "tema": "Ficción argentina"
+   }
+  ],
+  "cine": [
+   {
+    "titulo": "Lee Chang-dong vuelve tras siete años con 'Un amor posible', sobre trabajo, matrimonio y clases sociales",
+    "resumen": "El director de 'Burning' parte de los despidos masivos y la toma de la planta de Ssangyong Motor en 2009 para contrastar dos parejas de mundos opuestos. Premiada en Venecia y candidata de Corea del Sur al Oscar internacional, ya está en Netflix.",
+    "fuente": "Infobae (AP)",
+    "url": "https://www.infobae.com/cultura/2026/11/11/tras-siete-anos-de-silencio-lee-chang-dong-estrena-un-amor-posible-una-historia-sobre-el-matrimonio-el-trabajo-y-las-clases-sociales/",
+    "fecha": "11 nov",
+    "tema": "Cine de autor"
+   },
+   {
+    "titulo": "Mar del Plata 2026: qué películas del festival llegarán a los cines en las próximas semanas",
+    "resumen": "Un repaso de los títulos que pasan por el festival marplatense y ya tienen fecha de estreno comercial en salas argentinas, útil para quien no viaja a la costa.",
+    "fuente": "La Nación",
+    "url": "https://www.lanacion.com.ar/espectaculos/cine/cuales-son-las-peliculas-del-festival-de-mar-del-plata-que-llegaran-a-los-cines-en-las-proximas-nid09112026/",
+    "fecha": "9 nov",
+    "tema": "Mar del Plata"
+   },
+   {
+    "titulo": "'El enigma de Franca Farmín': terror argentino en la Competencia Argentina de Mar del Plata",
+    "resumen": "Octavio Revol Molina sigue a una youtuber que viaja sola a una laguna cordobesa para investigar un supuesto monstruo, en clave de falso documental. Diego Batlle le marca fórmulas recicladas de 'El proyecto Blair Witch', pero destaca su ejecución profesional y su lectura de la búsqueda de fama en YouTube.",
+    "fuente": "Otros Cines",
+    "url": "https://www.otroscines.com/post/festival-de-mar-del-plata-2026-critica-de-el-enigma-de-franca-farmin-pelicula-de-octavio-revol-molina-con-florencia-decall-competencia-argentina",
+    "fecha": "8 nov",
+    "tema": "Cine argentino"
+   }
+  ],
+  "arte": [
+   {
+    "titulo": "Rómulo Macciò en el Bellas Artes: una antología de seis décadas",
+    "resumen": "El Museo Nacional de Bellas Artes reúne más de 50 obras del pintor, desde la Otra Figuración hasta sus últimas fotografías intervenidas, a diez años de su muerte. Curada por Florencia Battiti, se puede ver hasta el 14 de febrero de 2027.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/cultura/2026/11/11/romulo-maccio-en-el-bellas-artes-una-gran-antologia-del-hombre-que-contenia-multitudes-de-pintores/",
+    "fecha": "11 nov",
+    "tema": "Exposición"
+   },
+   {
+    "titulo": "La ampliación del Rock & Roll Hall of Fame de I. M. Pei",
+    "resumen": "El museo de Cleveland encara su mayor reforma desde 1995: USD 195 millones, un atrio vidriado hacia el lago Erie, nueva plaza de acceso, sala de espectáculos y un parque costero. El proyecto lo lidera Vishaan Chakrabarti (PAU) y estaría listo a comienzos de 2028.",
+    "fuente": "Infobae (The New York Times)",
+    "url": "https://www.infobae.com/cultura/2026/11/11/el-museo-y-salon-de-la-fama-del-rock-and-roll-se-amplia-y-revela-un-secreto-que-el-edificio-de-i-m-pei-escondia-desde-1995/",
+    "fecha": "11 nov",
+    "tema": "Arquitectura"
+   },
+   {
+    "titulo": "Shanghai next? City's art scene leans into an uncertain future",
+    "resumen": "Con la semana del arte de Shanghái en marcha, galeristas y coleccionistas describen una escena que sigue creciendo pero más lento por la desaceleración china. Mencionan costos altos y falta de cohesión, aunque creen que la etapa difícil puede hacerla madurar.",
+    "fuente": "The Art Newspaper (Reino Unido)",
+    "url": "https://theartnewspaper.com/2026/11/10/shanghais-art-scene-navigates-uncertain-economic-future",
+    "fecha": "10 nov",
+    "tema": "Mercado del arte"
+   },
+   {
+    "titulo": "Canada's proposed budget includes tax breaks for artists and funding boost for museums",
+    "resumen": "El gobierno de Carney propone eximir hasta C$45.000 de ingresos creativos, más fondos para instituciones nacionales y entrada gratis a museos para menores de 25. La asociación de artistas Carfac dice que no alcanza y otros advierten complicaciones burocráticas.",
+    "fuente": "The Art Newspaper (Reino Unido)",
+    "url": "https://www.theartnewspaper.com/2026/11/09/canada-budget-proposal-tax-break-artists-museum-funding-boost",
+    "fecha": "9 nov",
+    "tema": "Política cultural"
+   },
+   {
+    "titulo": "ICA Miami elige a Gensler para su segundo edificio en el Design District",
+    "resumen": "La ampliación suma unos 2.800 m², duplica la superficie del museo con ocho galerías y un espacio flexible para charlas, y abre la fachada al espacio público con patios sombreados. La apertura está prevista para fines de 2027.",
+    "fuente": "ArchDaily",
+    "url": "https://www.archdaily.com/es/1188278/ica-miami-designa-a-gensler-para-disenar-el-segundo-edificio-del-museo-en-el-miami-design-district",
+    "fecha": "9 nov",
+    "tema": "Arquitectura"
+   },
+   {
+    "titulo": "Lacaton & Vassal recibe el Premio Charlotte Perriand 2027",
+    "resumen": "El estudio francés, conocido por transformar vivienda social existente en lugar de demolerla, suma una nueva distinción a su trayectoria.",
+    "fuente": "ArchDaily",
+    "url": "https://www.archdaily.com/es/1187991/lacaton-and-vassal-recibe-el-premio-charlotte-perriand-2027",
+    "fecha": "3 nov",
+    "tema": "Premios"
+   }
+  ],
+  "videos": [
+   {
+    "titulo": "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
+    "resumen": "La psiquiatra de Stanford explica cómo la dopamina se vincula con la compulsión, la fijación y los hábitos digitales o con sustancias, y propone salidas que van de la renuncia al control a prácticas espirituales.",
+    "fuente": "Huberman Lab",
+    "url": "https://www.hubermanlab.com/episode/overcome-addictions-and-obsessions-of-all-kinds-anna-lembke",
+    "fecha": "9 nov",
+    "tema": "Neurociencia, adicciones"
+   },
+   {
+    "titulo": "#228 - Rupert Lowe - Is Britain Going Bankrupt?",
+    "resumen": "El diputado británico y líder de Restore Britain sostiene que las finanzas públicas del Reino Unido son insostenibles, y discute deuda, impuestos, energía, bienestar e inmigración, además del futuro del euro.",
+    "fuente": "The Peter McCormack Show",
+    "url": "https://podcasts.apple.com/id/podcast/228-rupert-lowe-is-britain-going-bankrupt/id1317356120?i=1000800823651",
+    "fecha": "9 nov",
+    "tema": "Reino Unido, deuda, política"
+   },
+   {
+    "titulo": "Prof. John Mearsheimer: Can War Be Won Without Popular Support?",
+    "resumen": "El juez Napolitano conversa con el teórico realista sobre si una guerra puede sostenerse sin respaldo de la opinión pública, en el contexto de los conflictos que hoy involucran a EE.UU.",
+    "fuente": "Judge Napolitano - Judging Freedom",
+    "url": "https://podcasts.apple.com/co/podcast/prof-john-mearsheimer-can-war-be-won-without-popular/id1591962689?i=1000801136498",
+    "fecha": "10 nov",
+    "tema": "Geopolítica, guerra, EE.UU."
+   }
+  ]
+ }
+}
