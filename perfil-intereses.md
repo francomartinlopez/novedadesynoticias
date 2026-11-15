@@ -10,6 +10,7 @@ Lector: arquitecto y gerente operativo industrial, consultor en sistemas de gest
 - **Argentina:** política nacional, provincial y municipal (sobre todo Rosario, Santa Fe y Neuquén), elecciones y encuestas, Congreso y legislaturas (proyectos, votaciones, ordenanzas), reformas del Estado, regulación, gasto público, datos sociales y socioeconómicos.
 - **Estados Unidos:** política, Congreso, elecciones, economía y su relación con Argentina.
 - **Europa y Mediterráneo oriental:** UE, Italia, España, Chipre y Grecia cuando haya noticias relevantes (economía, migración, energía, política).
+- **Comentaristas que sigue en video:** Tucker Carlson (The Tucker Carlson Show) y John Kiriakou, ex oficial de la CIA (Briefing Room, Deep Focus, DeProgram, Dead Drop): política de EE.UU., inteligencia, política exterior y geopolítica. Tienen prioridad en Videos.
 - **Geopolítica y conflictos:** Ucrania y Rusia, Medio Oriente e Irán, China y Taiwán, América Latina, orden internacional, comercio y dependencia.
 
 **Economía, empresas e industria**

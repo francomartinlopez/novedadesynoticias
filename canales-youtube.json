@@ -1,5 +1,5 @@
 {
- "nota": "Canales de YouTube que sigue Franco, elegidos por variedad de temas. Para los que también son podcast, la página de Apple Podcasts muestra los últimos episodios con fecha y sirve de enlace. Rotar: cada día elegir 5 a 8 canales distintos, de temas variados.",
+ "nota": "Canales de YouTube que sigue Franco, elegidos por variedad de temas. Para los que también son podcast, la página de Apple Podcasts muestra los últimos episodios con fecha y sirve de enlace. Rotar: cada día elegir 5 a 8 canales distintos, de temas variados. PRIORITARIOS: Tucker Carlson y John Kiriakou (sus programas propios y también sus entrevistas en otros podcasts) deben aparecer seguido: incluí al menos uno de los dos cada día que tengan un episodio o video de los últimos ~10 días que no haya salido en la edición anterior.",
  "con_podcast": [
   {
    "canal": "The Diary Of A CEO",
@@ -35,9 +35,24 @@
    "canal": "The Victor Davis Hanson Show",
    "tema": "Historia, política de EE.UU.",
    "apple": "https://podcasts.apple.com/podcast/id1570380458"
+  },
+  {
+   "canal": "The Tucker Carlson Show",
+   "tema": "Política de EE.UU., geopolítica, entrevistas",
+   "apple": "https://podcasts.apple.com/us/podcast/id1719657632",
+   "prioritario": true
+  },
+  {
+   "canal": "John Kiriakou (Dead Drop)",
+   "tema": "Inteligencia, CIA, geopolítica",
+   "apple": "https://podcasts.apple.com/us/podcast/john-kiriakous-dead-drop/id1844905790",
+   "prioritario": true
   }
  ],
  "buscar_en_web": [
+  "John Kiriakou's Briefing Room (YouTube @realjohnkiriakou)",
+  "Deep Focus with John Kiriakou (YouTube @DeepFocuswithJohnKiriakou)",
+  "DeProgram with John Kiriakou and Ted Rall (YouTube @DeProgramShow)",
   "Kurzgesagt – In a Nutshell",
   "Johnny Harris",
   "Big Think",
@@ -45,7 +60,6 @@
   "Jordan B Peterson",
   "Eric Weinstein",
   "The Glenn Show",
-  "Tucker Carlson",
   "Judge Napolitano - Judging Freedom",
   "Dave Smith",
   "Darryl Cooper",
