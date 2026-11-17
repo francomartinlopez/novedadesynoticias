@@ -1,0 +1,957 @@
+{
+ "fecha": "2026-11-17",
+ "secciones": {
+  "destacado": [
+   {
+    "titulo": "Ormuz, casi paralizado: dos petroleros atacados, llega un tercer portaaviones de EE.UU. y Araghchi viaja a Omán",
+    "resumen": "La agencia marítima británica reportó el lunes dos petroleros alcanzados en el estrecho, mientras el tráfico se desplomó a casi cero buques por día y el USS Theodore Roosevelt se sumó a otros dos grupos de portaaviones. El canciller iraní viaja a Mascate sin que haya avances confirmados en la vía diplomática.",
+    "fuente": "Gulf News (Emiratos Árabes Unidos)",
+    "url": "https://gulfnews.com/uae/usisrael-iran-war-what-uae-residents-need-to-know-today-nov-17-2026-1.500750084",
+    "fecha": "17 nov",
+    "tema": "Guerra con Irán"
+   },
+   {
+    "titulo": "Ucrania negocia con los enviados de Trump y con Europa; habrá reunión en Berlín con la \"Coalición de Voluntarios\"",
+    "resumen": "Zelenski habló en línea con Witkoff, Kushner y representantes de Francia, Alemania, Reino Unido, Italia y Polonia, y acordaron reunirse en Berlín; Kushner dijo que un acuerdo exigirá \"decisiones difíciles\". El Kremlin rechaza sumar a los europeos a la mesa y la guerra se intensifica, con el mayor ataque de drones ucranianos sobre Rusia desde 2022.",
+    "fuente": "Al Jazeera (Qatar)",
+    "url": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates",
+    "fecha": "17 nov",
+    "tema": "Ucrania"
+   },
+   {
+    "titulo": "Trump parte hacia Asia y deja abierta una reunión con Kim Jong-un en China",
+    "resumen": "Antes de viajar a la cumbre APEC de Shenzhen, Trump dijo que podría ver al líder norcoreano y que la cumbre con Xi y Putin tratará la desnuclearización. Seúl y los expertos no ven señales de preparación y advierten sobre un acuerdo que deje a Corea del Sur expuesta.",
+    "fuente": "The Korea Times (Corea del Sur)",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/20261117/trump-floats-kim-summit-in-china-but-experts-see-no-signs-of-preparation",
+    "fecha": "17 nov",
+    "tema": "Cumbre en China"
+   }
+  ],
+  "argentina": [
+   {
+    "titulo": "Presupuesto 2027: el oficialismo firma dictamen en Diputados y apunta a sesionar el 25 de noviembre",
+    "resumen": "La Libertad Avanza firmará este martes el dictamen del Presupuesto 2027 con apoyo del PRO, la UCR y bloques provinciales, tras ceder cambios a sus aliados; Unión por la Patria prepara un dictamen alternativo. El proyecto prevé crecer 3% en 2026 y 4% anual entre 2027 y 2029.",
+    "fuente": "Parlamentario (Argentina)",
+    "url": "https://www.parlamentario.com/2026/11/16/diputados-va-a-firmar-el-dictamen-del-presupuesto-2027-y-lo-lleva-al-recinto-la-proxima-semana/",
+    "fecha": "16 nov",
+    "tema": "Congreso"
+   },
+   {
+    "titulo": "JD Vance canceló su viaje a la Argentina y el Gobierno ratificó su alianza con Trump",
+    "resumen": "La visita del vicepresidente, prevista para la segunda mitad de noviembre dentro de una gira por Colombia y Chile, quedó sin efecto tras la derrota republicana en las legislativas. La Casa Rosada le restó importancia y dijo que la relación sigue por Rubio y el propio Trump, con el acuerdo comercial ARTI y el Corredor Andes-Atlántico en agenda.",
+    "fuente": "La Nueva (Bahía Blanca), con información de TN",
+    "url": "https://lanueva.com/nota/2026-11-16-20-55-0-el-vicepresidente-de-ee-uu-cancelo-su-viaje-al-pais-y-el-gobierno-ratifico-su-alianza-con-trump",
+    "fecha": "16 nov",
+    "tema": "EE.UU.-Argentina"
+   },
+   {
+    "titulo": "La UCA pone en duda la baja de la pobreza que muestra el INDEC",
+    "resumen": "Un informe del Observatorio de la Deuda Social sostiene que, con métodos alternativos de medición de ingresos y canasta, la caída oficial de la pobreza (41,3% a 34,4% desde 2023) casi desaparece o incluso se revierte. Los autores aclaran que la brecha no prueba manipulación deliberada.",
+    "fuente": "Rosario3 (Rosario)",
+    "url": "https://www.rosario3.com/informaciongeneral/la-uca-pone-en-duda-la-baja-de-la-pobreza-que-muestra-el-indec-y-advierte-que-podria-haber-aumentado-desde-2023-20261116-0047.html",
+    "fecha": "16 nov",
+    "tema": "Sociedad"
+   },
+   {
+    "titulo": "Mineras negocian alianzas con Chile para destrabar el cobre argentino",
+    "resumen": "El ministro de Minería chileno dijo que empresas con proyectos a ambos lados de la cordillera discuten asociaciones para compartir energía, agua y puertos. Las inversiones previstas superan los US$ 40.000 millones y podrían llevar a la Argentina al top 10 mundial del cobre, aunque persisten dudas impositivas y políticas.",
+    "fuente": "Bloomberg vía Buenos Aires Times (Argentina)",
+    "url": "https://batimes.com.ar/news/economy/miners-negotiate-cross-border-tie-ups-to-unlock-argentina-copper.phtml",
+    "fecha": "16 nov",
+    "tema": "Minería"
+   },
+   {
+    "titulo": "Neuquén Próximo: Figueroa fija metas a 2030 y propone un fondo soberano provincial",
+    "resumen": "El gobernador recibió la agenda de planificación con 190 proyectos, que busca saldar el déficit de infraestructura y orientar la deuda a obras de desarrollo. Propuso crear hacia 2028 un fondo soberano para amortiguar los vaivenes macroeconómicos.",
+    "fuente": "LM Neuquén (Neuquén)",
+    "url": "https://www.lmneuquen.com/neuquen/rolando-figueroa-planifica-metas-2030-y-un-fondo-soberano-blindar-neuquen-los-vaivenes-economicos-n1261400",
+    "fecha": "16 nov",
+    "tema": "Provincias"
+   },
+   {
+    "titulo": "Milei acelera hacia 2027 con una mesa política dividida",
+    "resumen": "La Casa Rosada quiere suspender las PASO, aprobar el Presupuesto y controlar el armado electoral, pero choca con roces internos: los Menem, las ambiciones de Bullrich y las dificultades de Santilli para cerrar acuerdos con gobernadores.",
+    "fuente": "elDiarioAR (Argentina)",
+    "url": "https://www.eldiarioar.com/politica/milei-acelera-2027-mesa-politica-dividida-ambiciones-juego_1_13663135.html",
+    "fecha": "15 nov",
+    "tema": "Política"
+   }
+  ],
+  "locales": [
+   {
+    "titulo": "El Barco Ciudad de Rosario entra en la recta final y haría pruebas en el río a fin de año",
+    "resumen": "La empresa que compró la embarcación encara la última etapa de restauración con hélices nuevas fabricadas en Tigre. La Terminal Fluvial prepara un amarre para noviembre o diciembre, si la altura del Paraná lo permite.",
+    "fuente": "La Capital (Rosario)",
+    "url": "https://www.lacapital.com.ar/la-ciudad/el-regreso-del-barco-ciudad-rosario-proyectan-pruebas-el-rio-fin-ano-n10292310.html",
+    "fecha": "16 nov",
+    "tema": "Rosario"
+   },
+   {
+    "titulo": "Grupo Petersen fusionará el Banco de Santa Fe con los de Entre Ríos y San Juan",
+    "resumen": "El holding busca escala frente a grandes bancos y fintech con una entidad única liderada desde Santa Fe hacia mediados de 2027. La nota lo enmarca en el cierre de sucursales en la provincia, que pasó de 481 a 424 desde 2023.",
+    "fuente": "Rosario3 (Rosario)",
+    "url": "https://www.rosario3.com/ecos365/noticias/un-holding-nacional-fusionara-tres-bancos-regionales-para-ganar-volumen-operativo-y-competir-con-las-fintech-20261116-0008.html",
+    "fecha": "16 nov",
+    "tema": "Rosario"
+   },
+   {
+    "titulo": "Llaryora presentó el Presupuesto 2027: baja del 30% en el Inmobiliario y de Ingresos Brutos",
+    "resumen": "El alivio fiscal suma $1,5 billones: rebaja del Inmobiliario Urbano para el 97% de los inmuebles y alícuota general de Ingresos Brutos del 4,75% al 3,5%. La Provincia promete sostener salud, seguridad y programas sociales y recortar 40% la publicidad oficial.",
+    "fuente": "Perfil Córdoba (Córdoba)",
+    "url": "https://perfil.com/cordoba/llaryora-anuncia-un-fuerte-alivio-fiscal-en-el-presupuesto-2027-y-pone-el-foco-en-salud-seguridad-y-programas-sociales-adVXD0j4pQCN",
+    "fecha": "16 nov",
+    "tema": "Córdoba"
+   },
+   {
+    "titulo": "El Concejo de Córdoba aprobó en primera lectura el Presupuesto 2027 de Passerini",
+    "resumen": "El oficialismo municipal aprobó el proyecto con sus votos, mientras la oposición cuestionó una posible subestimación y el reparto de fondos para obras. El Frente de Izquierda consideró insuficiente el gasto en salud, educación y áreas sociales.",
+    "fuente": "Cba24n (Córdoba)",
+    "url": "https://www.cba24n.com.ar/cordoba/el-concejo-deliberante-de-cordoba-aprobo-en-primera-lectura-el-presupuesto-2027_a6afb8e8654c2d89a3c58b5a5",
+    "fecha": "16 nov",
+    "tema": "Córdoba"
+   },
+   {
+    "titulo": "CABA podrá emitir un bono de hasta $600.000 millones para pagar a proveedores",
+    "resumen": "La Legislatura aprobó el proyecto de Jorge Macri que habilita deuda en pesos a tasa TAMAR, con plazo mínimo de un año y sin fecha de emisión fijada. El Gobierno porteño dice no tener deudas pendientes, aunque reconoce caída de la recaudación.",
+    "fuente": "Ámbito (Argentina)",
+    "url": "https://www.ambito.com/economia/como-es-el-bono-600000-millones-que-analiza-emitir-caba-pagar-proveedores-n6344689",
+    "fecha": "12 nov",
+    "tema": "CABA"
+   },
+   {
+    "titulo": "Ituzaingó: la línea comunal 504 podría dejar de funcionar el 1 de diciembre",
+    "resumen": "La empresa operadora alega que transporta muy pocos pasajeros por kilómetro y que las compensaciones provinciales no alcanzan ni para el combustible. El servicio quedaría suspendido si no hay una solución antes de fin de mes.",
+    "fuente": "Zona Norte Diario (Gran Buenos Aires)",
+    "url": "https://www.zonanortediario.com.ar/16/11/2026/ituzaingo-una-linea-de-colectivos-podria-dejar-de-funcionar-desde-el-1-de-diciembre/",
+    "fecha": "16 nov",
+    "tema": "Gran Buenos Aires"
+   }
+  ],
+  "climalocal": [
+   {
+    "titulo": "Alerta amarilla por tormentas en Rosario y la región hasta la madrugada del martes",
+    "resumen": "El SMN advirtió por lluvias intensas, ráfagas fuertes y posible granizo en el sur santafesino. El municipio pidió evitar traslados innecesarios, asegurar objetos sueltos y vaciar recipientes con agua por el dengue.",
+    "fuente": "El Ciudadano (Rosario)",
+    "url": "https://elciudadanoweb.com/a-tener-cuidado-rige-alerta-amarilla-por-tormentas-para-rosario-y-toda-la-region/",
+    "fecha": "16 nov",
+    "tema": "Rosario"
+   },
+   {
+    "titulo": "Córdoba: martes inestable con tormentas y entre 18 y 25 °C",
+    "resumen": "La ciudad amaneció con tormentas en curso y alta humedad, y se esperan lluvias durante el día con temperaturas más bajas que la semana pasada. No hay alertas vigentes para la capital.",
+    "fuente": "Cadena 3 (Córdoba)",
+    "url": "https://www.cadena3.com/noticia/clima/clima-en-cordoba-como-estara-el-tiempo-este-martes-17-de-noviembre_613788",
+    "fecha": "17 nov",
+    "tema": "Córdoba"
+   },
+   {
+    "titulo": "Buenos Aires: martes caluroso y húmedo, de 20 a 32 °C con lloviznas",
+    "resumen": "El AMBA tendrá una jornada cálida con alta humedad, viento leve y lluvias débiles aisladas.",
+    "fuente": "Cadena 3 (Córdoba)",
+    "url": "https://www.cadena3.com/noticia/clima/clima-en-caba-como-estara-el-tiempo-este-martes-17-de-noviembre_613789",
+    "fecha": "17 nov",
+    "tema": "CABA y Gran Buenos Aires"
+   },
+   {
+    "titulo": "Temporal en Santa Fe: voladuras de techos, árboles caídos y rutas afectadas",
+    "resumen": "Vientos fuertes y lluvia intensa golpearon el centro de la provincia, con techos volados en Cañada Rosquín y una ruta bloqueada cerca de El Trébol. La alerta obligó a suspender la jornada del lunes de la Fiesta de Colectividades en Rosario.",
+    "fuente": "Cadena 3 (Córdoba)",
+    "url": "https://www.cadena3.com/noticia/clima/temporal-en-santa-fe-arboles-caidos-voladuras-de-techos-y-rutas-afectadas-por-vuelcos_613737",
+    "fecha": "16 nov",
+    "tema": "Argentina"
+   },
+   {
+    "titulo": "Tormenta con granizo en Río Cuarto y el sur de Córdoba bajo alerta naranja",
+    "resumen": "Cayeron 32 mm en 20 minutos en Río Cuarto y más de 50 mm en San Basilio y Adelia María. En Hernando el granizo y el viento amenazan la soja recién sembrada.",
+    "fuente": "Cadena 3 (Córdoba)",
+    "url": "https://www.cadena3.com/noticia/viva-la-radio/reportan-fuerte-tormenta-con-granizo-en-rio-cuarto-y-el-sur-de-cordoba_613701",
+    "fecha": "16 nov",
+    "tema": "Argentina"
+   },
+   {
+    "titulo": "Mendoza: lluvias moderadas y temperaturas de 17 a 28 °C",
+    "resumen": "La inestabilidad llega también a Cuyo, con lluvias moderadas durante el martes y viento del sur. No hay alertas vigentes en la provincia.",
+    "fuente": "Cadena 3 (Córdoba)",
+    "url": "https://www.cadena3.com/noticia/clima/clima-en-mendoza-como-estara-el-tiempo-este-martes-17-de-noviembre_613792",
+    "fecha": "17 nov",
+    "tema": "Argentina"
+   }
+  ],
+  "eeuu": [
+   {
+    "titulo": "El pedido de US$ 50.000 millones para el control aéreo choca con los propios republicanos en el Senado",
+    "resumen": "Tras el apagón que paralizó los vuelos, el Gobierno pide US$ 50.000 millones para modernizar el control aéreo, pero Thune no quiere tramitarlo por la vía exclusiva republicana y Collins pide justificación. Los demócratas recuerdan que la FAA apenas gastó el 9% de los fondos aprobados en 2025.",
+    "fuente": "Politico vía Yahoo News (EE.UU.)",
+    "url": "https://www.yahoo.com/news/politics/articles/trump-administrations-50b-air-traffic-023140841.html",
+    "fecha": "16 nov",
+    "tema": "Congreso"
+   },
+   {
+    "titulo": "La Corte Suprema rechaza la apelación de Trump para cortar subsidios de investigación vinculados a diversidad (DEI)",
+    "resumen": "El máximo tribunal se negó a habilitar la cancelación de becas de investigación por unos US$ 59 millones que el Gobierno había recortado por su relación con programas de diversidad, y dejó vigente el freno de los tribunales inferiores.",
+    "fuente": "Reuters vía U.S. News (EE.UU.)",
+    "url": "https://www.usnews.com/news/politics/articles/2026-11-16/supreme-court-rejects-trump-appeal-defending-diversity-related-grant-cuts",
+    "fecha": "16 nov",
+    "tema": "Justicia"
+   },
+   {
+    "titulo": "Warsh abre el grupo de trabajo de la Fed sobre IA: puede impulsar la productividad o \"decepcionar\"",
+    "resumen": "El presidente de la Reserva Federal dijo que el equipo técnico analiza escenarios en los que la inteligencia artificial acelera el crecimiento, pero también otros con pérdida de empleos y caída de las acciones si las expectativas no se cumplen.",
+    "fuente": "CNBC (EE.UU.)",
+    "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+    "fecha": "16 nov",
+    "tema": "Economía"
+   },
+   {
+    "titulo": "Sesión saliente: más probable una prórroga del presupuesto hasta 2027 que un acuerdo integral",
+    "resumen": "Con la financiación del gobierno venciendo el 11 de diciembre, UBS ve más factible una extensión provisoria, aunque no descarta otro cierre. Algunos republicanos empujan un tercer paquete por reconciliación para resolver el techo de deuda, pero su liderazgo duda de tener los votos.",
+    "fuente": "UBS Washington Weekly (EE.UU.)",
+    "url": "https://www.ubs.com/us/en/wealth-management/washington-weekly/2026/washington-weekly-13-november.html",
+    "fecha": "13 nov",
+    "tema": "Presupuesto y deuda"
+   },
+   {
+    "titulo": "Editorial del Washington Examiner: Trump, no le facilites la obstrucción a los demócratas",
+    "resumen": "El diario conservador pide a Trump que le marque prioridades claras a Thune en la sesión saliente, empezando por financiar el Estado antes del 11 de diciembre, y advierte que una prórroga corta lo dejaría débil frente a las nuevas mayorías demócratas.",
+    "fuente": "Washington Examiner (EE.UU.)",
+    "url": "https://www.washingtonexaminer.com/?p=4801225",
+    "fecha": "13 nov",
+    "tema": "Opinión"
+   },
+   {
+    "titulo": "Stephanie Taylor y Sean Vitka: el lema demócrata debería ser \"republicanos, intenten frenarnos\"",
+    "resumen": "Desde la izquierda, los autores sostienen que la nueva mayoría no debe recortar su agenda a lo que acepten los republicanos, sino impulsar límites al poder corporativo aunque sean vetados, para ganar confianza y poder de negociación.",
+    "fuente": "The New Republic (EE.UU.)",
+    "url": "https://newrepublic.com/article/217882/democrats-congress-2027-motto-republicans-try-stop-us",
+    "fecha": "12 nov",
+    "tema": "Opinión"
+   }
+  ],
+  "mundo": [
+   {
+    "titulo": "Israel: la oposición acusa a Netanyahu de un \"intento de golpe\" en la víspera electoral",
+    "resumen": "Según el Canal 12, el jefe de gabinete de Netanyahu presentó una denuncia que llevó a detener a tres miembros del partido árabe Ra'am, luego liberados por falta de pruebas; Lapid habló de intento de golpe y el Likud lo niega. Ningún bloque llega aún a los 61 escaños y los partidos árabes respaldan a Eisenkot.",
+    "fuente": "Al Jazeera (Qatar)",
+    "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup",
+    "fecha": "16 nov",
+    "tema": "Israel"
+   },
+   {
+    "titulo": "Rusia exigió en Abu Dabi que la OTAN vuelva a sus posiciones de 1997, según un documento obtenido por el NYT",
+    "resumen": "El documento con las condiciones rusas en las negociaciones pide que la OTAN vuelva a su despliegue de 1997, previo a la ampliación hacia el este: una reedición del ultimátum de antes de la guerra.",
+    "fuente": "Ukrainska Pravda (Ucrania)",
+    "url": "https://www.pravda.com.ua/eng/news/2026/11/14/8062819/",
+    "fecha": "14 nov",
+    "tema": "Rusia-OTAN"
+   },
+   {
+    "titulo": "Cinco países de la UE, entre ellos Grecia y Alemania, planean enviar a Ruanda a los solicitantes de asilo rechazados",
+    "resumen": "Austria, Dinamarca, Alemania, Grecia y Países Bajos anunciaron en Viena un esquema para trasladar a Ruanda a migrantes cuyo pedido de asilo fue denegado.",
+    "fuente": "Al Jazeera (Qatar)",
+    "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda",
+    "fecha": "16 nov",
+    "tema": "Europa / Migración"
+   },
+   {
+    "titulo": "Paraguay: trasladan al expresidente Santiago Peña a una cárcel militar por privilegios en su detención",
+    "resumen": "Peña está en prisión preventiva por el escándalo del Banco Ueno, acusado de haber dirigido fondos públicos a la entidad; un juez ordenó pasarlo a la prisión de Viñas Cue tras denuncias de trato especial. Él niega los cargos.",
+    "fuente": "Al Jazeera (Qatar)",
+    "url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports",
+    "fecha": "16 nov",
+    "tema": "América Latina"
+   },
+   {
+    "titulo": "Yemen: Arabia Saudita destituye al jefe de la coalición mientras los hutíes avanzan hacia Adén",
+    "resumen": "El rey Salmán reemplazó al comandante de las fuerzas que combaten a los hutíes, después de que el gobierno yemení abandonara la zona de Bab el-Mandeb para defender Adén; los rebeldes están a unos 60 km de la capital provisoria y Taiz sigue sitiada.",
+    "fuente": "Al Jazeera (Qatar)",
+    "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis",
+    "fecha": "16 nov",
+    "tema": "Medio Oriente"
+   },
+   {
+    "titulo": "Lai Ching-te pide a EE.UU. un acuerdo contra la doble imposición antes de que cierre el Congreso saliente",
+    "resumen": "Al recibir al gobernador de Idaho, el presidente taiwanés reclamó que el Senado apruebe el pacto tributario pendiente desde 2025 y destacó la cooperación en semiconductores, días antes de la cumbre de Trump con Xi.",
+    "fuente": "Focus Taiwan / CNA (Taiwán)",
+    "url": "https://focustaiwan.tw/politics/202611160006",
+    "fecha": "16 nov",
+    "tema": "Taiwán"
+   }
+  ],
+  "finanzas": [
+   {
+    "titulo": "El riesgo país supera los 840 puntos y las acciones argentinas caen hasta 5,2% en Wall Street",
+    "resumen": "El lunes los ADR argentinos se desplomaron (YPF -5,2%) y los bonos en dólares cedieron hasta 1%, mientras el dólar oficial del Banco Nación marcó un nuevo máximo nominal de $1.575 y el CCL rondó los $1.680.",
+    "fuente": "Cadena 3 (Argentina)",
+    "url": "https://www.cadena3.com/noticia/politica-y-economia/el-riesgo-pais-supero-los-840-puntos-y-las-acciones-argentinas-caen-52-que-pasa-con-el-dolar_613610",
+    "fecha": "16 nov",
+    "tema": "Argentina"
+   },
+   {
+    "titulo": "Wall Street cae fuerte por el temor a la IA: el Nasdaq entra en corrección antes del balance de Nvidia y la salida a bolsa de Anthropic",
+    "resumen": "El S&P 500 perdió 1,9% y el Nasdaq 2,5%, quedando más de 10% debajo de su máximo de octubre; los chips se hundieron 5,3% y el mercado ya descuenta casi con certeza una suba de tasas de la Fed en diciembre.",
+    "fuente": "Reuters vía MarketScreener (EE.UU.)",
+    "url": "https://www.marketscreener.com/news/wall-street-slumps-on-ai-jitters-ahead-of-nvidia-results-anthropic-ipo-ce785edfdd8ef425",
+    "fecha": "16 nov",
+    "tema": "EE.UU."
+   },
+   {
+    "titulo": "El dólar salta 2,15% a R$ 5,78 en Brasil, su mayor nivel desde abril de 2025, y el Ibovespa cae 1,83%",
+    "resumen": "Las dudas sobre si el paquete fiscal alcanza para frenar el gasto y estabilizar la deuda, más el temor global a la IA, golpearon al real y a la bolsa; este martes el Senado vota las enmiendas del proyecto.",
+    "fuente": "Mix Vale (Brasil)",
+    "url": "https://www.mixvale.com.br/2026/11/16/dolar-fecha-em-alta-de-215-a-r-57767-e-ibovespa-cai-183/",
+    "fecha": "16 nov",
+    "tema": "Brasil"
+   },
+   {
+    "titulo": "Las bolsas asiáticas caen arrastradas por la ola vendedora de tecnológicas en Wall Street",
+    "resumen": "El martes el Nikkei y el Hang Seng retrocedieron 1,2%, el Kospi 1% y Shanghái 0,8%, siguiendo el derrumbe de las acciones vinculadas a la inteligencia artificial; el petróleo también bajó.",
+    "fuente": "AP vía WSLS (EE.UU.)",
+    "url": "https://www.wsls.com/business/2026/11/17/asian-shares-decline-following-stocks-tumbled-on-wall-street/",
+    "fecha": "17 nov",
+    "tema": "China/Asia"
+   },
+   {
+    "titulo": "Europa cierra en leve baja y el precio del gas se desploma 7%",
+    "resumen": "Fráncfort y Ámsterdam perdieron 0,6%, Madrid 0,3% y Londres y París 0,2%, con Milán castigada por Stellantis; el gas europeo cayó por debajo de 84 euros el megavatio-hora.",
+    "fuente": "ANSA (Italia)",
+    "url": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borsa-leuropa-conclude-in-lieve-ribasso-londra-02_2b274cd5-9ff3-42a2-975d-d07294bb9176.html",
+    "fecha": "16 nov",
+    "tema": "Europa"
+   },
+   {
+    "titulo": "La soja baja en Chicago y en la B3: el contrato de enero cierra en US$ 12,29 por bushel",
+    "resumen": "Los futuros de soja cayeron entre 0,2% y 0,5% en Chicago y hasta 0,7% en la bolsa brasileña, en una jornada de aversión al riesgo en los mercados.",
+    "fuente": "Agrolink (Brasil)",
+    "url": "https://www.agrolink.com.br/noticias/soja-fecha-em-queda-em-chicago-e-na-b3_521122.html",
+    "fecha": "16 nov",
+    "tema": "Commodities"
+   }
+  ],
+  "datos": [
+   {
+    "titulo": "INDEC: el petróleo desplazó a la harina de soja como principal producto de exportación en 2026",
+    "resumen": "Entre enero y septiembre las ventas de crudo sumaron US$ 7.753 millones (+58,6%) y la balanza energética dejó un superávit récord de US$ 9.427 millones; en septiembre el superávit comercial fue de US$ 2.976 millones.",
+    "fuente": "Ámbito (Argentina)",
+    "url": "https://www.ambito.com/economia/exportaciones-lo-que-va-del-2026-el-petroleo-destrono-la-soja-como-principal-producto-n6345334",
+    "fecha": "14 nov",
+    "tema": "INDEC"
+   },
+   {
+    "titulo": "Brasil: la 'previa del PIB' del Banco Central cae 0,2% en septiembre y 0,9% en el tercer trimestre",
+    "resumen": "El IBC-Br marcó su primer trimestre negativo en un año; solo el agro creció en septiembre, mientras la industria y los servicios retrocedieron con la Selic en 13,75%.",
+    "fuente": "BPMoney (Brasil)",
+    "url": "https://bpmoney.com.br/economia/ibc-br-previa-pib-cai-setembro-2026/",
+    "fecha": "16 nov",
+    "tema": "Banco Central de Brasil"
+   },
+   {
+    "titulo": "Eurostat: la producción industrial de la eurozona sube 0,2% en septiembre pero cae 1,5% interanual",
+    "resumen": "En la UE el avance mensual fue de 0,5%; los bienes de consumo duraderos crecieron y la energía cayó, con Irlanda como la mayor baja y España creciendo 2,1% en el año.",
+    "fuente": "ABC Color (Paraguay)",
+    "url": "https://www.abc.com.py/internacionales/2026/11/16/la-produccion-industrial-aumento-un-02-en-la-eurozona-y-un-05-en-la-ue-en-septiembre/",
+    "fecha": "16 nov",
+    "tema": "Eurostat"
+   },
+   {
+    "titulo": "Canadá: la inflación se mantiene en 3,1% en octubre, algo menos de lo esperado",
+    "resumen": "Según Statistics Canada, la nafta sube casi 31% interanual y los alimentos 2%, mientras la inflación sin energía baja a 2% y las medidas subyacentes quedan cerca de la meta del Banco de Canadá.",
+    "fuente": "Philippine Canadian Inquirer (Canadá)",
+    "url": "https://canadianinquirer.net/2026/11/17/canadas-inflation-holds-at-3-1-in-october-as-gas-and-grocery-prices-rise/",
+    "fecha": "17 nov",
+    "tema": "Statistics Canada"
+   },
+   {
+    "titulo": "Reino Unido: el desempleo baja a 4,6% pero caen las vacantes y el empleo asalariado",
+    "resumen": "La oficina de estadística (ONS) habla de un panorama mixto: el desempleo es el más bajo desde abril de 2025, pero se frenan los salarios regulares y las nóminas, y parte de la mejora responde a cambios en la muestra de la encuesta.",
+    "fuente": "Investing.com (EE.UU.)",
+    "url": "https://www.investing.com/news/economic-indicators/uk-unemployment-falls-to-46-beats-forecast-payrolls-vacancies-drop-5031844",
+    "fecha": "17 nov",
+    "tema": "ONS"
+   },
+   {
+    "titulo": "India: exportaciones récord de bienes en octubre, pero el déficit comercial de bienes toca su máximo en un año",
+    "resumen": "El Ministerio de Comercio informó ventas de bienes por US$ 49.470 millones (+45%) e importaciones por US$ 89.350 millones; el superávit de servicios achica el déficit total a US$ 20.090 millones.",
+    "fuente": "Swarajya (India)",
+    "url": "https://swarajyamag.com/news-brief/indias-exports-surge-299-to-8999-billion-in-october-as-merchandise-shipments-hit-record-high",
+    "fecha": "13 nov",
+    "tema": "Ministerio de Comercio de India"
+   }
+  ],
+  "ideas": [
+   {
+    "titulo": "Scott Lincicome: el populismo económico volvió a perder",
+    "resumen": "El economista del Cato sostiene que las elecciones de medio término castigaron los aranceles y el costo de vida, y que esas políticas fallan porque sus costos son inmediatos y amplios y sus beneficios lentos y concentrados; pide responsabilidad fiscal y soluciones de mercado.",
+    "fuente": "Cato Institute (EE.UU.)",
+    "url": "https://www.cato.org/commentary/economic-populism-lost-again",
+    "fecha": "16 nov",
+    "tema": "Opinión"
+   },
+   {
+    "titulo": "Jonathan Newman: las 'inversiones' en IA se están convirtiendo en una burbuja",
+    "resumen": "Desde la escuela austríaca, Newman atribuye el auge de la IA a años de crédito fácil y a una demanda final todavía no probada, y sostiene que el Estado debe dejar que la corrección liquide las inversiones malas.",
+    "fuente": "Mises Institute (EE.UU.)",
+    "url": "https://mises.org/mises-wire/current-ai-investments-are-turning-bubble",
+    "fecha": "16 nov",
+    "tema": "Opinión"
+   },
+   {
+    "titulo": "Maíra Martini: la pelea contra la oligarquía no termina en las urnas",
+    "resumen": "La directora de Transparencia Internacional advierte que derrotar en elecciones a los candidatos de los multimillonarios no alcanza, porque las reglas siguen permitiendo que el dinero compre influencia política, y pide reformas de fondo.",
+    "fuente": "Project Syndicate (Internacional)",
+    "url": "https://www.project-syndicate.org/commentary/fight-against-oligarchy-does-not-end-at-ballot-box-by-maira-martini-2026-11",
+    "fecha": "16 nov",
+    "tema": "Opinión"
+   },
+   {
+    "titulo": "Matías Pérez Manghi: las crisis argentinas nacen de priorizar las finanzas sobre la producción",
+    "resumen": "Con una mirada desarrollista, el autor sostiene que desde 1975 la macroeconomía puso la especulación financiera por encima del trabajo y la industria, y propone invertir esa jerarquía.",
+    "fuente": "Infobae (Argentina)",
+    "url": "https://www.infobae.com/opinion/2026/11/13/la-dificil-tarea-de-encontrar-las-causas-de-las-crisis-economicas-argentinas/",
+    "fecha": "13 nov",
+    "tema": "Opinión"
+   },
+   {
+    "titulo": "Brad DeLong y Noah Smith debaten la reindustrialización de EE.UU.",
+    "resumen": "Los dos economistas, de centroizquierda, coinciden en que el mejor argumento para reindustrializar es la seguridad nacional, ya que la automatización terminó con el empleo fabril masivo, y señalan como trabas la regulación del suelo y la falta de crédito bancario a la industria.",
+    "fuente": "Noahpinion (EE.UU.)",
+    "url": "https://www.noahpinion.blog/p/brad-and-noah-discuss-the-reindustrialization",
+    "fecha": "13 nov",
+    "tema": "Opinión"
+   },
+   {
+    "titulo": "Alex Tabarrok: los 'buscadores de rentas' están en todas partes, no solo entre los multimillonarios",
+    "resumen": "Basado en el libro 'The Everywhere Millionaire', Tabarrok argumenta que dueños de negocios locales como concesionarias o consultorios tienen más riqueza e influencia política conjunta que los multimillonarios, y lo ilustra con las prohibiciones estatales a la venta directa de Tesla.",
+    "fuente": "Marginal Revolution (EE.UU.)",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-everywhere-rent-seekers.html",
+    "fecha": "12 nov",
+    "tema": "Opinión"
+   }
+  ],
+  "ciudad": [
+   {
+    "titulo": "Avanza el recambio de redes de agua potable en el microcentro de Rosario",
+    "resumen": "La Municipalidad y Aguas Santafesinas reemplazan unos 10.800 metros de cañerías con el método de 'cracking', que lleva un 30% de avance y beneficiará a más de 32.000 vecinos. Hay cortes de tránsito por cuadra los días hábiles de 8 a 18.",
+    "fuente": "El Ciudadano (Rosario)",
+    "url": "https://elciudadanoweb.com/avanza-el-recambio-de-redes-de-agua-potable-en-el-microcentro-rosarino/",
+    "fecha": "11 nov",
+    "tema": "Servicios públicos"
+   },
+   {
+    "titulo": "Florida: el recorte del impuesto inmobiliario puede dejar a los municipios sin la mitad de sus ingresos",
+    "resumen": "El resumen semanal urbano repasa la Proposición 3 de Florida, el derrumbe de un edificio en Brooklyn junto a una excavación (8 muertos) y un estudio que halla que los centros de datos en Texas casi no generan empleo local duradero.",
+    "fuente": "Next City (EE.UU.)",
+    "url": "https://nextcity.org/urbanist-news/the-weekly-wrap-florida-cities-and-counties-are-reeling-from-major-tax-cuts",
+    "fecha": "13 nov",
+    "tema": "Gobierno local"
+   },
+   {
+    "titulo": "Países Bajos suma cinco zonas de construcción acelerada de viviendas",
+    "resumen": "La ministra de Vivienda designó cinco nuevos polos de construcción a gran escala; el país ya tiene 31, pensados para alojar a más de 50.000 personas.",
+    "fuente": "NL Times (Países Bajos)",
+    "url": "https://nltimes.nl/2026/11/09/govt-announces-5-locations-will-speed-construction-25000-homes",
+    "fecha": "9 nov",
+    "tema": "Vivienda"
+   }
+  ],
+  "clima": [
+   {
+    "titulo": "COP31: Bowen presenta un borrador que pide dejar los fósiles ya y triplicar la plata para adaptación",
+    "resumen": "El ministro australiano, que preside las negociaciones en Antalya, puso sobre la mesa un texto de 18 páginas con transición inmediata fuera de los combustibles fósiles en energía, neto cero para países ricos en 2030 y 120.000 millones de dólares para adaptación hacia 2035. Greenpeace lo celebra; 350.org dice que falta una hoja de ruta, y Australia carga con 37 proyectos fósiles aprobados desde 2022.",
+    "fuente": "ABC News (Australia)",
+    "url": "https://www.abc.net.au/news/2026-11-17/chris-bowen-launches-bold-climate-agenda-at-cop31/107393394",
+    "fecha": "17 nov",
+    "tema": "COP31"
+   },
+   {
+    "titulo": "El borrador de la COP31 aprieta a Sudáfrica por su dependencia del carbón",
+    "resumen": "Desde Johannesburgo, la lectura del texto de Antalya pone el foco en lo que significa para un país cuya energía depende del carbón y donde la minería del mineral emplea a unas 91.000 personas. Pretoria apoya multiplicar el financiamiento para adaptación, pero resiste un corte total del carbón.",
+    "fuente": "Business Day (Sudáfrica)",
+    "url": "https://www.businessday.co.za/news/science-and-environment/2026-11-17-cop31-draft-urges-accelerated-action-on-fossil-fuels/",
+    "fecha": "17 nov",
+    "tema": "COP31"
+   },
+   {
+    "titulo": "Vahid Aryanpur: lo que frena la transición energética no es la tecnología sino la voluntad política",
+    "resumen": "El investigador de la University College Cork, escribiendo desde Antalya, sostiene que las cumbres sobran en promesas y faltan en ejecución, y pone como ejemplo a Noruega, Finlandia e Irlanda. Advierte que la ampliación de redes eléctricas y la desaceleración de las renovables son los cuellos de botella reales.",
+    "fuente": "Irish Examiner (Irlanda)",
+    "url": "https://www.irishexaminer.com/opinion/commentanalysis/arid-41936238.html",
+    "fecha": "11 nov",
+    "tema": "Opinión"
+   },
+   {
+    "titulo": "El Niño ya es oficialmente 'súper' y el segundo más intenso registrado para agosto-octubre",
+    "resumen": "El promedio trimestral de la región Niño 3.4 llegó a unos 2 °C sobre lo normal, solo detrás de 1997, y la última semana subió a 2,2 °C. El CPC de la NOAA da 60% de chances de que sea el más fuerte de la historia y ya asoma un 33% de probabilidad de La Niña para mediados de 2027; para Sudamérica occidental y central se esperan más lluvias.",
+    "fuente": "WMC Action News 5 (EE.UU.)",
+    "url": "https://www.actionnews5.com/2026/11/16/breakdown-november-2026-el-nio-update/",
+    "fecha": "16 nov",
+    "tema": "El Niño"
+   },
+   {
+    "titulo": "Clima espacial: sigue la alerta G1 para esta noche, con un golpe lateral de una eyección de masa coronal",
+    "resumen": "La NOAA mantiene la vigilancia de tormenta geomagnética menor y prevé un índice Kp de 4,67 entre las 21 UTC del 17 y las 03 UTC del 18 de noviembre. La causa es una corriente rápida de un agujero coronal sumada al posible roce de una CME que salió del Sol el 14 a casi 2.000 km/s; habría auroras en latitudes altas.",
+    "fuente": "The Watchers (Internacional)",
+    "url": "https://watchers.news/2026/11/17/g1-geomagnetic-storm-watch-kp-4-67-november-17-18-2026/",
+    "fecha": "17 nov",
+    "tema": "Clima espacial"
+   },
+   {
+    "titulo": "La mancha solar AR4566 duplicó su tamaño, lanzó 20 llamaradas en un día y se aleja sin la temida X",
+    "resumen": "El grupo, el más grande y complejo del disco visible este mes, tuvo una configuración magnética 'delta' y tres llamaradas clase M en 24 horas; la NOAA llegó a darle 15% diario de chances de una X. Al girar hacia el borde oeste del Sol se simplificó y el riesgo bajó a 5%.",
+    "fuente": "The Watchers (Internacional)",
+    "url": "https://watchers.news/2026/11/14/a-tangled-sunspot-cluster-about-93-million-miles-away-doubled-in-size-in-a-single-weekend-earlier-this-month-and-fired-20-solar-flares-in-one-day-and-forecasters-gave-it-a-small-chance-of-producing-a/",
+    "fecha": "14 nov",
+    "tema": "Clima espacial"
+   }
+  ],
+  "desastres": [
+   {
+    "titulo": "Ciclón Akvan: se intensifica en el golfo de Bengala y tocaría tierra el viernes entre Nellore y Tuni",
+    "resumen": "El sistema ya tiene nombre y se espera que pase a ciclón 'muy severo' con vientos de 120–130 km/h y ráfagas de 145 km/h al llegar a la costa de Andhra Pradesh. Hay alertas por lluvias muy intensas jueves y viernes, y las autoridades del distrito de Krishna pusieron a todos los organismos en guardia.",
+    "fuente": "Dynamite News (India)",
+    "url": "https://www.dynamitenews.com/national/cyclone-akwan-alert-severe-storm-likely-to-hit-andhra-pradesh-heavy-rain-warning-for-3-days",
+    "fecha": "17 nov",
+    "tema": "Ciclón"
+   },
+   {
+    "titulo": "Ecuador: lluvias de El Niño inundan Guayaquil y Milagro; ya son 14 los muertos",
+    "resumen": "En Milagro cayeron 172,8 mm en una noche, se desbordaron ríos y esteros y se abrieron albergues; en Guayaquil murieron dos personas y un padre y su hijo siguen desaparecidos. Desde la alerta de agosto el país suma unos 77.500 afectados y 21.000 viviendas dañadas.",
+    "fuente": "The Watchers (Internacional)",
+    "url": "https://watchers.news/2026/11/16/el-nino-floods-guayaquil-milagro-ecuador-death-toll-14-november-2026/",
+    "fecha": "16 nov",
+    "tema": "Inundaciones"
+   },
+   {
+    "titulo": "Perú: inundaciones en Tumbes y advertencia de un Niño costero intenso hasta febrero",
+    "resumen": "Las lluvias obligaron a evacuar vecinos en la región de Tumbes, en la frontera con Ecuador, mientras la comisión peruana ENFEN advierte que el calentamiento costero seguiría fuerte hasta febrero de 2027. La nota repasa el antecedente de 1997-98, que dejó miles de muertos en el mundo.",
+    "fuente": "Life News Today (Internacional)",
+    "url": "https://www.lifenewstoday.com/post/el-ni%C3%B1o-2026-leaves-death-and-destruction",
+    "fecha": "12 nov",
+    "tema": "Inundaciones"
+   },
+   {
+    "titulo": "Malasia: las inundaciones desplazan a más de 2.500 personas en cuatro estados",
+    "resumen": "Selangor es el más golpeado, con casi 1.400 evacuados en Kuala Selangor, seguido por Perak; también hay familias en albergues en Penang y Sarawak. En Nibong Tebal los bomberos sacaron a 95 vecinos casa por casa durante la madrugada.",
+    "fuente": "The Vibes (Malasia)",
+    "url": "https://thevibes.com/articles/news/129617/floods-displace-2572-people-across-four-states-with-selangor-worst-hit",
+    "fecha": "16 nov",
+    "tema": "Inundaciones"
+   },
+   {
+    "titulo": "Indonesia: sismo de magnitud 6,6 frente a las islas Tanimbar",
+    "resumen": "El terremoto, a unos 31 km de profundidad y alejado de la costa, ocurrió el 16 de noviembre a las 21:11 UTC. No se reportaron daños ni hubo alerta de tsunami relevante.",
+    "fuente": "Electrogenesis (Substack)",
+    "url": "https://electrogenesis.substack.com/p/earthquake-reported-off-the-tanimbar",
+    "fecha": "17 nov",
+    "tema": "Terremoto"
+   },
+   {
+    "titulo": "Tifón Cempaka: con él, 2026 iguala un récord de 32 tifones que no se veía desde 1994",
+    "resumen": "El tifón, con vientos de 65 nudos, pasaba al sur de Chichijima (islas Ogasawara) el 11 de noviembre antes de girar al este y debilitarse; es la temporada más activa del siglo en el Pacífico noroeste.",
+    "fuente": "Weathernews (Japón)",
+    "url": "https://wxtech.weathernews.com/en/news/sky20261109-01/",
+    "fecha": "9 nov",
+    "tema": "Tifones"
+   }
+  ],
+  "tecnologia": [
+   {
+    "titulo": "OpenAI lanza ChatGPT Wallet para que sus agentes de IA compren por el usuario",
+    "resumen": "La billetera permite que los agentes 'dots' paguen con tarjetas de las grandes redes mediante datos tokenizados y con aprobación de cada compra; por ahora solo para suscriptores Pro en EE.UU. y sin criptomonedas, en competencia con las propuestas de Coinbase y Circle.",
+    "fuente": "Decrypt (EE.UU.)",
+    "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
+    "fecha": "14 nov",
+    "tema": "IA"
+   },
+   {
+    "titulo": "La IA pasa a encabezar los riesgos para el sistema financiero en la encuesta de la Fed",
+    "resumen": "El 87% de los consultados por la Reserva Federal citó a la IA como riesgo significativo (contra 50% en mayo); la deuda emitida para infraestructura de cómputo llegó a US$ 680.000 millones, casi un tercio de la emisión corporativa con grado de inversión.",
+    "fuente": "Reuters vía The Star (Malasia)",
+    "url": "https://www.thestar.com.my/tech/tech-news/2026/11/14/ai-rockets-to-top-of-worries-about-financial-system-in-latest-fed-survey",
+    "fecha": "14 nov",
+    "tema": "IA y economía"
+   },
+   {
+    "titulo": "Tras la salida de Huang, el Congreso de EE.UU. empuja nuevas restricciones a chips para China",
+    "resumen": "Legisladores de ambos partidos buscan endurecer el acceso chino a chips avanzados de IA y los republicanos planean sumar los controles a la ley anual de defensa; las acciones de IA chinas cayeron con fuerza.",
+    "fuente": "Reuters vía Daily Maverick (Sudáfrica)",
+    "url": "https://www.dailymaverick.co.za/article/2026-11-13-chinas-access-to-some-nvidia-chips-in-doubt-as-curbs-gain-traction-in-us.md",
+    "fecha": "13 nov",
+    "tema": "Chips"
+   },
+   {
+    "titulo": "¿Coincidencia? La FAA había extendido su herramienta de IA SMART días antes de paralizar el espacio aéreo",
+    "resumen": "El gobierno y la contratista Air Space Intelligence niegan relación entre el sistema de IA para control de tráfico aéreo y la parada nacional de vuelos, atribuida a una falla de comunicaciones, pero el momento abrió dudas sobre el despliegue de IA en funciones críticas del Estado.",
+    "fuente": "Futurism (EE.UU.)",
+    "url": "https://futurism.com/artificial-intelligence/us-airspace-shuts-down-faa-rolled-out-ai",
+    "fecha": "13 nov",
+    "tema": "IA y Estado"
+   },
+   {
+    "titulo": "Un miembro del directorio de OpenAI advierte que un accidente de IA podría ser la causa de muerte más probable",
+    "resumen": "Paul Christiano sostuvo en las Hinton Lectures que el riesgo de una toma de control por IA podría estar a 6–12 meses; la nota repasa voces similares y cuestiona si las empresas hacen lo suficiente, en un debate donde muchos especialistas consideran exageradas estas predicciones.",
+    "fuente": "Gizmodo (EE.UU.)",
+    "url": "https://gizmodo.com/openai-board-member-tells-audience-an-ai-accident-is-the-most-likely-thing-to-kill-them-2000838491",
+    "fecha": "12 nov",
+    "tema": "Seguridad de IA"
+   },
+   {
+    "titulo": "Rocket Lab hace su lanzamiento 99 y prepara el número 100 para Japón",
+    "resumen": "Un Electron puso en órbita desde Nueva Zelanda un satélite de radar de la japonesa iQPS; la misión 100 de la empresa, también para iQPS, quedó programada para no antes del 14 de noviembre.",
+    "fuente": "Gagadget (Ucrania)",
+    "url": "https://gagadget.com/en/732707-rocket-labs-99th-launch-sets-up-a-100th-in-two-weeks/",
+    "fecha": "3 nov",
+    "tema": "Espacio comercial"
+   }
+  ],
+  "ciencia": [
+   {
+    "titulo": "Coleccionar recuerdos podría haber empezado hace 500.000 años",
+    "resumen": "Investigadores de la Universidad de Tel Aviv proponen que humanos arcaicos guardaban guijarros coloridos (cueva de Qesem) y hachas de mano con fósiles incrustados por su aspecto antiguo y su capacidad de evocar memorias, conducta que habría moldeado sistemas cerebrales de memoria y sentido del yo.",
+    "fuente": "Archaeology Magazine (EE.UU.)",
+    "url": "https://archaeology.org/news/2026/11/16/souvenir-collection-may-have-begun-500000-years-ago/",
+    "fecha": "16 nov",
+    "tema": "Prehistoria"
+   },
+   {
+    "titulo": "Arcilla cocida de hace 11.400 años en Turquía ilumina el origen de la cerámica",
+    "resumen": "En casas de Çemka Höyük (Mardin, junto al Tigris) aparecieron 46 fragmentos de arcilla cocida de hacia 9350 a.C., entre los más antiguos de Oriente Próximo; su cocción incompleta sugiere experimentos tempranos, en plena transición neolítica, mucho antes de la alfarería plena.",
+    "fuente": "Archaeology Magazine (EE.UU.)",
+    "url": "https://archaeology.org/news/2026/11/12/fired-clay-fragments-offer-hints-to-development-of-near-eastern-pottery/",
+    "fecha": "12 nov",
+    "tema": "Arqueología"
+   },
+   {
+    "titulo": "Redatan un campamento de la Edad de Hielo en Italia: cazadores de España llegaron antes",
+    "resumen": "Un fogón intacto en el abrigo de Riparo Mochi (Ventimiglia) dio 30.000–30.800 años, adelantando 2.000–3.000 años la presencia de la cultura noaillense en el norte de Italia; la migración pudo responder al enfriamiento y la aridez del clima europeo.",
+    "fuente": "Archaeology Magazine (EE.UU.)",
+    "url": "https://archaeology.org/news/2026/11/11/scientists-re-date-ice-age-camp-in-northern-italy/",
+    "fecha": "11 nov",
+    "tema": "Prehistoria"
+   },
+   {
+    "titulo": "Jessica Riskin: el regreso de Lamarck y de los organismos que se transforman a sí mismos",
+    "resumen": "La historiadora de Stanford sostiene que el neodarwinismo borró la idea lamarckiana de seres vivos activos, y que la epigenética heredable, la evolución guiada por la conducta y la construcción de nicho la están rehabilitando; la síntesis evolutiva sigue siendo el marco dominante.",
+    "fuente": "Aeon (Reino Unido/Australia)",
+    "url": "https://aeon.co/essays/the-self-making-world-of-jean-baptiste-lamarck",
+    "fecha": "2 nov",
+    "tema": "Evolución"
+   },
+   {
+    "titulo": "Autismo y TDAH a la vez: cómo es vivir con 'AuDHD'",
+    "resumen": "Sarah Hendrickx, ex diagnosticadora, combina su experiencia con entrevistas a 69 adultos y padres para describir la tensión constante entre necesidad de rutina y búsqueda de novedad en un diagnóstico dual reconocido oficialmente recién en 2013.",
+    "fuente": "Aeon (Reino Unido/Australia)",
+    "url": "https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd",
+    "fecha": "5 nov",
+    "tema": "Neurociencia"
+   },
+   {
+    "titulo": "Dylan Jow: la astrofísica debería dejar de obsesionarse con las 'grandes preguntas'",
+    "resumen": "El cosmólogo de Stanford argumenta que el polvo y el gas interestelar fueron tratados como estorbos frente a la física 'fundamental', y que esas prioridades son elecciones históricas, no verdades fijas.",
+    "fuente": "Aeon (Reino Unido/Australia)",
+    "url": "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions",
+    "fecha": "6 nov",
+    "tema": "Opinión"
+   }
+  ],
+  "pensamiento": [
+   {
+    "titulo": "El caballo hizo al Estado: una teoría pastoralista del origen de las civilizaciones",
+    "resumen": "Lhamsuren Munkh-Erdene sostiene que los Estados surgieron gracias al transporte no humano (caballos, burros, barcos) y la conquista, no por la agricultura de granos, y critica que el relato dominante borre a los imperios de la estepa.",
+    "fuente": "Aeon (Reino Unido/Australia)",
+    "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+    "fecha": "16 nov",
+    "tema": "Historia"
+   },
+   {
+    "titulo": "Teresa Bejan: la igualdad como algo que se practica, no solo que se define",
+    "resumen": "La filósofa repasa los significados contradictorios que acumuló la igualdad, de la identidad matemática a la indiferencia, y propone cuidar instituciones como el jurado, al estilo de los Levellers del siglo XVII, donde la gente actúa como igual.",
+    "fuente": "Aeon (Reino Unido/Australia)",
+    "url": "https://aeon.co/essays/historical-ideas-of-equality-help-us-imagine-an-equal-world",
+    "fecha": "9 nov",
+    "tema": "Filosofía"
+   },
+   {
+    "titulo": "Roshi Joan Halifax: una vida budista entre la muerte, el altruismo y el zen",
+    "resumen": "Perfil de la maestra zen de 84 años: de la antropología y la investigación psicodélica con moribundos a la fundación de Upaya; reflexiona sobre una experiencia cercana a la muerte y el 'altruismo patológico'.",
+    "fuente": "Aeon (Reino Unido/Australia)",
+    "url": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
+    "fecha": "10 nov",
+    "tema": "Espiritualidad"
+   },
+   {
+    "titulo": "Sale a la luz el piso original de la mayor catedral medieval de Nubia",
+    "resumen": "Arqueólogos de la Universidad de Varsovia y de Sudán descubrieron en Old Dongola parte del piso y la base de una gran escalinata de la Gran Iglesia de Jesús, probable sede del obispo de la capital del reino cristiano de Makuria.",
+    "fuente": "Archaeology Magazine (EE.UU.)",
+    "url": "https://archaeology.org/news/2026/11/09/archaeologists-uncover-original-floor-of-nubias-largest-medieval-cathedral/",
+    "fecha": "9 nov",
+    "tema": "Historia de la arquitectura"
+   },
+   {
+    "titulo": "Una de las autobiografías más antiguas: la tumba del funcionario egipcio Khuwy",
+    "resumen": "Bloques inscriptos en su tumba de Saqqara (c. 2400 a.C.) narran su vida y su integridad —'nunca le quité nada a nadie'— y nombran al rey Djedkare y la reina Setibhor, con quienes habría tenido trato cercano.",
+    "fuente": "Archaeology Magazine (EE.UU.)",
+    "url": "https://archaeology.org/news/2026/11/09/inscribed-blocks-record-egyptian-officials-biography/",
+    "fecha": "9 nov",
+    "tema": "Historia antigua"
+   },
+   {
+    "titulo": "La lápida de Rob Roy sería mil años más antigua que el forajido escocés",
+    "resumen": "Escaneos de la piedra en Balquhidder indican que fue tallada en la Alta Edad Media para un eclesiástico y que la espada y una escena de caza se añadieron en los siglos XV o XVI, mucho antes de la muerte de Rob Roy en 1734.",
+    "fuente": "Archaeology Magazine (EE.UU.)",
+    "url": "https://archaeology.org/news/2026/11/09/the-deep-history-behind-rob-roys-tombstone/",
+    "fecha": "9 nov",
+    "tema": "Figuras históricas"
+   }
+  ],
+  "x": [
+   {
+    "titulo": "Kicillof acusó en redes a Milei de \"adulterar\" a Belgrano y Valenzuela le respondió con un libro",
+    "resumen": "El gobernador bonaerense publicó que presentar a Belgrano como precursor libertario es falso y citó sus escritos a favor de la industria nacional; Diego Valenzuela le contestó en X que lea 'Belgrano, el primer liberal' y lo invitó a debatir.",
+    "fuente": "Infobae (Argentina)",
+    "url": "https://www.infobae.com/politica/2026/11/16/las-ideas-de-manuel-belgrano-desataron-otra-pelea-politica-axel-kicillof-cuestiono-al-presidente-y-diego-valenzuela-salio-al-cruce/",
+    "fecha": "16 nov",
+    "tema": "Axel Kicillof"
+   },
+   {
+    "titulo": "Villarruel se burló en X de la explicación de Santillán sobre la inflación: \"Piezas dignas de Capusotto\"",
+    "resumen": "La vicepresidenta respondió a un posteo con el video de la diputada libertaria, que atribuía parte del 2,2% de octubre a cambios en Zona Fría y subsidios al gas. Otra señal de la interna abierta en el oficialismo.",
+    "fuente": "La Pluma (Argentina)",
+    "url": "https://laplumadiario.com/piezas-dignas-de-capusotto-la-acida-burla-de-villarruel-a-una-diputada-de-milei/",
+    "fecha": "16 nov",
+    "tema": "Victoria Villarruel"
+   },
+   {
+    "titulo": "Milman advirtió en X que las \"colectoras\" de la reforma electoral podrían ser inconstitucionales",
+    "resumen": "El exdiputado cercano a Bullrich cuestionó en redes el sistema previsto para elegir senadores nacionales en el proyecto oficial, en medio de las tensiones entre el bullrichismo y los Milei.",
+    "fuente": "Resumen Latinoamericano (Argentina)",
+    "url": "https://www.resumenlatinoamericano.org/2026/11/16/argentina-interna-libertaria-bullrich-villarruel-y-santillan-exponen-las-grietas-del-oficialismo/",
+    "fecha": "16 nov",
+    "tema": "Gerardo Milman"
+   },
+   {
+    "titulo": "Trump atacó en Truth Social a '60 Minutes' por su informe sobre los drones iraníes",
+    "resumen": "Tras un reportaje sobre la denuncia de un militar por ataques con drones que mataron soldados en Kuwait y Jordania, Trump escribió que los nuevos responsables del programa son 'peores que sus antecesores' y defendió la eficacia de las defensas de EE.UU.",
+    "fuente": "Yahoo News (EE.UU.)",
+    "url": "https://www.yahoo.com/news/politics/articles/trump-lashes-60-minutes-over-220155110.html",
+    "fecha": "16 nov",
+    "tema": "Donald Trump"
+   },
+   {
+    "titulo": "Musk anticipó en X un Starship V4 todavía más grande: unos 70 metros y nueve motores",
+    "resumen": "El dueño de SpaceX publicó que la próxima versión del cohete será alrededor de 40% más larga, con más de 60% más de propelente y tres motores Raptor de vacío adicionales.",
+    "fuente": "Space.com (EE.UU.)",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
+    "fecha": "16 nov",
+    "tema": "Elon Musk"
+   },
+   {
+    "titulo": "Petro anunció que X dejará de ser su cuenta principal y se muda a WhatsApp",
+    "resumen": "El presidente colombiano acusó a la red de Musk de restringir ideas progresistas y favorecer a la ultraderecha con su algoritmo, y aceptó pasar de 9,1 millones de seguidores a unos 600.000 en su nuevo canal.",
+    "fuente": "Minuto60 (Colombia)",
+    "url": "https://minuto60.com/colombia/gustavo-petro-dejara-x-revelo-cual-sera-su-nueva-red-principal/18682",
+    "fecha": "10 nov",
+    "tema": "Gustavo Petro"
+   }
+  ],
+  "libros": [
+   {
+    "titulo": "\"Soy finalista del National Book Award y EE.UU. me negó la visa\": el testimonio de Abdelrahman ElGendy",
+    "resumen": "A días de la ceremonia del 18 de noviembre, el escritor egipcio cuenta que no podrá asistir porque le denegaron el visado, un caso que expone el cruce entre política migratoria y vida literaria.",
+    "fuente": "The New Yorker (EE.UU.)",
+    "url": "https://www.newyorker.com/books/page-turner/i-am-a-2026-national-book-award-finalist-the-us-denied-my-visa",
+    "fecha": "16 nov",
+    "tema": "Premios"
+   },
+   {
+    "titulo": "Cristina Fernández Cubas gana el Premio Cervantes 2026",
+    "resumen": "El jurado premió a la cuentista catalana, de 81 años, por renovar el relato breve y lo fantástico en español; recibirá el galardón el 23 de abril.",
+    "fuente": "Qué! (España)",
+    "url": "https://www.que.es/2026/11/04/premio-cervantes-2026-fernandez-cubas/",
+    "fecha": "4 nov",
+    "tema": "Premios"
+   },
+   {
+    "titulo": "La no ficción de noviembre: Mariana Enriquez, un inédito de Foucault y el pensamiento neorreaccionario",
+    "resumen": "Repaso de novedades de ensayo: el terror latinoamericano según Enriquez, 'Los hermafroditas' de Foucault, 'Votar a Hitler' de Fritzsche, Gargarella, Svampa y un libro de Elías Palti sobre la nueva derecha radical.",
+    "fuente": "Infobae (Argentina)",
+    "url": "https://www.infobae.com/cultura/2026/11/03/los-libros-de-no-ficcion-de-noviembre-del-terror-de-mariana-enriquez-a-un-inedito-de-foucault/",
+    "fecha": "3 nov",
+    "tema": "No ficción"
+   },
+   {
+    "titulo": "Recomendados de noviembre: Anne Carson, Javier Cercas y la primera novela de Almodóvar",
+    "resumen": "Selección que incluye 'Eros dulce y amargo' de Carson, el ensayo de Cercas sobre Gonzalo Suárez como primer posmoderno español y 'El hombre que solo escribía en los aviones', debut novelístico de Almodóvar.",
+    "fuente": "Semana (Colombia)",
+    "url": "https://www.semana.com/cultura/libros/articulo/recomendados-editoriales-noviembre-2026-ilustracion-ensayo-novela-cuentos-y-un-fotolibro/202623/",
+    "fecha": "13 nov",
+    "tema": "Novedades"
+   },
+   {
+    "titulo": "'Brother of the More Famous Jack', 30 años después: conversación con Barbara Trapido",
+    "resumen": "Rosa Lyster entrevista a la novelista sobre el legado de su clásico de culto y las amistades inventadas que lo sostienen.",
+    "fuente": "The Paris Review (EE.UU.)",
+    "url": "https://www.theparisreview.org/blog/2026/11/11/barbara-trapido-brother-more-famous-jack-rosa-lyster/",
+    "fecha": "11 nov",
+    "tema": "Ficción"
+   },
+   {
+    "titulo": "Gonçalo M. Tavares recibe el Formentor: \"La pobreza del lenguaje produce fascismos\"",
+    "resumen": "Al recoger el premio en Mallorca, el escritor portugués defendió la escritura libre e imaginativa como antídoto contra el fascismo y la ansiedad del flujo constante de malas noticias.",
+    "fuente": "Swissinfo/EFE (Suiza)",
+    "url": "https://www.swissinfo.ch/spa/tavares-recoge-el-premio-formentor-2026:-%22la-pobreza-del-lenguaje-produce-fascismos%22/92310751",
+    "fecha": "1 nov",
+    "tema": "Premios"
+   }
+  ],
+  "cine": [
+   {
+    "titulo": "'Gordon', la serie de Trapero y Fendrik sobre Aníbal Gordon y la violencia de los 70",
+    "resumen": "Basada en libros de Marcelo Larraquy, la miniserie con Rodrigo de la Serna recorre de Ezeiza y la Triple A al golpe de 1976; la crítica la considera incómoda y potente pese a algunos reparos. Se estrena el 18 en Netflix.",
+    "fuente": "Otros Cines (Argentina)",
+    "url": "https://www.otroscines.com/post/critica-de-gordon-serie-de-pablo-trapero-y-pablo-fendrik-con-rodrigo-de-la-serna-netflix",
+    "fecha": "13 nov",
+    "tema": "Series"
+   },
+   {
+    "titulo": "Premios del Cine Europeo: 'Tierra de mi padre' de Pawlikowski y 'La Bola Negra' lideran las nominaciones",
+    "resumen": "La película de Pawlikowski suma 11 candidaturas, la de Calvo y Ambrossi 10 y 'Fjord' de Mungiu 5; la ceremonia será el 16 de enero en Atenas.",
+    "fuente": "Otros Cines (Argentina)",
+    "url": "https://www.otroscines.com/post/european-film-awards-2027-tierra-de-mi-padre-y-la-bola-negra-lideran-las-nominaciones",
+    "fecha": "14 nov",
+    "tema": "Premios"
+   },
+   {
+    "titulo": "De Cannes a A24: el fenómeno de 'Club Kid', de Jordan Firstman",
+    "resumen": "La ópera prima que A24 compró por 17 millones tras una puja arrancó con buenas cifras en su estreno limitado en EE.UU.; aún no tiene fecha en Argentina.",
+    "fuente": "Otros Cines (Argentina)",
+    "url": "https://www.otroscines.com/post/de-cannes-al-sello-a24-el-fenomeno-artistico-y-comercial-de-club-kid",
+    "fecha": "15 nov",
+    "tema": "A24"
+   },
+   {
+    "titulo": "Cine argentino en Mar del Plata: 'Cebar, frenar, llorar' y el documental sobre Ignacio Ezcurra",
+    "resumen": "Críticas de la ópera prima de Gerardo Tassan, un duelo entre un viudo y un investigador de seguros, y de 'Un precio que tenemos que pagar', de Ricardo Preve, sobre el periodista argentino muerto en Saigón en 1968.",
+    "fuente": "Otros Cines (Argentina)",
+    "url": "https://www.otroscines.com/post/cine-argentino-en-el-festival-de-mar-del-plata-2026-criticas-de-cebar-frenar-llorar-y-un-precio-que-tenemos-que-pagar",
+    "fecha": "14 nov",
+    "tema": "Cine argentino"
+   },
+   {
+    "titulo": "Contarnos historias para cambiar: Kristen Roupenian sobre el cine de Jane Schoenbrun",
+    "resumen": "Ensayo crítico sobre la obra de la directora de 'I Saw the TV Glow' a partir de 'Teenage Sex and Death at Camp Miasma' y su universo audiovisual.",
+    "fuente": "The New York Review of Books (EE.UU.)",
+    "url": "https://www.nybooks.com/articles/2026/12/03/we-tell-ourselves-stories-in-order-to-change-jane-schoenbrun/",
+    "fecha": "13 nov",
+    "tema": "Crítica"
+   },
+   {
+    "titulo": "Olivia Laing y el mundo del cine italiano de los años 70",
+    "resumen": "Conversación sobre cómo retratar la efervescencia del cine italiano de esa década y sus vínculos con la política y la cultura de la época.",
+    "fuente": "Literary Hub (EE.UU.)",
+    "url": "https://lithub.com/olivia-laing-on-chronicling-the-world-of-1970s-italian-cinema/",
+    "fecha": "13 nov",
+    "tema": "Cine de autor"
+   }
+  ],
+  "arte": [
+   {
+    "titulo": "Un manuscrito de visiones apocalípticas del siglo XVI podría venderse por un millón de libras",
+    "resumen": "Christie's subastará en Londres el 'Libro de los milagros', hecho en Augsburgo hacia 1552 con 167 acuarelas de fenómenos naturales reales e imaginarios y escenas bíblicas, el 10 de diciembre.",
+    "fuente": "The Art Newspaper (Reino Unido)",
+    "url": "https://www.theartnewspaper.com/2026/11/16/manuscript-filled-with-16th-century-apocalyptic-visions-could-fetch-%C2%A31-million-at-auction",
+    "fecha": "16 nov",
+    "tema": "Mercado"
+   },
+   {
+    "titulo": "SP Architects reconvierte el viejo predio de la Expo de Antalya para la COP31",
+    "resumen": "El proyecto reutiliza unos 65.000 m² de edificios existentes con agregados modulares, divididos en Zona Azul y Zona Verde, y prevé usos feriales y culturales tras la cumbre.",
+    "fuente": "Designboom (Italia)",
+    "url": "https://www.designboom.com/architecture/sp-architects-cop31-antalya-expo-grounds-architecture/",
+    "fecha": "16 nov",
+    "tema": "Arquitectura"
+   },
+   {
+    "titulo": "Las fotos del salón de baile de Trump en la Casa Blanca muestran su escala y desatan críticas",
+    "resumen": "Con la estructura ya levantada, las imágenes dejan ver el tamaño del nuevo salón junto al edificio histórico y renuevan las críticas al proyecto.",
+    "fuente": "Dezeen (Reino Unido)",
+    "url": "https://www.dezeen.com/2026/11/16/white-house-ballroom-topping-out/",
+    "fecha": "16 nov",
+    "tema": "Arquitectura"
+   },
+   {
+    "titulo": "Kengo Kuma levanta una casa circular con techo de paja, madera y tierra en Japón",
+    "resumen": "La casa principal de Kagaku no Sato, en Ibaraki, usa troncos raleados de bosques cercanos escaneados en 3D, pisos de tierra y techado tradicional; fue premiada en los Wood Design Awards 2026.",
+    "fuente": "Designboom (Italia)",
+    "url": "https://www.designboom.com/architecture/kengo-kuma-circular-thatched-house-timber-earth-japan/",
+    "fecha": "13 nov",
+    "tema": "Arquitectura"
+   },
+   {
+    "titulo": "'Avedon', de Ron Howard: el gran fotógrafo, visto con demasiada reverencia",
+    "resumen": "El documental de Netflix aprovecha el archivo de Richard Avedon y resulta visualmente atractivo, pero la crítica lo encuentra convencional y poco dispuesto a explorar las polémicas de su obra.",
+    "fuente": "Otros Cines (Argentina)",
+    "url": "https://www.otroscines.com/post/critica-de-avedon-documental-de-ron-howard-netflix",
+    "fecha": "15 nov",
+    "tema": "Fotografía"
+   },
+   {
+    "titulo": "Aparecen dos Caravaggio: un lienzo olvidado en París y un retrato vendido como anónimo",
+    "resumen": "Dos historiadores italianos atribuyen al pintor un 'Joven con un jarrón de rosas' hallado en una galería parisina, valuado en al menos 30 millones de euros, y un retrato subastado en Viena en 2017 por menos de 4.000 euros.",
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/cultura/2026/11/11/aparecieron-dos-caravaggio-un-lienzo-olvidado-en-una-galeria-de-paris-y-un-retrato-que-se-vendio-por-usd-4-mil-como-obra-anonima/",
+    "fecha": "11 nov",
+    "tema": "Arte"
+   }
+  ],
+  "videos": [
+   {
+    "titulo": "John Kiriakou y la exespía rusa Aliia Roza en The Diary Of A CEO: operaciones 'honeypot', espionaje chino y chips de Nvidia",
+    "resumen": "El exagente de la CIA y una exoperativa de inteligencia rusa explican cómo se capta y manipula a un objetivo (seducción, aislamiento, perfiles psicológicos) y repasan el caso de una supuesta operación china para conseguir chips de IA restringidos; sostienen que Trump sabía del espía y no le importó.",
+    "fuente": "The Diary Of A CEO",
+    "url": "https://podcasts.apple.com/nz/podcast/ex-cia-officer-trump-knew-about-the-china-spy-and/id1291423644?i=1000802189633",
+    "fecha": "16 nov",
+    "tema": "Inteligencia, espionaje, China"
+   },
+   {
+    "titulo": "Victor Davis Hanson: castigar a Nvidia sería regalarle a China la corona de la IA",
+    "resumen": "Hanson sostiene que EE.UU. le lleva a China entre seis y doce meses en inteligencia artificial y que ir contra Nvidia desperdiciaría esa ventaja; además analiza el discurso de 'asequibilidad' que relanzó a los demócratas y advierte a los republicanos sobre su mensaje económico.",
+    "fuente": "Victor Davis Hanson",
+    "url": "https://podcasts.apple.com/us/podcast/victor-davis-hanson-kneecap-nvidia-hand-china-the-ai-crown/id1566731706?i=1000801915603",
+    "fecha": "14 nov",
+    "tema": "IA, China, política de EE.UU."
+   },
+   {
+    "titulo": "Triggernometry con Brandon Tatum: ¿está dividida la derecha por la guerra con Irán?",
+    "resumen": "El comentarista conservador defiende el manejo de Trump de la guerra con Irán aunque pide que termine, afirma que la derecha está menos dividida de lo que muestran las redes y critica a Candace Owens y a Tucker Carlson por sus posturas sobre Israel.",
+    "fuente": "Triggernometry",
+    "url": "https://podcasts.apple.com/cg/podcast/will-trump-nuke-iran-brandon-tatum/id1375568988?i=1000801952260",
+    "fecha": "14 nov",
+    "tema": "Política de EE.UU., Irán"
+   },
+   {
+    "titulo": "Dave Smith con Scott Horton: el freno al juicio político contra Hegseth y el lugar de los libertarios en la derecha",
+    "resumen": "Desde una mirada libertaria y antiguerra, Smith y Horton analizan cómo se frenó la iniciativa de Thomas Massie para destituir al secretario de Defensa Pete Hegseth y qué futuro tiene la derecha estadounidense tras las elecciones de medio término.",
+    "fuente": "Dave Smith (Part of the Problem)",
+    "url": "https://podcasts.apple.com/us/podcast/scott-horton/id833706616?i=1000801339193",
+    "fecha": "12 nov",
+    "tema": "Política de EE.UU., libertarismo"
+   },
+   {
+    "titulo": "Chris Williamson con Alex O'Connor: por qué los ateos vuelven a encontrarse con Dios",
+    "resumen": "El divulgador británico cuenta cómo cambiaron sus ideas, por qué hay gente que se aleja del ateísmo, si la conciencia complica los argumentos ateos y qué efecto práctico tienen la meditación y la oración.",
+    "fuente": "Chris Williamson (Modern Wisdom)",
+    "url": "https://podcasts.apple.com/us/podcast/why-atheists-keep-finding-god-in-everything-alex-oconnor/id1347973549?i=1000801382834",
+    "fecha": "12 nov",
+    "tema": "Filosofía, religión, conciencia"
+   },
+   {
+    "titulo": "Glenn Diesen con John Mearsheimer: Europa sacrifica a Ucrania y a sí misma",
+    "resumen": "El politólogo realista de Chicago repasa el paso a un mundo multipolar, sostiene que la guerra se define en el campo de batalla y advierte sobre los costos demográficos y económicos para Ucrania y el futuro de la seguridad europea.",
+    "fuente": "Glenn Diesen",
+    "url": "https://podcasts.apple.com/in/podcast/john-mearsheimer-europe-sacrifices-ukraine-and-itself/id1822142909?i=1000801276916",
+    "fecha": "11 nov",
+    "tema": "Geopolítica, Ucrania, Europa"
+   }
+  ]
+ }
+}
