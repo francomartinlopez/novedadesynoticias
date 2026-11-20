@@ -48,7 +48,13 @@ Lector: arquitecto y gerente operativo industrial, consultor en sistemas de gest
 
 **Cultura**
 - Libros de no ficción (historia, ciencia, economía, ideas, urbanismo) y buena ficción, premios literarios (Nadal, Booker, etc.).
-- Cine de autor, ciencia ficción de calidad, cine argentino y A24, series políticas.
+- **Cine y series (sección Cine):** priorizar el cine grande y de calidad con llegada masiva, NO el cine nacional ni el alternativo/de festival chico:
+  - películas sobre casos y figuras históricas y biopics (tipo la película de De Gaulle), dramas de época y políticos;
+  - estrenos y anuncios de A24;
+  - películas con grandes actores (Meryl Streep, Tom Hanks y estrellas de ese nivel);
+  - superproducciones y franquicias de calidad (tipo Guardianes de la Galaxia / Marvel, ciencia ficción tipo Disclosure Day de Spielberg);
+  - series biográficas y de personajes reales (tipo la serie de Moria), series históricas y políticas de plataformas (Netflix, HBO/Max, Apple TV, Prime).
+  - Cine argentino o independiente solo si es un caso muy relevante (premio importante, gran estreno, récord), como máximo 1 nota.
 - Arquitectura (obras, concursos, bienales), diseño de interiores, mobiliario, paisajismo, iluminación arquitectónica, arte y fotografía.
 
 ## Cómo priorizar
