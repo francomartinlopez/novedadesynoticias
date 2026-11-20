@@ -47,7 +47,12 @@ Lector: arquitecto y gerente operativo industrial, consultor en sistemas de gest
 - IA (modelos, empresas, regulación, usos en industria y Estado), libertad e innovación, privacidad.
 
 **Cultura**
-- Libros de no ficción (historia, ciencia, economía, ideas, urbanismo) y buena ficción, premios literarios (Nadal, Booker, etc.).
+- **Libros (sección Libros):** priorizar no ficción de fondo:
+  - teoría y divulgación seria de ciencias duras (física, cosmología, biología, evolución, matemática, neurociencia);
+  - teoría de las ciencias sociales (economía, ciencia política, sociología, relaciones internacionales, filosofía política);
+  - biografías de personajes históricos;
+  - libros de historia (antigua, moderna, de guerras, de civilizaciones, de Argentina y del mundo).
+  - Ficción y premios literarios solo como complemento (como máximo 1 nota).
 - **Cine y series (sección Cine):** priorizar el cine grande y de calidad con llegada masiva, NO el cine nacional ni el alternativo/de festival chico:
   - películas sobre casos y figuras históricas y biopics (tipo la película de De Gaulle), dramas de época y políticos;
   - estrenos y anuncios de A24;

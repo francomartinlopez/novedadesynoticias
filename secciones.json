@@ -80,7 +80,8 @@
  },
  {
   "id": "libros",
-  "titulo": "Libros"
+  "titulo": "Libros",
+  "sub": "Teoría de ciencias duras y sociales, biografías históricas e historia"
  },
  {
   "id": "cine",
